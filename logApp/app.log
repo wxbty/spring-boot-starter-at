@@ -1,0 +1,2 @@
+[INFO ]2022-09-04 11:59:41.605 [SpringContextShutdownHook]ThreadPoolTaskScheduler[218] | Shutting down ExecutorService 'taskScheduler'
+[INFO ]2022-09-04 11:59:41.724 [SpringContextShutdownHook]DruidDataSource[1823] | {dataSource-1} closed

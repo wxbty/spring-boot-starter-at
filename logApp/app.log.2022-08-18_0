@@ -1,0 +1,1271 @@
+[WARN ]2022-08-18 00:36:34.033 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s1ms).
+[WARN ]2022-08-18 00:39:40.120 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m5s835ms).
+[WARN ]2022-08-18 00:44:53.142 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s23ms).
+[WARN ]2022-08-18 00:50:36.202 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s56ms).
+[WARN ]2022-08-18 00:55:49.214 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s11ms).
+[WARN ]2022-08-18 01:01:32.238 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s21ms).
+[WARN ]2022-08-18 01:07:15.270 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s26ms).
+[WARN ]2022-08-18 01:12:28.283 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s13ms).
+[WARN ]2022-08-18 01:18:11.290 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s11ms).
+[WARN ]2022-08-18 01:23:24.436 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s146ms).
+[WARN ]2022-08-18 01:29:12.497 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m18s48ms).
+[WARN ]2022-08-18 01:34:55.536 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s23ms).
+[WARN ]2022-08-18 01:40:08.573 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s36ms).
+[WARN ]2022-08-18 01:45:51.565 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s990ms).
+[WARN ]2022-08-18 01:51:34.568 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s3ms).
+[WARN ]2022-08-18 01:56:47.600 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s32ms).
+[WARN ]2022-08-18 02:02:30.630 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s19ms).
+[WARN ]2022-08-18 02:06:49.059 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m18s430ms).
+[WARN ]2022-08-18 02:12:32.128 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s64ms).
+[WARN ]2022-08-18 02:17:45.133 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s5ms).
+[WARN ]2022-08-18 02:23:28.197 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s50ms).
+[WARN ]2022-08-18 02:29:11.221 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s14ms).
+[WARN ]2022-08-18 02:34:24.228 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s7ms).
+[WARN ]2022-08-18 02:40:07.240 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s5ms).
+[WARN ]2022-08-18 02:55:32.351 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=54s948ms).
+[WARN ]2022-08-18 03:01:15.353 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s2ms).
+[WARN ]2022-08-18 03:06:28.366 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s13ms).
+[WARN ]2022-08-18 03:12:11.390 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s10ms).
+[WARN ]2022-08-18 03:17:54.407 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s7ms).
+[WARN ]2022-08-18 03:23:07.422 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s16ms).
+[WARN ]2022-08-18 03:28:50.454 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s22ms).
+[WARN ]2022-08-18 03:34:03.453 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s998ms).
+[WARN ]2022-08-18 03:39:46.462 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s2ms).
+[WARN ]2022-08-18 03:45:29.499 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s30ms).
+[WARN ]2022-08-18 03:50:42.509 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s9ms).
+[WARN ]2022-08-18 03:56:25.494 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s995ms).
+[WARN ]2022-08-18 04:01:38.565 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s72ms).
+[WARN ]2022-08-18 04:07:21.571 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s3ms).
+[WARN ]2022-08-18 04:13:04.557 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s980ms).
+[WARN ]2022-08-18 04:18:17.591 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s34ms).
+[WARN ]2022-08-18 04:24:00.603 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s9ms).
+[WARN ]2022-08-18 04:29:13.624 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s21ms).
+[WARN ]2022-08-18 04:34:56.643 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s3ms).
+[WARN ]2022-08-18 04:40:39.656 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s3ms).
+[WARN ]2022-08-18 04:45:52.671 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s15ms).
+[WARN ]2022-08-18 04:51:35.748 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s68ms).
+[WARN ]2022-08-18 04:57:18.774 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s12ms).
+[WARN ]2022-08-18 05:02:31.784 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s10ms).
+[WARN ]2022-08-18 05:08:14.806 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s10ms).
+[WARN ]2022-08-18 05:13:27.869 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s62ms).
+[WARN ]2022-08-18 05:19:10.889 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s16ms).
+[WARN ]2022-08-18 05:24:53.900 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s4ms).
+[WARN ]2022-08-18 05:28:50.724 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m56s821ms).
+[WARN ]2022-08-18 05:34:33.821 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s66ms).
+[WARN ]2022-08-18 05:40:16.857 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s26ms).
+[WARN ]2022-08-18 05:55:41.946 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=54s877ms).
+[WARN ]2022-08-18 06:00:54.946 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s1ms).
+[WARN ]2022-08-18 06:06:38.006 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s55ms).
+[WARN ]2022-08-18 06:11:50.999 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s993ms).
+[WARN ]2022-08-18 06:17:34.025 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s9ms).
+[WARN ]2022-08-18 06:23:17.040 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s4ms).
+[WARN ]2022-08-18 06:29:00.083 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s41ms).
+[WARN ]2022-08-18 06:34:13.094 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s11ms).
+[WARN ]2022-08-18 06:39:56.110 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s7ms).
+[WARN ]2022-08-18 06:45:39.105 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s987ms).
+[WARN ]2022-08-18 06:50:52.094 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s989ms).
+[WARN ]2022-08-18 06:56:35.082 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s8ms).
+[WARN ]2022-08-18 07:02:18.138 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s54ms).
+[WARN ]2022-08-18 07:07:31.143 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s5ms).
+[WARN ]2022-08-18 07:13:14.168 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s10ms).
+[WARN ]2022-08-18 07:18:27.230 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s62ms).
+[WARN ]2022-08-18 07:24:10.243 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s3ms).
+[WARN ]2022-08-18 07:29:53.263 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s11ms).
+[WARN ]2022-08-18 07:35:06.321 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s58ms).
+[WARN ]2022-08-18 07:40:49.394 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s66ms).
+[WARN ]2022-08-18 07:46:02.397 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s3ms).
+[WARN ]2022-08-18 07:51:45.415 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s23ms).
+[WARN ]2022-08-18 07:57:28.494 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s67ms).
+[WARN ]2022-08-18 08:02:41.500 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s6ms).
+[WARN ]2022-08-18 08:04:57.194 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m45s701ms).
+[INFO ]2022-08-18 09:03:22.455 [SpringContextShutdownHook]ThreadPoolTaskExecutor[218] | Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ]2022-08-18 09:03:22.466 [SpringContextShutdownHook]HikariDataSource[350] | HikariPool-1 - Shutdown initiated...
+[INFO ]2022-08-18 09:03:22.480 [SpringContextShutdownHook]HikariDataSource[352] | HikariPool-1 - Shutdown completed.
+[INFO ]2022-08-18 23:09:57.545 [main]ApiApplication[55] | Starting ApiApplication on 192.168.10.102 with PID 3362 (/Users/fgh/IdeaProjects/pencil/pencil-api/target/classes started by fgh in /Users/fgh/IdeaProjects/pencil)
+[INFO ]2022-08-18 23:09:57.615 [main]ApiApplication[655] | The following profiles are active: local
+[WARN ]2022-08-18 23:09:59.032 [main]ClassPathMapperScanner[239] | Skipping MapperFactoryBean with name 'tokenDao' and 'com.freeter.modules.token.dao.TokenDao' mapperInterface. Bean already defined with the same name!
+[INFO ]2022-08-18 23:09:59.297 [main]RepositoryConfigurationDelegate[249] | Multiple Spring Data modules found, entering strict repository configuration mode!
+[INFO ]2022-08-18 23:09:59.299 [main]RepositoryConfigurationDelegate[127] | Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+[INFO ]2022-08-18 23:09:59.380 [main]RepositoryConfigurationDelegate[187] | Finished Spring Data repository scanning in 65ms. Found 0 Redis repository interfaces.
+[INFO ]2022-08-18 23:09:59.792 [main]PostProcessorRegistrationDelegate$BeanPostProcessorChecker[330] | Bean 'threadPoolConfig' of type [com.freeter.config.ThreadPoolConfig$$EnhancerBySpringCGLIB$$7deed4bf] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[INFO ]2022-08-18 23:10:00.389 [main]TomcatWebServer[92] | Tomcat initialized with port(s): 8180 (http)
+[INFO ]2022-08-18 23:10:00.396 [main]Http11NioProtocol[173] | Initializing ProtocolHandler ["http-nio-8180"]
+[INFO ]2022-08-18 23:10:00.397 [main]StandardService[173] | Starting service [Tomcat]
+[INFO ]2022-08-18 23:10:00.397 [main]StandardEngine[173] | Starting Servlet engine: [Apache Tomcat/9.0.31]
+[INFO ]2022-08-18 23:10:00.524 [main][/][173] | Initializing Spring embedded WebApplicationContext
+[INFO ]2022-08-18 23:10:00.526 [main]ContextLoader[284] | Root WebApplicationContext: initialization completed in 2739 ms
+[INFO ]2022-08-18 23:10:01.053 [main]DruidDataSourceAutoConfigure[56] | Init DruidDataSource
+[INFO ]2022-08-18 23:10:04.355 [main]DruidDataSource[928] | {dataSource-1} inited
+[WARN ]2022-08-18 23:10:05.235 [main]AutoSqlInjector[145] | class com.freeter.modules.advert.entity.BroadcastEntity ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+[INFO ]2022-08-18 23:10:06.552 [main]ThreadPoolTaskExecutor[181] | Initializing ExecutorService
+[INFO ]2022-08-18 23:10:06.554 [main]ThreadPoolTaskExecutor[181] | Initializing ExecutorService 'threadPoolTaskExecutor'
+[INFO ]2022-08-18 23:10:07.125 [main]AlipayConfig[46] | cert={"charset":"UTF-8","privateKey":"MIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC8EK8cjEsjdHqkVAX1TU6gezEjHaJvQWa+LtYnEKOZp2gs9eDCTi35bIi0jnP408ZaueLxLXgfbXy6YZsQAy4Sr2tS8EwA016VqVANfU8sz0PujBX2xhz9ga2f/c65DbayKIZ5cTVZAyn/3i/CKup6aUJAscNyheBxW42Jt+dbb6eqjEUKpJhtqBosBJxlxJRH4YQXPcpaYdF/Ge+rTX0lLtABEVrUOcEM4Pvb3u9WqY6j3f9jUxf2VkOKjoIzZcJ6F/DmcMGUTM8W8fscEbQYwdv62ZbT52a/4/S7kxAOawP3yoNnES5+iki1kPaAWr+LtWiyHUIA9PU/x1QGx9QtAgMBAAECggEAXUvpk0AGBpDCRsNoMUkouHRk7AbHjmnjjnWtx7N5dcCW7bcMyVf/dr1hFDGXVtm4jUmqS/tCnFS0i8HgKxFoydw8YejTy5UQVy6niAmiPZiVGsJkIwglWZ37hGNlKmijOb7g914yGPZ433ZaOvkPWareMzn8u9OuhI3mqWuSWskvXd8csap+7jut9Zn0OlYgnHFu52HoQL9i8rtMDp9PTS36ec1dWioQs2DtRwethj3WE77B11zeHfXE2m3heDFHVm2X6duJ66xUUh8WQI+myTJzvzVGDNBfNgf43Xii6NeUJbV3ZLvqdqNXt/VR7tskrskuuGp4kuP1YqnAmCXEAQKBgQDnqLKehTfEieGVDkQl+JCA3TeepB9iyfVZplH5Z/HmkqC4bZHwj9Xx6gq3kDbUvjzMNu8bagvjxWGVUtWyfN10ZX61jBtj+R9OLeWWfzPSQpvCqo4ql+AORFqvE55l84COsMj4C1f2uxen3HBbd4NveaiVEt0LMAR0uADxDBK6NwKBgQDP01+9kfeIGr8+LU/BWnnpMRKgNwSUpUblT3jad+3/i4V3As5Z1HUcAbC34uy6vN7uIS22cfsxNVWqkAPuJ0RG9vQUXXS0uwCnOMUFHpWCZZJ4Kq4nLb3tmPXA02iRJgu93ZuFGtDIf8++XY9k1BOhoU+eMTG32EYbL9hAMVWiuwKBgA0IYZwndH67HxTKq6zTMhX93A4xv45IPGRhxgTZAzPsldwqVeaJwQiOGTJAi8UmOrdmc8dADREwXpAPC/Sxr6fHufwuuK/EKS21yU/RMjInCypFfCALUVCcKdnlqaikrVvZuES0Jqu71NXdwfhzXdKcro5MdGEXv3htjagB/N+7AoGAM6kkfHgjYvbbITacQ8Ec2uWy7paekeC/zdLChPQY+lQRWjMdXmEct1iIOD21gPngJKuktFyDB4ltgReJkpK6OzW6GLHeh+qQUAEhoJMosSBUl4BsiBqrwrsqI8Opk6M0ef7zYNP4oE59MqIJOhQpyRzTMMyjwkKFss5i4BojYm8CgYAOZOqHOHY0feF7Yg5SA8+IAqfRQE+pAkQeM5sVplxaI4mt+dfRrWsj7QkhFkHTTrl92CUOv6YPto26XuqbKmc20tXxmx26xNw2N+ofZfqG3s8NkQZY6/JxniOnp392SzxPYA06owfPWR6ODMYzChTCRvBEyPf3lv+Pab6XoR6LZQ==","alipayPublicCertPath":"/Users/fgh/work/CSR/alipayCertPublicKey_RSA2.crt","proxyPort":0,"certPath":"/Users/fgh/work/CSR/appCertPublicKey_2021003141686044.crt","serverUrl":"https://openapi.alipay.com/gateway.do","appId":"2021003141686044","format":"JSON","signType":"RSA2","rootCertPath":"/Users/fgh/work/CSR/alipayRootCert.crt"}
+[WARN ]2022-08-18 23:10:07.569 [main]AnnotationConfigServletWebServerApplicationContext[558] | Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'opMerchantController': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'server.host' in value "${server.host}"
+[INFO ]2022-08-18 23:10:07.571 [main]ThreadPoolTaskExecutor[218] | Shutting down ExecutorService 'threadPoolTaskExecutor'
+[INFO ]2022-08-18 23:10:07.596 [main]DruidDataSource[1823] | {dataSource-1} closed
+[INFO ]2022-08-18 23:10:07.627 [main]StandardService[173] | Stopping service [Tomcat]
+[INFO ]2022-08-18 23:10:07.655 [main]ConditionEvaluationReportLoggingListener[136] | 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+[ERROR]2022-08-18 23:10:07.669 [main]SpringApplication[826] | Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'opMerchantController': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'server.host' in value "${server.host}"
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:405)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1422)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:594)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:517)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:323)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:321)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:879)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:878)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:550)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:141)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:747)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1215)
+	at com.freeter.ApiApplication.main(ApiApplication.java:40)
+Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'server.host' in value "${server.host}"
+	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:178)
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:124)
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:236)
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:210)
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:175)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:909)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1228)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1207)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:640)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:130)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+	... 17 common frames omitted
+[INFO ]2022-08-18 23:10:53.909 [main]ApiApplication[55] | Starting ApiApplication on 192.168.10.102 with PID 3379 (/Users/fgh/IdeaProjects/pencil/pencil-api/target/classes started by fgh in /Users/fgh/IdeaProjects/pencil)
+[INFO ]2022-08-18 23:10:53.912 [main]ApiApplication[655] | The following profiles are active: local
+[WARN ]2022-08-18 23:10:55.107 [main]ClassPathMapperScanner[239] | Skipping MapperFactoryBean with name 'tokenDao' and 'com.freeter.modules.token.dao.TokenDao' mapperInterface. Bean already defined with the same name!
+[INFO ]2022-08-18 23:10:55.358 [main]RepositoryConfigurationDelegate[249] | Multiple Spring Data modules found, entering strict repository configuration mode!
+[INFO ]2022-08-18 23:10:55.360 [main]RepositoryConfigurationDelegate[127] | Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+[INFO ]2022-08-18 23:10:55.429 [main]RepositoryConfigurationDelegate[187] | Finished Spring Data repository scanning in 60ms. Found 0 Redis repository interfaces.
+[INFO ]2022-08-18 23:10:55.809 [main]PostProcessorRegistrationDelegate$BeanPostProcessorChecker[330] | Bean 'threadPoolConfig' of type [com.freeter.config.ThreadPoolConfig$$EnhancerBySpringCGLIB$$c70f9514] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[INFO ]2022-08-18 23:10:56.415 [main]TomcatWebServer[92] | Tomcat initialized with port(s): 8180 (http)
+[INFO ]2022-08-18 23:10:56.422 [main]Http11NioProtocol[173] | Initializing ProtocolHandler ["http-nio-8180"]
+[INFO ]2022-08-18 23:10:56.423 [main]StandardService[173] | Starting service [Tomcat]
+[INFO ]2022-08-18 23:10:56.423 [main]StandardEngine[173] | Starting Servlet engine: [Apache Tomcat/9.0.31]
+[INFO ]2022-08-18 23:10:56.508 [main][/][173] | Initializing Spring embedded WebApplicationContext
+[INFO ]2022-08-18 23:10:56.511 [main]ContextLoader[284] | Root WebApplicationContext: initialization completed in 2518 ms
+[INFO ]2022-08-18 23:10:56.967 [main]DruidDataSourceAutoConfigure[56] | Init DruidDataSource
+[INFO ]2022-08-18 23:11:00.210 [main]DruidDataSource[928] | {dataSource-1} inited
+[WARN ]2022-08-18 23:11:00.998 [main]AutoSqlInjector[145] | class com.freeter.modules.advert.entity.BroadcastEntity ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+[INFO ]2022-08-18 23:11:02.296 [main]ThreadPoolTaskExecutor[181] | Initializing ExecutorService
+[INFO ]2022-08-18 23:11:02.298 [main]ThreadPoolTaskExecutor[181] | Initializing ExecutorService 'threadPoolTaskExecutor'
+[INFO ]2022-08-18 23:11:02.898 [main]AlipayConfig[46] | cert={"charset":"UTF-8","privateKey":"MIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC8EK8cjEsjdHqkVAX1TU6gezEjHaJvQWa+LtYnEKOZp2gs9eDCTi35bIi0jnP408ZaueLxLXgfbXy6YZsQAy4Sr2tS8EwA016VqVANfU8sz0PujBX2xhz9ga2f/c65DbayKIZ5cTVZAyn/3i/CKup6aUJAscNyheBxW42Jt+dbb6eqjEUKpJhtqBosBJxlxJRH4YQXPcpaYdF/Ge+rTX0lLtABEVrUOcEM4Pvb3u9WqY6j3f9jUxf2VkOKjoIzZcJ6F/DmcMGUTM8W8fscEbQYwdv62ZbT52a/4/S7kxAOawP3yoNnES5+iki1kPaAWr+LtWiyHUIA9PU/x1QGx9QtAgMBAAECggEAXUvpk0AGBpDCRsNoMUkouHRk7AbHjmnjjnWtx7N5dcCW7bcMyVf/dr1hFDGXVtm4jUmqS/tCnFS0i8HgKxFoydw8YejTy5UQVy6niAmiPZiVGsJkIwglWZ37hGNlKmijOb7g914yGPZ433ZaOvkPWareMzn8u9OuhI3mqWuSWskvXd8csap+7jut9Zn0OlYgnHFu52HoQL9i8rtMDp9PTS36ec1dWioQs2DtRwethj3WE77B11zeHfXE2m3heDFHVm2X6duJ66xUUh8WQI+myTJzvzVGDNBfNgf43Xii6NeUJbV3ZLvqdqNXt/VR7tskrskuuGp4kuP1YqnAmCXEAQKBgQDnqLKehTfEieGVDkQl+JCA3TeepB9iyfVZplH5Z/HmkqC4bZHwj9Xx6gq3kDbUvjzMNu8bagvjxWGVUtWyfN10ZX61jBtj+R9OLeWWfzPSQpvCqo4ql+AORFqvE55l84COsMj4C1f2uxen3HBbd4NveaiVEt0LMAR0uADxDBK6NwKBgQDP01+9kfeIGr8+LU/BWnnpMRKgNwSUpUblT3jad+3/i4V3As5Z1HUcAbC34uy6vN7uIS22cfsxNVWqkAPuJ0RG9vQUXXS0uwCnOMUFHpWCZZJ4Kq4nLb3tmPXA02iRJgu93ZuFGtDIf8++XY9k1BOhoU+eMTG32EYbL9hAMVWiuwKBgA0IYZwndH67HxTKq6zTMhX93A4xv45IPGRhxgTZAzPsldwqVeaJwQiOGTJAi8UmOrdmc8dADREwXpAPC/Sxr6fHufwuuK/EKS21yU/RMjInCypFfCALUVCcKdnlqaikrVvZuES0Jqu71NXdwfhzXdKcro5MdGEXv3htjagB/N+7AoGAM6kkfHgjYvbbITacQ8Ec2uWy7paekeC/zdLChPQY+lQRWjMdXmEct1iIOD21gPngJKuktFyDB4ltgReJkpK6OzW6GLHeh+qQUAEhoJMosSBUl4BsiBqrwrsqI8Opk6M0ef7zYNP4oE59MqIJOhQpyRzTMMyjwkKFss5i4BojYm8CgYAOZOqHOHY0feF7Yg5SA8+IAqfRQE+pAkQeM5sVplxaI4mt+dfRrWsj7QkhFkHTTrl92CUOv6YPto26XuqbKmc20tXxmx26xNw2N+ofZfqG3s8NkQZY6/JxniOnp392SzxPYA06owfPWR6ODMYzChTCRvBEyPf3lv+Pab6XoR6LZQ==","alipayPublicCertPath":"/Users/fgh/work/CSR/alipayCertPublicKey_RSA2.crt","proxyPort":0,"certPath":"/Users/fgh/work/CSR/appCertPublicKey_2021003141686044.crt","serverUrl":"https://openapi.alipay.com/gateway.do","appId":"2021003141686044","format":"JSON","signType":"RSA2","rootCertPath":"/Users/fgh/work/CSR/alipayRootCert.crt"}
+[INFO ]2022-08-18 23:11:03.854 [main]CachingConnectionFactory[531] | Attempting to connect to: 127.0.0.1:5672
+[WARN ]2022-08-18 23:11:03.864 [main]AnnotationConfigServletWebServerApplicationContext[558] | Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'amqpAdmin' defined in class path resource [com/freeter/config/RabbitMqConfig.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.amqp.core.AmqpAdmin]: Factory method 'amqpAdmin' threw exception; nested exception is org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused (Connection refused)
+[INFO ]2022-08-18 23:11:03.867 [main]ThreadPoolTaskExecutor[218] | Shutting down ExecutorService 'threadPoolTaskExecutor'
+[INFO ]2022-08-18 23:11:03.883 [main]DruidDataSource[1823] | {dataSource-1} closed
+[INFO ]2022-08-18 23:11:03.906 [main]StandardService[173] | Stopping service [Tomcat]
+[INFO ]2022-08-18 23:11:03.929 [main]ConditionEvaluationReportLoggingListener[136] | 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+[ERROR]2022-08-18 23:11:03.945 [main]SpringApplication[826] | Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'amqpAdmin' defined in class path resource [com/freeter/config/RabbitMqConfig.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.amqp.core.AmqpAdmin]: Factory method 'amqpAdmin' threw exception; nested exception is org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused (Connection refused)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:656)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:636)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1338)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1177)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:557)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:517)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:323)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:321)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:879)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:878)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:550)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:141)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:747)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1215)
+	at com.freeter.ApiApplication.main(ApiApplication.java:40)
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.amqp.core.AmqpAdmin]: Factory method 'amqpAdmin' threw exception; nested exception is org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused (Connection refused)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:185)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:651)
+	... 19 common frames omitted
+Caused by: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused (Connection refused)
+	at org.springframework.amqp.rabbit.support.RabbitExceptionTranslator.convertRabbitAccessException(RabbitExceptionTranslator.java:61)
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:510)
+	at org.springframework.amqp.rabbit.connection.CachingConnectionFactory.createConnection(CachingConnectionFactory.java:751)
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.createConnection(ConnectionFactoryUtils.java:214)
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doExecute(RabbitTemplate.java:2095)
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.execute(RabbitTemplate.java:2068)
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.execute(RabbitTemplate.java:2048)
+	at org.springframework.amqp.rabbit.core.RabbitAdmin.declareExchange(RabbitAdmin.java:221)
+	at com.freeter.config.RabbitMqConfig.declareMemberOrderBonusMatch(RabbitMqConfig.java:212)
+	at com.freeter.config.RabbitMqConfig.amqpAdmin(RabbitMqConfig.java:135)
+	at com.freeter.config.RabbitMqConfig$$EnhancerBySpringCGLIB$$eebdac.CGLIB$amqpAdmin$1(<generated>)
+	at com.freeter.config.RabbitMqConfig$$EnhancerBySpringCGLIB$$eebdac$$FastClassBySpringCGLIB$$8479c57.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:244)
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:331)
+	at com.freeter.config.RabbitMqConfig$$EnhancerBySpringCGLIB$$eebdac.amqpAdmin(<generated>)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:154)
+	... 20 common frames omitted
+Caused by: java.net.ConnectException: Connection refused (Connection refused)
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:607)
+	at com.rabbitmq.client.impl.SocketFrameHandlerFactory.create(SocketFrameHandlerFactory.java:60)
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1113)
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1063)
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1230)
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.connect(AbstractConnectionFactory.java:534)
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:473)
+	... 38 common frames omitted
+[INFO ]2022-08-18 23:11:43.803 [main]ApiApplication[55] | Starting ApiApplication on 192.168.10.102 with PID 3493 (/Users/fgh/IdeaProjects/pencil/pencil-api/target/classes started by fgh in /Users/fgh/IdeaProjects/pencil)
+[INFO ]2022-08-18 23:11:43.806 [main]ApiApplication[655] | The following profiles are active: local
+[WARN ]2022-08-18 23:11:44.999 [main]ClassPathMapperScanner[239] | Skipping MapperFactoryBean with name 'tokenDao' and 'com.freeter.modules.token.dao.TokenDao' mapperInterface. Bean already defined with the same name!
+[INFO ]2022-08-18 23:11:45.228 [main]RepositoryConfigurationDelegate[249] | Multiple Spring Data modules found, entering strict repository configuration mode!
+[INFO ]2022-08-18 23:11:45.229 [main]RepositoryConfigurationDelegate[127] | Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+[INFO ]2022-08-18 23:11:45.319 [main]RepositoryConfigurationDelegate[187] | Finished Spring Data repository scanning in 78ms. Found 0 Redis repository interfaces.
+[INFO ]2022-08-18 23:11:45.715 [main]PostProcessorRegistrationDelegate$BeanPostProcessorChecker[330] | Bean 'threadPoolConfig' of type [com.freeter.config.ThreadPoolConfig$$EnhancerBySpringCGLIB$$63d0962] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[INFO ]2022-08-18 23:11:46.280 [main]TomcatWebServer[92] | Tomcat initialized with port(s): 8180 (http)
+[INFO ]2022-08-18 23:11:46.287 [main]Http11NioProtocol[173] | Initializing ProtocolHandler ["http-nio-8180"]
+[INFO ]2022-08-18 23:11:46.288 [main]StandardService[173] | Starting service [Tomcat]
+[INFO ]2022-08-18 23:11:46.288 [main]StandardEngine[173] | Starting Servlet engine: [Apache Tomcat/9.0.31]
+[INFO ]2022-08-18 23:11:46.373 [main][/][173] | Initializing Spring embedded WebApplicationContext
+[INFO ]2022-08-18 23:11:46.374 [main]ContextLoader[284] | Root WebApplicationContext: initialization completed in 2483 ms
+[INFO ]2022-08-18 23:11:46.780 [main]DruidDataSourceAutoConfigure[56] | Init DruidDataSource
+[INFO ]2022-08-18 23:11:49.964 [main]DruidDataSource[928] | {dataSource-1} inited
+[WARN ]2022-08-18 23:11:50.802 [main]AutoSqlInjector[145] | class com.freeter.modules.advert.entity.BroadcastEntity ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+[INFO ]2022-08-18 23:11:52.098 [main]ThreadPoolTaskExecutor[181] | Initializing ExecutorService
+[INFO ]2022-08-18 23:11:52.100 [main]ThreadPoolTaskExecutor[181] | Initializing ExecutorService 'threadPoolTaskExecutor'
+[INFO ]2022-08-18 23:11:52.712 [main]AlipayConfig[46] | cert={"charset":"UTF-8","privateKey":"MIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC8EK8cjEsjdHqkVAX1TU6gezEjHaJvQWa+LtYnEKOZp2gs9eDCTi35bIi0jnP408ZaueLxLXgfbXy6YZsQAy4Sr2tS8EwA016VqVANfU8sz0PujBX2xhz9ga2f/c65DbayKIZ5cTVZAyn/3i/CKup6aUJAscNyheBxW42Jt+dbb6eqjEUKpJhtqBosBJxlxJRH4YQXPcpaYdF/Ge+rTX0lLtABEVrUOcEM4Pvb3u9WqY6j3f9jUxf2VkOKjoIzZcJ6F/DmcMGUTM8W8fscEbQYwdv62ZbT52a/4/S7kxAOawP3yoNnES5+iki1kPaAWr+LtWiyHUIA9PU/x1QGx9QtAgMBAAECggEAXUvpk0AGBpDCRsNoMUkouHRk7AbHjmnjjnWtx7N5dcCW7bcMyVf/dr1hFDGXVtm4jUmqS/tCnFS0i8HgKxFoydw8YejTy5UQVy6niAmiPZiVGsJkIwglWZ37hGNlKmijOb7g914yGPZ433ZaOvkPWareMzn8u9OuhI3mqWuSWskvXd8csap+7jut9Zn0OlYgnHFu52HoQL9i8rtMDp9PTS36ec1dWioQs2DtRwethj3WE77B11zeHfXE2m3heDFHVm2X6duJ66xUUh8WQI+myTJzvzVGDNBfNgf43Xii6NeUJbV3ZLvqdqNXt/VR7tskrskuuGp4kuP1YqnAmCXEAQKBgQDnqLKehTfEieGVDkQl+JCA3TeepB9iyfVZplH5Z/HmkqC4bZHwj9Xx6gq3kDbUvjzMNu8bagvjxWGVUtWyfN10ZX61jBtj+R9OLeWWfzPSQpvCqo4ql+AORFqvE55l84COsMj4C1f2uxen3HBbd4NveaiVEt0LMAR0uADxDBK6NwKBgQDP01+9kfeIGr8+LU/BWnnpMRKgNwSUpUblT3jad+3/i4V3As5Z1HUcAbC34uy6vN7uIS22cfsxNVWqkAPuJ0RG9vQUXXS0uwCnOMUFHpWCZZJ4Kq4nLb3tmPXA02iRJgu93ZuFGtDIf8++XY9k1BOhoU+eMTG32EYbL9hAMVWiuwKBgA0IYZwndH67HxTKq6zTMhX93A4xv45IPGRhxgTZAzPsldwqVeaJwQiOGTJAi8UmOrdmc8dADREwXpAPC/Sxr6fHufwuuK/EKS21yU/RMjInCypFfCALUVCcKdnlqaikrVvZuES0Jqu71NXdwfhzXdKcro5MdGEXv3htjagB/N+7AoGAM6kkfHgjYvbbITacQ8Ec2uWy7paekeC/zdLChPQY+lQRWjMdXmEct1iIOD21gPngJKuktFyDB4ltgReJkpK6OzW6GLHeh+qQUAEhoJMosSBUl4BsiBqrwrsqI8Opk6M0ef7zYNP4oE59MqIJOhQpyRzTMMyjwkKFss5i4BojYm8CgYAOZOqHOHY0feF7Yg5SA8+IAqfRQE+pAkQeM5sVplxaI4mt+dfRrWsj7QkhFkHTTrl92CUOv6YPto26XuqbKmc20tXxmx26xNw2N+ofZfqG3s8NkQZY6/JxniOnp392SzxPYA06owfPWR6ODMYzChTCRvBEyPf3lv+Pab6XoR6LZQ==","alipayPublicCertPath":"/Users/fgh/work/CSR/alipayCertPublicKey_RSA2.crt","proxyPort":0,"certPath":"/Users/fgh/work/CSR/appCertPublicKey_2021003141686044.crt","serverUrl":"https://openapi.alipay.com/gateway.do","appId":"2021003141686044","format":"JSON","signType":"RSA2","rootCertPath":"/Users/fgh/work/CSR/alipayRootCert.crt"}
+[INFO ]2022-08-18 23:11:53.558 [main]CachingConnectionFactory[531] | Attempting to connect to: 127.0.0.1:5672
+[INFO ]2022-08-18 23:11:53.603 [main]CachingConnectionFactory[497] | Created new connection: pencil-client/SimpleConnection@6475e778 [delegate=amqp://qianbitou_test@127.0.0.1:5672/, localPort= 56770]
+[INFO ]2022-08-18 23:11:53.754 [main]ThreadPoolTaskScheduler[181] | Initializing ExecutorService 'taskScheduler'
+[INFO ]2022-08-18 23:11:55.960 [main]Http11NioProtocol[173] | Starting ProtocolHandler ["http-nio-8180"]
+[INFO ]2022-08-18 23:11:56.011 [main]TomcatWebServer[204] | Tomcat started on port(s): 8180 (http) with context path ''
+[INFO ]2022-08-18 23:11:56.019 [main]ApiApplication[61] | Started ApiApplication in 12.853 seconds (JVM running for 13.63)
+[INFO ]2022-08-18 23:12:00.005 [pencil-task-1]JdOrder[52] | 进入京东定时任务
+[INFO ]2022-08-18 23:12:00.015 [pencil-task-1]JdOrder[59] | Pull JDOrder Order Task Start..........time=2022-08-18 23:12:00
+[INFO ]2022-08-18 23:12:00.020 [pencil-task-1]JdOrder[76] | Pull JDOrder Order Task Dealing..........time=2022-08-18 23:12:00, page=1
+[ERROR]2022-08-18 23:12:00.047 [pencil-task-1]ThreadPoolConfig[50] | 执行出现异常:
+java.lang.NoClassDefFoundError: org/codehaus/jackson/map/ObjectMapper
+	at com.jd.open.api.sdk.internal.util.JsonUtil.<clinit>(JsonUtil.java:18)
+	at com.jd.open.api.sdk.request.kplunion.UnionOpenOrderRowQueryRequest.getAppJsonParams(UnionOpenOrderRowQueryRequest.java:27)
+	at com.jd.open.api.sdk.DefaultJdClient.buildUrl(DefaultJdClient.java:127)
+	at com.jd.open.api.sdk.DefaultJdClient.execute(DefaultJdClient.java:95)
+	at com.freeter.modules.taskOrder.task.JdOrder.getPageOrder(JdOrder.java:81)
+	at com.freeter.modules.taskOrder.task.JdOrder.schedule(JdOrder.java:68)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.lang.ClassNotFoundException: org.codehaus.jackson.map.ObjectMapper
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:387)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:352)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351)
+	... 21 common frames omitted
+[INFO ]2022-08-18 23:12:00.665 [pencil-task-2]PinduoduoOrder[56] | 拉取平多多的数据为空
+[INFO ]2022-08-18 23:12:00.673 [pencil-task-2]PinduoduoOrder[49] | pinduoduoOrder run:23:12:00
+[INFO ]2022-08-18 23:12:45.269 [http-nio-8180-exec-1][/][173] | Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ]2022-08-18 23:12:45.269 [http-nio-8180-exec-1]DispatcherServlet[525] | Initializing Servlet 'dispatcherServlet'
+[INFO ]2022-08-18 23:12:45.297 [http-nio-8180-exec-1]DispatcherServlet[547] | Completed initialization in 28 ms
+[INFO ]2022-08-18 23:12:45.690 [http-nio-8180-exec-1]ResponseAdvice[50] | url = http://127.0.0.1:8180/api/member/memberInfo
+[INFO ]2022-08-18 23:12:45.737 [http-nio-8180-exec-1]WebLogBean[205] | {"headers":{"content-length":["0"],"host":["127.0.0.1:8180"],"content-type":["application/x-www-form-urlencoded"],"connection":["keep-alive"],"accept-encoding":["gzip, deflate, br"],"token":["96e402cf4f80417087625c2c5ea263d3"],"user-agent":["apifox/1.0.0 (https://www.apifox.cn)"],"accept":["*/*"]},"uid":"","path":"/api/member/memberInfo","trace":"1660835565313-27318","code":200,"clientIp":"127.0.0.1","spend":411,"beginTime":1660835565313,"params":{},"props":{}}
+[INFO ]2022-08-18 23:13:06.444 [http-nio-8180-exec-2]ResponseAdvice[50] | url = http://127.0.0.1:8180/api/member/memberInfo
+[INFO ]2022-08-18 23:13:06.447 [http-nio-8180-exec-2]WebLogBean[205] | {"headers":{"content-length":["0"],"host":["127.0.0.1:8180"],"content-type":["application/x-www-form-urlencoded"],"connection":["keep-alive"],"accept-encoding":["gzip, deflate, br"],"token":["96e402cf4f80417087625c2c5ea263d3"],"user-agent":["apifox/1.0.0 (https://www.apifox.cn)"],"accept":["*/*"]},"uid":"","path":"/api/member/memberInfo","trace":"1660835586402-4978","code":200,"clientIp":"127.0.0.1","spend":44,"beginTime":1660835586402,"params":{},"props":{}}
+[INFO ]2022-08-18 23:14:00.146 [pencil-task-2]PinduoduoOrder[56] | 拉取平多多的数据为空
+[INFO ]2022-08-18 23:14:00.148 [pencil-task-2]PinduoduoOrder[49] | pinduoduoOrder run:23:14:00
+[INFO ]2022-08-18 23:15:00.004 [pencil-task-7]JdOrder[52] | 进入京东定时任务
+[INFO ]2022-08-18 23:15:00.020 [pencil-task-7]JdOrder[59] | Pull JDOrder Order Task Start..........time=2022-08-18 23:15:00
+[INFO ]2022-08-18 23:15:00.025 [pencil-task-7]JdOrder[76] | Pull JDOrder Order Task Dealing..........time=2022-08-18 23:15:00, page=1
+[ERROR]2022-08-18 23:15:00.042 [pencil-task-7]ThreadPoolConfig[50] | 执行出现异常:
+java.lang.NoClassDefFoundError: Could not initialize class com.jd.open.api.sdk.internal.util.JsonUtil
+	at com.jd.open.api.sdk.request.kplunion.UnionOpenOrderRowQueryRequest.getAppJsonParams(UnionOpenOrderRowQueryRequest.java:27)
+	at com.jd.open.api.sdk.DefaultJdClient.buildUrl(DefaultJdClient.java:127)
+	at com.jd.open.api.sdk.DefaultJdClient.execute(DefaultJdClient.java:95)
+	at com.freeter.modules.taskOrder.task.JdOrder.getPageOrder(JdOrder.java:81)
+	at com.freeter.modules.taskOrder.task.JdOrder.schedule(JdOrder.java:68)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+[INFO ]2022-08-18 23:15:00.251 [pencil-task-5]TaoBaoCreateOrder[99] | 获取新订单返回的内容是：{"tbk_order_details_get_response":{"data":{"has_next":false,"has_pre":false,"page_no":1,"page_size":20,"position_index":"1660834980_|1660835701_","results":{}},"request_id":"15rhwlni7j8ka"}}
+[INFO ]2022-08-18 23:15:00.252 [pencil-task-5]TaoBaoCreateOrder[89] | TaoBaoCreateOrder run:23:15:00
+[INFO ]2022-08-18 23:15:18.301 [SpringContextShutdownHook]SimpleMessageListenerContainer[645] | Waiting for workers to finish.
+[INFO ]2022-08-18 23:15:18.568 [SpringContextShutdownHook]SimpleMessageListenerContainer[648] | Successfully waited for workers to finish.
+[INFO ]2022-08-18 23:15:18.578 [SpringContextShutdownHook]SimpleMessageListenerContainer[645] | Waiting for workers to finish.
+[INFO ]2022-08-18 23:15:19.575 [SpringContextShutdownHook]SimpleMessageListenerContainer[648] | Successfully waited for workers to finish.
+[INFO ]2022-08-18 23:15:19.591 [SpringContextShutdownHook]SimpleMessageListenerContainer[645] | Waiting for workers to finish.
+[INFO ]2022-08-18 23:15:19.625 [SpringContextShutdownHook]SimpleMessageListenerContainer[648] | Successfully waited for workers to finish.
+[INFO ]2022-08-18 23:15:19.664 [SpringContextShutdownHook]SimpleMessageListenerContainer[1231] | Shutdown ignored - container is not active already
+[INFO ]2022-08-18 23:15:19.664 [SpringContextShutdownHook]SimpleMessageListenerContainer[1231] | Shutdown ignored - container is not active already
+[INFO ]2022-08-18 23:15:19.664 [SpringContextShutdownHook]SimpleMessageListenerContainer[1231] | Shutdown ignored - container is not active already
+[INFO ]2022-08-18 23:15:19.664 [SpringContextShutdownHook]ThreadPoolTaskScheduler[218] | Shutting down ExecutorService 'taskScheduler'
+[INFO ]2022-08-18 23:15:19.674 [SpringContextShutdownHook]ThreadPoolTaskExecutor[218] | Shutting down ExecutorService 'threadPoolTaskExecutor'
+[INFO ]2022-08-18 23:15:19.718 [SpringContextShutdownHook]DruidDataSource[1823] | {dataSource-1} closed
+[INFO ]2022-08-18 23:15:25.573 [main]ApiApplication[55] | Starting ApiApplication on 192.168.10.102 with PID 3522 (/Users/fgh/IdeaProjects/pencil/pencil-api/target/classes started by fgh in /Users/fgh/IdeaProjects/pencil)
+[INFO ]2022-08-18 23:15:25.579 [main]ApiApplication[655] | The following profiles are active: local
+[WARN ]2022-08-18 23:15:26.951 [main]ClassPathMapperScanner[239] | Skipping MapperFactoryBean with name 'tokenDao' and 'com.freeter.modules.token.dao.TokenDao' mapperInterface. Bean already defined with the same name!
+[INFO ]2022-08-18 23:15:27.181 [main]RepositoryConfigurationDelegate[249] | Multiple Spring Data modules found, entering strict repository configuration mode!
+[INFO ]2022-08-18 23:15:27.183 [main]RepositoryConfigurationDelegate[127] | Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+[INFO ]2022-08-18 23:15:27.270 [main]RepositoryConfigurationDelegate[187] | Finished Spring Data repository scanning in 76ms. Found 0 Redis repository interfaces.
+[INFO ]2022-08-18 23:15:27.681 [main]PostProcessorRegistrationDelegate$BeanPostProcessorChecker[330] | Bean 'threadPoolConfig' of type [com.freeter.config.ThreadPoolConfig$$EnhancerBySpringCGLIB$$7edf14c9] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[INFO ]2022-08-18 23:15:28.443 [main]CglibAopProxy[262] | Unable to proxy interface-implementing method [public final void org.springframework.boot.web.servlet.RegistrationBean.onStartup(javax.servlet.ServletContext) throws javax.servlet.ServletException] because it is marked as final: Consider using interface-based JDK proxies instead!
+[INFO ]2022-08-18 23:15:28.588 [main]TomcatWebServer[92] | Tomcat initialized with port(s): 8180 (http)
+[INFO ]2022-08-18 23:15:28.599 [main]Http11NioProtocol[173] | Initializing ProtocolHandler ["http-nio-8180"]
+[INFO ]2022-08-18 23:15:28.600 [main]StandardService[173] | Starting service [Tomcat]
+[INFO ]2022-08-18 23:15:28.600 [main]StandardEngine[173] | Starting Servlet engine: [Apache Tomcat/9.0.31]
+[INFO ]2022-08-18 23:15:28.690 [main][/][173] | Initializing Spring embedded WebApplicationContext
+[INFO ]2022-08-18 23:15:28.691 [main]ContextLoader[284] | Root WebApplicationContext: initialization completed in 2955 ms
+[INFO ]2022-08-18 23:15:28.736 [main]CglibAopProxy[262] | Unable to proxy interface-implementing method [public final void org.springframework.boot.web.servlet.RegistrationBean.onStartup(javax.servlet.ServletContext) throws javax.servlet.ServletException] because it is marked as final: Consider using interface-based JDK proxies instead!
+[INFO ]2022-08-18 23:15:28.767 [main]CglibAopProxy[262] | Unable to proxy interface-implementing method [public final void org.springframework.boot.web.servlet.RegistrationBean.onStartup(javax.servlet.ServletContext) throws javax.servlet.ServletException] because it is marked as final: Consider using interface-based JDK proxies instead!
+[INFO ]2022-08-18 23:15:28.790 [main]CglibAopProxy[262] | Unable to proxy interface-implementing method [public final void org.springframework.web.filter.OncePerRequestFilter.doFilter(javax.servlet.ServletRequest,javax.servlet.ServletResponse,javax.servlet.FilterChain) throws javax.servlet.ServletException,java.io.IOException] because it is marked as final: Consider using interface-based JDK proxies instead!
+[INFO ]2022-08-18 23:15:28.791 [main]CglibAopProxy[262] | Unable to proxy interface-implementing method [public final void org.springframework.web.filter.GenericFilterBean.init(javax.servlet.FilterConfig) throws javax.servlet.ServletException] because it is marked as final: Consider using interface-based JDK proxies instead!
+[INFO ]2022-08-18 23:15:28.797 [main]CglibAopProxy[262] | Unable to proxy interface-implementing method [public final void org.springframework.web.filter.OncePerRequestFilter.doFilter(javax.servlet.ServletRequest,javax.servlet.ServletResponse,javax.servlet.FilterChain) throws javax.servlet.ServletException,java.io.IOException] because it is marked as final: Consider using interface-based JDK proxies instead!
+[INFO ]2022-08-18 23:15:28.797 [main]CglibAopProxy[262] | Unable to proxy interface-implementing method [public final void org.springframework.web.filter.GenericFilterBean.init(javax.servlet.FilterConfig) throws javax.servlet.ServletException] because it is marked as final: Consider using interface-based JDK proxies instead!
+[INFO ]2022-08-18 23:15:28.810 [main]CglibAopProxy[262] | Unable to proxy interface-implementing method [public final void org.springframework.web.filter.OncePerRequestFilter.doFilter(javax.servlet.ServletRequest,javax.servlet.ServletResponse,javax.servlet.FilterChain) throws javax.servlet.ServletException,java.io.IOException] because it is marked as final: Consider using interface-based JDK proxies instead!
+[INFO ]2022-08-18 23:15:28.810 [main]CglibAopProxy[262] | Unable to proxy interface-implementing method [public final void org.springframework.web.filter.GenericFilterBean.init(javax.servlet.FilterConfig) throws javax.servlet.ServletException] because it is marked as final: Consider using interface-based JDK proxies instead!
+[INFO ]2022-08-18 23:15:28.816 [main]CglibAopProxy[262] | Unable to proxy interface-implementing method [public final void org.springframework.web.filter.OncePerRequestFilter.doFilter(javax.servlet.ServletRequest,javax.servlet.ServletResponse,javax.servlet.FilterChain) throws javax.servlet.ServletException,java.io.IOException] because it is marked as final: Consider using interface-based JDK proxies instead!
+[INFO ]2022-08-18 23:15:28.818 [main]CglibAopProxy[262] | Unable to proxy interface-implementing method [public final void org.springframework.web.filter.GenericFilterBean.init(javax.servlet.FilterConfig) throws javax.servlet.ServletException] because it is marked as final: Consider using interface-based JDK proxies instead!
+[ERROR]2022-08-18 23:15:28.860 [main][/][175] | Exception starting filter [requestContextFilter]
+java.lang.NullPointerException: null
+	at org.springframework.web.filter.GenericFilterBean.init(GenericFilterBean.java:241)
+	at org.apache.catalina.core.ApplicationFilterConfig.initFilter(ApplicationFilterConfig.java:270)
+	at org.apache.catalina.core.ApplicationFilterConfig.<init>(ApplicationFilterConfig.java:106)
+	at org.apache.catalina.core.StandardContext.filterStart(StandardContext.java:4533)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5172)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1384)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1374)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:134)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:909)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:841)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1384)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1374)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:134)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:909)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:262)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:421)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:930)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.startup.Tomcat.start(Tomcat.java:467)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize(TomcatWebServer.java:107)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.<init>(TomcatWebServer.java:88)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getTomcatWebServer(TomcatServletWebServerFactory.java:438)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getWebServer(TomcatServletWebServerFactory.java:191)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory$$FastClassBySpringCGLIB$$9c83fa9f.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:769)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:747)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:180)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:747)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:95)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:747)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:689)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory$$EnhancerBySpringCGLIB$$9a72881f.getWebServer(<generated>)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.createWebServer(ServletWebServerApplicationContext.java:180)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:153)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:544)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:141)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:747)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1215)
+	at com.freeter.ApiApplication.main(ApiApplication.java:40)
+[ERROR]2022-08-18 23:15:28.862 [main][/][175] | Exception starting filter [characterEncodingFilter]
+java.lang.NullPointerException: null
+	at org.springframework.web.filter.GenericFilterBean.init(GenericFilterBean.java:241)
+	at org.apache.catalina.core.ApplicationFilterConfig.initFilter(ApplicationFilterConfig.java:270)
+	at org.apache.catalina.core.ApplicationFilterConfig.<init>(ApplicationFilterConfig.java:106)
+	at org.apache.catalina.core.StandardContext.filterStart(StandardContext.java:4533)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5172)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1384)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1374)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:134)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:909)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:841)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1384)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1374)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:134)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:909)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:262)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:421)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:930)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.startup.Tomcat.start(Tomcat.java:467)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize(TomcatWebServer.java:107)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.<init>(TomcatWebServer.java:88)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getTomcatWebServer(TomcatServletWebServerFactory.java:438)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getWebServer(TomcatServletWebServerFactory.java:191)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory$$FastClassBySpringCGLIB$$9c83fa9f.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:769)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:747)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:180)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:747)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:95)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:747)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:689)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory$$EnhancerBySpringCGLIB$$9a72881f.getWebServer(<generated>)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.createWebServer(ServletWebServerApplicationContext.java:180)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:153)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:544)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:141)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:747)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1215)
+	at com.freeter.ApiApplication.main(ApiApplication.java:40)
+[ERROR]2022-08-18 23:15:28.865 [main][/][175] | Exception starting filter [contextFilter]
+java.lang.NullPointerException: null
+	at org.springframework.web.filter.GenericFilterBean.init(GenericFilterBean.java:241)
+	at org.apache.catalina.core.ApplicationFilterConfig.initFilter(ApplicationFilterConfig.java:270)
+	at org.apache.catalina.core.ApplicationFilterConfig.<init>(ApplicationFilterConfig.java:106)
+	at org.apache.catalina.core.StandardContext.filterStart(StandardContext.java:4533)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5172)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1384)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1374)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:134)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:909)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:841)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1384)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1374)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:134)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:909)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:262)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:421)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:930)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.startup.Tomcat.start(Tomcat.java:467)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize(TomcatWebServer.java:107)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.<init>(TomcatWebServer.java:88)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getTomcatWebServer(TomcatServletWebServerFactory.java:438)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getWebServer(TomcatServletWebServerFactory.java:191)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory$$FastClassBySpringCGLIB$$9c83fa9f.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:769)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:747)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:180)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:747)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:95)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:747)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:689)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory$$EnhancerBySpringCGLIB$$9a72881f.getWebServer(<generated>)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.createWebServer(ServletWebServerApplicationContext.java:180)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:153)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:544)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:141)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:747)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1215)
+	at com.freeter.ApiApplication.main(ApiApplication.java:40)
+[ERROR]2022-08-18 23:15:28.866 [main][/][175] | Exception starting filter [formContentFilter]
+java.lang.NullPointerException: null
+	at org.springframework.web.filter.GenericFilterBean.init(GenericFilterBean.java:241)
+	at org.apache.catalina.core.ApplicationFilterConfig.initFilter(ApplicationFilterConfig.java:270)
+	at org.apache.catalina.core.ApplicationFilterConfig.<init>(ApplicationFilterConfig.java:106)
+	at org.apache.catalina.core.StandardContext.filterStart(StandardContext.java:4533)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5172)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1384)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1374)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:134)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:909)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:841)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1384)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1374)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:134)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:909)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:262)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:421)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:930)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.startup.Tomcat.start(Tomcat.java:467)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize(TomcatWebServer.java:107)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.<init>(TomcatWebServer.java:88)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getTomcatWebServer(TomcatServletWebServerFactory.java:438)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getWebServer(TomcatServletWebServerFactory.java:191)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory$$FastClassBySpringCGLIB$$9c83fa9f.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:769)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:747)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:180)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:747)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:95)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:747)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:689)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory$$EnhancerBySpringCGLIB$$9a72881f.getWebServer(<generated>)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.createWebServer(ServletWebServerApplicationContext.java:180)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:153)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:544)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:141)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:747)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1215)
+	at com.freeter.ApiApplication.main(ApiApplication.java:40)
+[ERROR]2022-08-18 23:15:28.870 [main]StandardContext[173] | One or more Filters failed to start. Full details will be found in the appropriate container log file
+[ERROR]2022-08-18 23:15:28.870 [main]StandardContext[173] | Context [] startup failed due to previous errors
+[INFO ]2022-08-18 23:15:28.882 [main]Http11NioProtocol[173] | Starting ProtocolHandler ["http-nio-8180"]
+[INFO ]2022-08-18 23:15:28.905 [main]Http11NioProtocol[173] | Pausing ProtocolHandler ["http-nio-8180"]
+[INFO ]2022-08-18 23:15:28.917 [main]StandardService[173] | Stopping service [Tomcat]
+[INFO ]2022-08-18 23:15:28.919 [main]Http11NioProtocol[173] | Stopping ProtocolHandler ["http-nio-8180"]
+[INFO ]2022-08-18 23:15:28.927 [main]Http11NioProtocol[173] | Destroying ProtocolHandler ["http-nio-8180"]
+[WARN ]2022-08-18 23:15:28.931 [main]AnnotationConfigServletWebServerApplicationContext[558] | Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start web server; nested exception is org.springframework.boot.web.server.WebServerException: Unable to start embedded Tomcat
+[INFO ]2022-08-18 23:15:28.965 [main]ConditionEvaluationReportLoggingListener[136] | 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+[ERROR]2022-08-18 23:15:28.979 [main]SpringApplication[826] | Application run failed
+org.springframework.context.ApplicationContextException: Unable to start web server; nested exception is org.springframework.boot.web.server.WebServerException: Unable to start embedded Tomcat
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:156)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:544)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:141)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:747)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1215)
+	at com.freeter.ApiApplication.main(ApiApplication.java:40)
+Caused by: org.springframework.boot.web.server.WebServerException: Unable to start embedded Tomcat
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize(TomcatWebServer.java:126)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.<init>(TomcatWebServer.java:88)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getTomcatWebServer(TomcatServletWebServerFactory.java:438)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getWebServer(TomcatServletWebServerFactory.java:191)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory$$FastClassBySpringCGLIB$$9c83fa9f.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:769)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:747)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:180)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:747)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:95)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:747)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:689)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory$$EnhancerBySpringCGLIB$$9a72881f.getWebServer(<generated>)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.createWebServer(ServletWebServerApplicationContext.java:180)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:153)
+	... 8 common frames omitted
+Caused by: java.lang.IllegalStateException: StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[] failed to start
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.rethrowDeferredStartupExceptions(TomcatWebServer.java:171)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize(TomcatWebServer.java:110)
+	... 25 common frames omitted
+[INFO ]2022-08-18 23:16:26.409 [main]ApiApplication[55] | Starting ApiApplication on 192.168.10.102 with PID 3526 (/Users/fgh/IdeaProjects/pencil/pencil-api/target/classes started by fgh in /Users/fgh/IdeaProjects/pencil)
+[INFO ]2022-08-18 23:16:26.417 [main]ApiApplication[655] | The following profiles are active: local
+[WARN ]2022-08-18 23:16:27.665 [main]ClassPathMapperScanner[239] | Skipping MapperFactoryBean with name 'tokenDao' and 'com.freeter.modules.token.dao.TokenDao' mapperInterface. Bean already defined with the same name!
+[INFO ]2022-08-18 23:16:27.928 [main]RepositoryConfigurationDelegate[249] | Multiple Spring Data modules found, entering strict repository configuration mode!
+[INFO ]2022-08-18 23:16:27.930 [main]RepositoryConfigurationDelegate[127] | Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+[INFO ]2022-08-18 23:16:28.030 [main]RepositoryConfigurationDelegate[187] | Finished Spring Data repository scanning in 88ms. Found 0 Redis repository interfaces.
+[INFO ]2022-08-18 23:16:28.455 [main]PostProcessorRegistrationDelegate$BeanPostProcessorChecker[330] | Bean 'threadPoolConfig' of type [com.freeter.config.ThreadPoolConfig$$EnhancerBySpringCGLIB$$c521b5b4] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[INFO ]2022-08-18 23:16:29.146 [main]CglibAopProxy[262] | Unable to proxy interface-implementing method [public final void org.springframework.boot.web.servlet.RegistrationBean.onStartup(javax.servlet.ServletContext) throws javax.servlet.ServletException] because it is marked as final: Consider using interface-based JDK proxies instead!
+[INFO ]2022-08-18 23:16:29.257 [main]TomcatWebServer[92] | Tomcat initialized with port(s): 8180 (http)
+[INFO ]2022-08-18 23:16:29.263 [main]Http11NioProtocol[173] | Initializing ProtocolHandler ["http-nio-8180"]
+[INFO ]2022-08-18 23:16:29.264 [main]StandardService[173] | Starting service [Tomcat]
+[INFO ]2022-08-18 23:16:29.264 [main]StandardEngine[173] | Starting Servlet engine: [Apache Tomcat/9.0.31]
+[INFO ]2022-08-18 23:16:29.349 [main][/][173] | Initializing Spring embedded WebApplicationContext
+[INFO ]2022-08-18 23:16:29.350 [main]ContextLoader[284] | Root WebApplicationContext: initialization completed in 2804 ms
+[INFO ]2022-08-18 23:16:29.374 [main]CglibAopProxy[262] | Unable to proxy interface-implementing method [public final void org.springframework.boot.web.servlet.RegistrationBean.onStartup(javax.servlet.ServletContext) throws javax.servlet.ServletException] because it is marked as final: Consider using interface-based JDK proxies instead!
+[INFO ]2022-08-18 23:16:29.413 [main]CglibAopProxy[262] | Unable to proxy interface-implementing method [public final void org.springframework.boot.web.servlet.RegistrationBean.onStartup(javax.servlet.ServletContext) throws javax.servlet.ServletException] because it is marked as final: Consider using interface-based JDK proxies instead!
+[INFO ]2022-08-18 23:16:29.476 [main]CglibAopProxy[262] | Unable to proxy interface-implementing method [public final void org.springframework.web.filter.OncePerRequestFilter.doFilter(javax.servlet.ServletRequest,javax.servlet.ServletResponse,javax.servlet.FilterChain) throws javax.servlet.ServletException,java.io.IOException] because it is marked as final: Consider using interface-based JDK proxies instead!
+[INFO ]2022-08-18 23:16:29.478 [main]CglibAopProxy[262] | Unable to proxy interface-implementing method [public final void org.springframework.web.filter.GenericFilterBean.init(javax.servlet.FilterConfig) throws javax.servlet.ServletException] because it is marked as final: Consider using interface-based JDK proxies instead!
+[INFO ]2022-08-18 23:16:29.499 [main]CglibAopProxy[262] | Unable to proxy interface-implementing method [public final void org.springframework.web.filter.OncePerRequestFilter.doFilter(javax.servlet.ServletRequest,javax.servlet.ServletResponse,javax.servlet.FilterChain) throws javax.servlet.ServletException,java.io.IOException] because it is marked as final: Consider using interface-based JDK proxies instead!
+[INFO ]2022-08-18 23:16:29.500 [main]CglibAopProxy[262] | Unable to proxy interface-implementing method [public final void org.springframework.web.filter.GenericFilterBean.init(javax.servlet.FilterConfig) throws javax.servlet.ServletException] because it is marked as final: Consider using interface-based JDK proxies instead!
+[INFO ]2022-08-18 23:16:29.520 [main]CglibAopProxy[262] | Unable to proxy interface-implementing method [public final void org.springframework.web.filter.OncePerRequestFilter.doFilter(javax.servlet.ServletRequest,javax.servlet.ServletResponse,javax.servlet.FilterChain) throws javax.servlet.ServletException,java.io.IOException] because it is marked as final: Consider using interface-based JDK proxies instead!
+[INFO ]2022-08-18 23:16:29.521 [main]CglibAopProxy[262] | Unable to proxy interface-implementing method [public final void org.springframework.web.filter.GenericFilterBean.init(javax.servlet.FilterConfig) throws javax.servlet.ServletException] because it is marked as final: Consider using interface-based JDK proxies instead!
+[INFO ]2022-08-18 23:16:29.528 [main]CglibAopProxy[262] | Unable to proxy interface-implementing method [public final void org.springframework.web.filter.OncePerRequestFilter.doFilter(javax.servlet.ServletRequest,javax.servlet.ServletResponse,javax.servlet.FilterChain) throws javax.servlet.ServletException,java.io.IOException] because it is marked as final: Consider using interface-based JDK proxies instead!
+[INFO ]2022-08-18 23:16:29.529 [main]CglibAopProxy[262] | Unable to proxy interface-implementing method [public final void org.springframework.web.filter.GenericFilterBean.init(javax.servlet.FilterConfig) throws javax.servlet.ServletException] because it is marked as final: Consider using interface-based JDK proxies instead!
+[ERROR]2022-08-18 23:16:29.576 [main][/][175] | Exception starting filter [requestContextFilter]
+java.lang.NullPointerException: null
+	at org.springframework.web.filter.GenericFilterBean.init(GenericFilterBean.java:241)
+	at org.apache.catalina.core.ApplicationFilterConfig.initFilter(ApplicationFilterConfig.java:270)
+	at org.apache.catalina.core.ApplicationFilterConfig.<init>(ApplicationFilterConfig.java:106)
+	at org.apache.catalina.core.StandardContext.filterStart(StandardContext.java:4533)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5172)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1384)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1374)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:134)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:909)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:841)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1384)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1374)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:134)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:909)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:262)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:421)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:930)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.startup.Tomcat.start(Tomcat.java:467)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize(TomcatWebServer.java:107)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.<init>(TomcatWebServer.java:88)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getTomcatWebServer(TomcatServletWebServerFactory.java:438)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getWebServer(TomcatServletWebServerFactory.java:191)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory$$FastClassBySpringCGLIB$$9c83fa9f.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:769)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:747)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:180)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:747)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:95)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:747)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:689)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory$$EnhancerBySpringCGLIB$$9629b378.getWebServer(<generated>)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.createWebServer(ServletWebServerApplicationContext.java:180)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:153)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:544)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:141)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:747)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1215)
+	at com.freeter.ApiApplication.main(ApiApplication.java:40)
+[ERROR]2022-08-18 23:16:29.579 [main][/][175] | Exception starting filter [characterEncodingFilter]
+java.lang.NullPointerException: null
+	at org.springframework.web.filter.GenericFilterBean.init(GenericFilterBean.java:241)
+	at org.apache.catalina.core.ApplicationFilterConfig.initFilter(ApplicationFilterConfig.java:270)
+	at org.apache.catalina.core.ApplicationFilterConfig.<init>(ApplicationFilterConfig.java:106)
+	at org.apache.catalina.core.StandardContext.filterStart(StandardContext.java:4533)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5172)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1384)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1374)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:134)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:909)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:841)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1384)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1374)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:134)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:909)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:262)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:421)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:930)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.startup.Tomcat.start(Tomcat.java:467)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize(TomcatWebServer.java:107)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.<init>(TomcatWebServer.java:88)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getTomcatWebServer(TomcatServletWebServerFactory.java:438)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getWebServer(TomcatServletWebServerFactory.java:191)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory$$FastClassBySpringCGLIB$$9c83fa9f.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:769)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:747)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:180)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:747)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:95)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:747)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:689)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory$$EnhancerBySpringCGLIB$$9629b378.getWebServer(<generated>)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.createWebServer(ServletWebServerApplicationContext.java:180)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:153)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:544)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:141)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:747)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1215)
+	at com.freeter.ApiApplication.main(ApiApplication.java:40)
+[ERROR]2022-08-18 23:16:29.582 [main][/][175] | Exception starting filter [contextFilter]
+java.lang.NullPointerException: null
+	at org.springframework.web.filter.GenericFilterBean.init(GenericFilterBean.java:241)
+	at org.apache.catalina.core.ApplicationFilterConfig.initFilter(ApplicationFilterConfig.java:270)
+	at org.apache.catalina.core.ApplicationFilterConfig.<init>(ApplicationFilterConfig.java:106)
+	at org.apache.catalina.core.StandardContext.filterStart(StandardContext.java:4533)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5172)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1384)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1374)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:134)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:909)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:841)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1384)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1374)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:134)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:909)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:262)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:421)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:930)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.startup.Tomcat.start(Tomcat.java:467)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize(TomcatWebServer.java:107)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.<init>(TomcatWebServer.java:88)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getTomcatWebServer(TomcatServletWebServerFactory.java:438)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getWebServer(TomcatServletWebServerFactory.java:191)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory$$FastClassBySpringCGLIB$$9c83fa9f.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:769)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:747)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:180)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:747)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:95)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:747)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:689)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory$$EnhancerBySpringCGLIB$$9629b378.getWebServer(<generated>)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.createWebServer(ServletWebServerApplicationContext.java:180)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:153)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:544)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:141)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:747)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1215)
+	at com.freeter.ApiApplication.main(ApiApplication.java:40)
+[ERROR]2022-08-18 23:16:29.583 [main][/][175] | Exception starting filter [formContentFilter]
+java.lang.NullPointerException: null
+	at org.springframework.web.filter.GenericFilterBean.init(GenericFilterBean.java:241)
+	at org.apache.catalina.core.ApplicationFilterConfig.initFilter(ApplicationFilterConfig.java:270)
+	at org.apache.catalina.core.ApplicationFilterConfig.<init>(ApplicationFilterConfig.java:106)
+	at org.apache.catalina.core.StandardContext.filterStart(StandardContext.java:4533)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5172)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1384)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1374)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:134)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:909)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:841)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1384)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1374)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:134)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:909)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:262)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:421)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:930)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.startup.Tomcat.start(Tomcat.java:467)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize(TomcatWebServer.java:107)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.<init>(TomcatWebServer.java:88)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getTomcatWebServer(TomcatServletWebServerFactory.java:438)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getWebServer(TomcatServletWebServerFactory.java:191)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory$$FastClassBySpringCGLIB$$9c83fa9f.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:769)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:747)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:180)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:747)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:95)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:747)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:689)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory$$EnhancerBySpringCGLIB$$9629b378.getWebServer(<generated>)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.createWebServer(ServletWebServerApplicationContext.java:180)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:153)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:544)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:141)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:747)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1215)
+	at com.freeter.ApiApplication.main(ApiApplication.java:40)
+[ERROR]2022-08-18 23:16:29.588 [main]StandardContext[173] | One or more Filters failed to start. Full details will be found in the appropriate container log file
+[ERROR]2022-08-18 23:16:29.588 [main]StandardContext[173] | Context [] startup failed due to previous errors
+[INFO ]2022-08-18 23:16:29.603 [main]Http11NioProtocol[173] | Starting ProtocolHandler ["http-nio-8180"]
+[INFO ]2022-08-18 23:16:29.629 [main]Http11NioProtocol[173] | Pausing ProtocolHandler ["http-nio-8180"]
+[INFO ]2022-08-18 23:16:29.640 [main]StandardService[173] | Stopping service [Tomcat]
+[INFO ]2022-08-18 23:16:29.642 [main]Http11NioProtocol[173] | Stopping ProtocolHandler ["http-nio-8180"]
+[INFO ]2022-08-18 23:16:29.652 [main]Http11NioProtocol[173] | Destroying ProtocolHandler ["http-nio-8180"]
+[WARN ]2022-08-18 23:16:29.653 [main]AnnotationConfigServletWebServerApplicationContext[558] | Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start web server; nested exception is org.springframework.boot.web.server.WebServerException: Unable to start embedded Tomcat
+[INFO ]2022-08-18 23:16:29.681 [main]ConditionEvaluationReportLoggingListener[136] | 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+[ERROR]2022-08-18 23:16:29.698 [main]SpringApplication[826] | Application run failed
+org.springframework.context.ApplicationContextException: Unable to start web server; nested exception is org.springframework.boot.web.server.WebServerException: Unable to start embedded Tomcat
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:156)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:544)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:141)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:747)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1215)
+	at com.freeter.ApiApplication.main(ApiApplication.java:40)
+Caused by: org.springframework.boot.web.server.WebServerException: Unable to start embedded Tomcat
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize(TomcatWebServer.java:126)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.<init>(TomcatWebServer.java:88)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getTomcatWebServer(TomcatServletWebServerFactory.java:438)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getWebServer(TomcatServletWebServerFactory.java:191)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory$$FastClassBySpringCGLIB$$9c83fa9f.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:769)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:747)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:180)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:747)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:95)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:747)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:689)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory$$EnhancerBySpringCGLIB$$9629b378.getWebServer(<generated>)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.createWebServer(ServletWebServerApplicationContext.java:180)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:153)
+	... 8 common frames omitted
+Caused by: java.lang.IllegalStateException: StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[] failed to start
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.rethrowDeferredStartupExceptions(TomcatWebServer.java:171)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize(TomcatWebServer.java:110)
+	... 25 common frames omitted
+[INFO ]2022-08-18 23:17:02.898 [main]ApiApplication[55] | Starting ApiApplication on 192.168.10.102 with PID 3531 (/Users/fgh/IdeaProjects/pencil/pencil-api/target/classes started by fgh in /Users/fgh/IdeaProjects/pencil)
+[INFO ]2022-08-18 23:17:02.900 [main]ApiApplication[655] | The following profiles are active: local
+[WARN ]2022-08-18 23:17:04.169 [main]ClassPathMapperScanner[239] | Skipping MapperFactoryBean with name 'tokenDao' and 'com.freeter.modules.token.dao.TokenDao' mapperInterface. Bean already defined with the same name!
+[INFO ]2022-08-18 23:17:04.429 [main]RepositoryConfigurationDelegate[249] | Multiple Spring Data modules found, entering strict repository configuration mode!
+[INFO ]2022-08-18 23:17:04.431 [main]RepositoryConfigurationDelegate[127] | Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+[INFO ]2022-08-18 23:17:04.501 [main]RepositoryConfigurationDelegate[187] | Finished Spring Data repository scanning in 61ms. Found 0 Redis repository interfaces.
+[INFO ]2022-08-18 23:17:04.918 [main]PostProcessorRegistrationDelegate$BeanPostProcessorChecker[330] | Bean 'threadPoolConfig' of type [com.freeter.config.ThreadPoolConfig$$EnhancerBySpringCGLIB$$5c8a82f0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[INFO ]2022-08-18 23:17:05.531 [main]TomcatWebServer[92] | Tomcat initialized with port(s): 8180 (http)
+[INFO ]2022-08-18 23:17:05.538 [main]Http11NioProtocol[173] | Initializing ProtocolHandler ["http-nio-8180"]
+[INFO ]2022-08-18 23:17:05.539 [main]StandardService[173] | Starting service [Tomcat]
+[INFO ]2022-08-18 23:17:05.539 [main]StandardEngine[173] | Starting Servlet engine: [Apache Tomcat/9.0.31]
+[INFO ]2022-08-18 23:17:05.622 [main][/][173] | Initializing Spring embedded WebApplicationContext
+[INFO ]2022-08-18 23:17:05.624 [main]ContextLoader[284] | Root WebApplicationContext: initialization completed in 2627 ms
+[INFO ]2022-08-18 23:17:06.159 [main]DruidDataSourceAutoConfigure[56] | Init DruidDataSource
+[INFO ]2022-08-18 23:17:09.318 [main]DruidDataSource[928] | {dataSource-1} inited
+[WARN ]2022-08-18 23:17:10.108 [main]AutoSqlInjector[145] | class com.freeter.modules.advert.entity.BroadcastEntity ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+[INFO ]2022-08-18 23:17:11.457 [main]ThreadPoolTaskExecutor[181] | Initializing ExecutorService
+[INFO ]2022-08-18 23:17:11.459 [main]ThreadPoolTaskExecutor[181] | Initializing ExecutorService 'threadPoolTaskExecutor'
+[INFO ]2022-08-18 23:17:12.410 [main]AlipayConfig[46] | cert={"charset":"UTF-8","privateKey":"MIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC8EK8cjEsjdHqkVAX1TU6gezEjHaJvQWa+LtYnEKOZp2gs9eDCTi35bIi0jnP408ZaueLxLXgfbXy6YZsQAy4Sr2tS8EwA016VqVANfU8sz0PujBX2xhz9ga2f/c65DbayKIZ5cTVZAyn/3i/CKup6aUJAscNyheBxW42Jt+dbb6eqjEUKpJhtqBosBJxlxJRH4YQXPcpaYdF/Ge+rTX0lLtABEVrUOcEM4Pvb3u9WqY6j3f9jUxf2VkOKjoIzZcJ6F/DmcMGUTM8W8fscEbQYwdv62ZbT52a/4/S7kxAOawP3yoNnES5+iki1kPaAWr+LtWiyHUIA9PU/x1QGx9QtAgMBAAECggEAXUvpk0AGBpDCRsNoMUkouHRk7AbHjmnjjnWtx7N5dcCW7bcMyVf/dr1hFDGXVtm4jUmqS/tCnFS0i8HgKxFoydw8YejTy5UQVy6niAmiPZiVGsJkIwglWZ37hGNlKmijOb7g914yGPZ433ZaOvkPWareMzn8u9OuhI3mqWuSWskvXd8csap+7jut9Zn0OlYgnHFu52HoQL9i8rtMDp9PTS36ec1dWioQs2DtRwethj3WE77B11zeHfXE2m3heDFHVm2X6duJ66xUUh8WQI+myTJzvzVGDNBfNgf43Xii6NeUJbV3ZLvqdqNXt/VR7tskrskuuGp4kuP1YqnAmCXEAQKBgQDnqLKehTfEieGVDkQl+JCA3TeepB9iyfVZplH5Z/HmkqC4bZHwj9Xx6gq3kDbUvjzMNu8bagvjxWGVUtWyfN10ZX61jBtj+R9OLeWWfzPSQpvCqo4ql+AORFqvE55l84COsMj4C1f2uxen3HBbd4NveaiVEt0LMAR0uADxDBK6NwKBgQDP01+9kfeIGr8+LU/BWnnpMRKgNwSUpUblT3jad+3/i4V3As5Z1HUcAbC34uy6vN7uIS22cfsxNVWqkAPuJ0RG9vQUXXS0uwCnOMUFHpWCZZJ4Kq4nLb3tmPXA02iRJgu93ZuFGtDIf8++XY9k1BOhoU+eMTG32EYbL9hAMVWiuwKBgA0IYZwndH67HxTKq6zTMhX93A4xv45IPGRhxgTZAzPsldwqVeaJwQiOGTJAi8UmOrdmc8dADREwXpAPC/Sxr6fHufwuuK/EKS21yU/RMjInCypFfCALUVCcKdnlqaikrVvZuES0Jqu71NXdwfhzXdKcro5MdGEXv3htjagB/N+7AoGAM6kkfHgjYvbbITacQ8Ec2uWy7paekeC/zdLChPQY+lQRWjMdXmEct1iIOD21gPngJKuktFyDB4ltgReJkpK6OzW6GLHeh+qQUAEhoJMosSBUl4BsiBqrwrsqI8Opk6M0ef7zYNP4oE59MqIJOhQpyRzTMMyjwkKFss5i4BojYm8CgYAOZOqHOHY0feF7Yg5SA8+IAqfRQE+pAkQeM5sVplxaI4mt+dfRrWsj7QkhFkHTTrl92CUOv6YPto26XuqbKmc20tXxmx26xNw2N+ofZfqG3s8NkQZY6/JxniOnp392SzxPYA06owfPWR6ODMYzChTCRvBEyPf3lv+Pab6XoR6LZQ==","alipayPublicCertPath":"/Users/fgh/work/CSR/alipayCertPublicKey_RSA2.crt","proxyPort":0,"certPath":"/Users/fgh/work/CSR/appCertPublicKey_2021003141686044.crt","serverUrl":"https://openapi.alipay.com/gateway.do","appId":"2021003141686044","format":"JSON","signType":"RSA2","rootCertPath":"/Users/fgh/work/CSR/alipayRootCert.crt"}
+[INFO ]2022-08-18 23:17:13.215 [main]CachingConnectionFactory[531] | Attempting to connect to: 127.0.0.1:5672
+[INFO ]2022-08-18 23:17:13.248 [main]CachingConnectionFactory[497] | Created new connection: pencil-client/SimpleConnection@30a62a5b [delegate=amqp://qianbitou_test@127.0.0.1:5672/, localPort= 58198]
+[INFO ]2022-08-18 23:17:13.379 [main]ThreadPoolTaskScheduler[181] | Initializing ExecutorService 'taskScheduler'
+[INFO ]2022-08-18 23:17:16.075 [main]Http11NioProtocol[173] | Starting ProtocolHandler ["http-nio-8180"]
+[INFO ]2022-08-18 23:17:16.126 [main]TomcatWebServer[204] | Tomcat started on port(s): 8180 (http) with context path ''
+[INFO ]2022-08-18 23:17:16.135 [main]ApiApplication[61] | Started ApiApplication in 13.866 seconds (JVM running for 14.73)
+[INFO ]2022-08-18 23:17:20.883 [http-nio-8180-exec-1][/][173] | Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ]2022-08-18 23:17:20.884 [http-nio-8180-exec-1]DispatcherServlet[525] | Initializing Servlet 'dispatcherServlet'
+[INFO ]2022-08-18 23:17:20.925 [http-nio-8180-exec-1]DispatcherServlet[547] | Completed initialization in 41 ms
+[INFO ]2022-08-18 23:17:25.480 [http-nio-8180-exec-1]WebLogBean[205] | {"result":{"msg":"success","walletEstimate":0,"isWeiXin":0,"code":0,"six":0,"wallet":0,"walletToday":0,"inviteCode":"1nlz2n41","mobile":"19857021662","accountAlipay":"13111111111","memberId":1033},"headers":{"content-length":["0"],"host":["127.0.0.1:8180"],"content-type":["application/x-www-form-urlencoded"],"connection":["keep-alive"],"accept-encoding":["gzip, deflate, br"],"token":["96e402cf4f80417087625c2c5ea263d3"],"user-agent":["apifox/1.0.0 (https://www.apifox.cn)"],"accept":["*/*"]},"uid":"","path":"/api/member/memberInfo","trace":"1660835840971-49819","code":200,"payload":"{}","clientIp":"127.0.0.1","spend":4497,"beginTime":1660835840971,"params":{},"props":{}}
+[INFO ]2022-08-18 23:17:25.515 [http-nio-8180-exec-1]ResponseAdvice[50] | url = http://127.0.0.1:8180/api/member/memberInfo
+[INFO ]2022-08-18 23:17:25.546 [http-nio-8180-exec-1]WebLogBean[205] | {"result":{"msg":"success","walletEstimate":0,"isWeiXin":0,"code":0,"six":0,"wallet":0,"walletToday":0,"inviteCode":"1nlz2n41","mobile":"19857021662","accountAlipay":"13111111111","memberId":1033},"headers":{"content-length":["0"],"host":["127.0.0.1:8180"],"content-type":["application/x-www-form-urlencoded"],"connection":["keep-alive"],"accept-encoding":["gzip, deflate, br"],"token":["96e402cf4f80417087625c2c5ea263d3"],"user-agent":["apifox/1.0.0 (https://www.apifox.cn)"],"accept":["*/*"]},"uid":"","path":"/api/member/memberInfo","trace":"1660835840971-49819","code":200,"payload":"{}","clientIp":"127.0.0.1","spend":4575,"beginTime":1660835840971,"params":{},"props":{}}
+[INFO ]2022-08-18 23:18:00.007 [pencil-task-1]JdOrder[52] | 进入京东定时任务
+[INFO ]2022-08-18 23:18:00.017 [pencil-task-1]JdOrder[59] | Pull JDOrder Order Task Start..........time=2022-08-18 23:18:00
+[INFO ]2022-08-18 23:18:00.023 [pencil-task-1]JdOrder[76] | Pull JDOrder Order Task Dealing..........time=2022-08-18 23:18:00, page=1
+[ERROR]2022-08-18 23:18:00.056 [pencil-task-1]ThreadPoolConfig[50] | 执行出现异常:
+java.lang.NoClassDefFoundError: org/codehaus/jackson/map/ObjectMapper
+	at com.jd.open.api.sdk.internal.util.JsonUtil.<clinit>(JsonUtil.java:18)
+	at com.jd.open.api.sdk.request.kplunion.UnionOpenOrderRowQueryRequest.getAppJsonParams(UnionOpenOrderRowQueryRequest.java:27)
+	at com.jd.open.api.sdk.DefaultJdClient.buildUrl(DefaultJdClient.java:127)
+	at com.jd.open.api.sdk.DefaultJdClient.execute(DefaultJdClient.java:95)
+	at com.freeter.modules.taskOrder.task.JdOrder.getPageOrder(JdOrder.java:81)
+	at com.freeter.modules.taskOrder.task.JdOrder.schedule(JdOrder.java:68)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.lang.ClassNotFoundException: org.codehaus.jackson.map.ObjectMapper
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:387)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:352)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351)
+	... 21 common frames omitted
+[INFO ]2022-08-18 23:18:00.540 [pencil-task-2]PinduoduoOrder[56] | 拉取平多多的数据为空
+[INFO ]2022-08-18 23:18:00.542 [pencil-task-2]PinduoduoOrder[49] | pinduoduoOrder run:23:18:00
+[INFO ]2022-08-18 23:24:43.281 [pencil-task-4]PinduoduoOrder[56] | 拉取平多多的数据为空
+[INFO ]2022-08-18 23:24:43.284 [pencil-task-4]PinduoduoOrder[49] | pinduoduoOrder run:23:24:43
+[INFO ]2022-08-18 23:24:43.308 [pencil-task-3]TaoBaoCreateOrder[99] | 获取新订单返回的内容是：{"tbk_order_details_get_response":{"data":{"has_next":false,"has_pre":false,"page_no":1,"page_size":20,"position_index":"1660835563_|1660836284_","results":{}},"request_id":"16mdw0tcxe7t3"}}
+[INFO ]2022-08-18 23:24:43.308 [pencil-task-3]TaoBaoCreateOrder[89] | TaoBaoCreateOrder run:23:24:43
+[INFO ]2022-08-18 23:25:00.172 [pencil-task-3]TaoBaoCreateOrder[99] | 获取新订单返回的内容是：{"tbk_order_details_get_response":{"data":{"has_next":false,"has_pre":false,"page_no":1,"page_size":20,"position_index":"1660835580_|1660836301_","results":{}},"request_id":"16m3kzhwx4exm"}}
+[INFO ]2022-08-18 23:25:00.174 [pencil-task-3]TaoBaoCreateOrder[89] | TaoBaoCreateOrder run:23:25:00
+[INFO ]2022-08-18 23:29:21.353 [pencil-task-7]JdOrder[52] | 进入京东定时任务
+[INFO ]2022-08-18 23:29:21.356 [pencil-task-7]JdOrder[59] | Pull JDOrder Order Task Start..........time=2022-08-18 23:29:21
+[INFO ]2022-08-18 23:29:21.361 [pencil-task-7]JdOrder[76] | Pull JDOrder Order Task Dealing..........time=2022-08-18 23:29:21, page=1
+[ERROR]2022-08-18 23:29:21.365 [pencil-task-7]ThreadPoolConfig[50] | 执行出现异常:
+java.lang.NoClassDefFoundError: Could not initialize class com.jd.open.api.sdk.internal.util.JsonUtil
+	at com.jd.open.api.sdk.request.kplunion.UnionOpenOrderRowQueryRequest.getAppJsonParams(UnionOpenOrderRowQueryRequest.java:27)
+	at com.jd.open.api.sdk.DefaultJdClient.buildUrl(DefaultJdClient.java:127)
+	at com.jd.open.api.sdk.DefaultJdClient.execute(DefaultJdClient.java:95)
+	at com.freeter.modules.taskOrder.task.JdOrder.getPageOrder(JdOrder.java:81)
+	at com.freeter.modules.taskOrder.task.JdOrder.schedule(JdOrder.java:68)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+[ERROR]2022-08-18 23:34:36.458 [pencil-task-8]PinduoduoOrder[47] | 执行 pinduoduoOrder run 出现异常:
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:464)
+	at sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:68)
+	at sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1341)
+	at sun.security.ssl.SSLSocketImpl.access$300(SSLSocketImpl.java:73)
+	at sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:957)
+	at com.pdd.pop.ext.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at com.pdd.pop.ext.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+	at com.pdd.pop.ext.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:280)
+	at com.pdd.pop.ext.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:138)
+	at com.pdd.pop.ext.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)
+	at com.pdd.pop.ext.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+	at com.pdd.pop.ext.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+	at com.pdd.pop.ext.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)
+	at com.pdd.pop.ext.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+	at com.pdd.pop.ext.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+	at com.pdd.pop.ext.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+	at com.pdd.pop.ext.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at com.pdd.pop.ext.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at com.pdd.pop.ext.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at com.pdd.pop.ext.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at com.pdd.pop.ext.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at com.pdd.pop.ext.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:108)
+	at com.pdd.pop.sdk.http.client.HttpExecutor.syncExecute(HttpExecutor.java:39)
+	at com.pdd.pop.sdk.http.client.AbstractPopClient.syncPost(AbstractPopClient.java:116)
+	at com.pdd.pop.sdk.http.PopHttpClient.syncInvoke(PopHttpClient.java:80)
+	at com.pdd.pop.sdk.http.PopHttpClient.syncInvoke(PopHttpClient.java:63)
+	at com.freeter.modules.taskOrder.task.PinduoduoOrder.getPageOrder(PinduoduoOrder.java:54)
+	at com.freeter.modules.taskOrder.task.PinduoduoOrder.schedule(PinduoduoOrder.java:45)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+[INFO ]2022-08-18 23:34:36.461 [pencil-task-8]PinduoduoOrder[49] | pinduoduoOrder run:23:34:36
+[INFO ]2022-08-18 23:34:53.131 [pencil-task-1]JdOrder[52] | 进入京东定时任务
+[INFO ]2022-08-18 23:34:53.143 [pencil-task-1]JdOrder[59] | Pull JDOrder Order Task Start..........time=2022-08-18 23:34:53
+[INFO ]2022-08-18 23:34:53.147 [pencil-task-1]JdOrder[76] | Pull JDOrder Order Task Dealing..........time=2022-08-18 23:34:53, page=1
+[ERROR]2022-08-18 23:34:53.150 [pencil-task-1]ThreadPoolConfig[50] | 执行出现异常:
+java.lang.NoClassDefFoundError: Could not initialize class com.jd.open.api.sdk.internal.util.JsonUtil
+	at com.jd.open.api.sdk.request.kplunion.UnionOpenOrderRowQueryRequest.getAppJsonParams(UnionOpenOrderRowQueryRequest.java:27)
+	at com.jd.open.api.sdk.DefaultJdClient.buildUrl(DefaultJdClient.java:127)
+	at com.jd.open.api.sdk.DefaultJdClient.execute(DefaultJdClient.java:95)
+	at com.freeter.modules.taskOrder.task.JdOrder.getPageOrder(JdOrder.java:81)
+	at com.freeter.modules.taskOrder.task.JdOrder.schedule(JdOrder.java:68)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+[INFO ]2022-08-18 23:36:00.002 [pencil-task-2]JdOrder[52] | 进入京东定时任务
+[INFO ]2022-08-18 23:36:00.005 [pencil-task-2]JdOrder[59] | Pull JDOrder Order Task Start..........time=2022-08-18 23:36:00
+[INFO ]2022-08-18 23:36:00.007 [pencil-task-2]JdOrder[76] | Pull JDOrder Order Task Dealing..........time=2022-08-18 23:36:00, page=1
+[ERROR]2022-08-18 23:36:00.009 [pencil-task-2]ThreadPoolConfig[50] | 执行出现异常:
+java.lang.NoClassDefFoundError: Could not initialize class com.jd.open.api.sdk.internal.util.JsonUtil
+	at com.jd.open.api.sdk.request.kplunion.UnionOpenOrderRowQueryRequest.getAppJsonParams(UnionOpenOrderRowQueryRequest.java:27)
+	at com.jd.open.api.sdk.DefaultJdClient.buildUrl(DefaultJdClient.java:127)
+	at com.jd.open.api.sdk.DefaultJdClient.execute(DefaultJdClient.java:95)
+	at com.freeter.modules.taskOrder.task.JdOrder.getPageOrder(JdOrder.java:81)
+	at com.freeter.modules.taskOrder.task.JdOrder.schedule(JdOrder.java:68)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+[INFO ]2022-08-18 23:36:00.159 [pencil-task-1]PinduoduoOrder[56] | 拉取平多多的数据为空
+[INFO ]2022-08-18 23:36:00.161 [pencil-task-1]PinduoduoOrder[49] | pinduoduoOrder run:23:36:00
+[INFO ]2022-08-18 23:38:00.146 [pencil-task-1]PinduoduoOrder[56] | 拉取平多多的数据为空
+[INFO ]2022-08-18 23:38:00.148 [pencil-task-1]PinduoduoOrder[49] | pinduoduoOrder run:23:38:00
+[INFO ]2022-08-18 23:38:31.533 [pencil-task-2]TaoBaoCreateOrder[99] | 获取新订单返回的内容是：{"tbk_order_details_get_response":{"data":{"has_next":false,"has_pre":false,"page_no":1,"page_size":20,"position_index":"1660836391_|1660837112_","results":{}},"request_id":"15rdbcm3e171s"}}
+[INFO ]2022-08-18 23:38:31.538 [pencil-task-2]TaoBaoCreateOrder[89] | TaoBaoCreateOrder run:23:38:31
+[INFO ]2022-08-18 23:39:00.011 [pencil-task-5]JdOrder[52] | 进入京东定时任务
+[INFO ]2022-08-18 23:39:00.017 [pencil-task-5]JdOrder[59] | Pull JDOrder Order Task Start..........time=2022-08-18 23:39:00
+[INFO ]2022-08-18 23:39:00.019 [pencil-task-5]JdOrder[76] | Pull JDOrder Order Task Dealing..........time=2022-08-18 23:39:00, page=1
+[ERROR]2022-08-18 23:39:00.022 [pencil-task-5]ThreadPoolConfig[50] | 执行出现异常:
+java.lang.NoClassDefFoundError: Could not initialize class com.jd.open.api.sdk.internal.util.JsonUtil
+	at com.jd.open.api.sdk.request.kplunion.UnionOpenOrderRowQueryRequest.getAppJsonParams(UnionOpenOrderRowQueryRequest.java:27)
+	at com.jd.open.api.sdk.DefaultJdClient.buildUrl(DefaultJdClient.java:127)
+	at com.jd.open.api.sdk.DefaultJdClient.execute(DefaultJdClient.java:95)
+	at com.freeter.modules.taskOrder.task.JdOrder.getPageOrder(JdOrder.java:81)
+	at com.freeter.modules.taskOrder.task.JdOrder.schedule(JdOrder.java:68)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+[INFO ]2022-08-18 23:40:00.127 [pencil-task-8]PinduoduoOrder[56] | 拉取平多多的数据为空
+[INFO ]2022-08-18 23:40:00.129 [pencil-task-8]PinduoduoOrder[49] | pinduoduoOrder run:23:40:00
+[INFO ]2022-08-18 23:40:00.131 [pencil-task-7]TaoBaoCreateOrder[99] | 获取新订单返回的内容是：{"tbk_order_details_get_response":{"data":{"has_next":false,"has_pre":false,"page_no":1,"page_size":20,"position_index":"1660836480_|1660837201_","results":{}},"request_id":"15r9i5rvu9k4b"}}
+[INFO ]2022-08-18 23:40:00.133 [pencil-task-7]TaoBaoCreateOrder[89] | TaoBaoCreateOrder run:23:40:00
+[INFO ]2022-08-18 23:42:00.003 [pencil-task-3]JdOrder[52] | 进入京东定时任务
+[INFO ]2022-08-18 23:42:00.012 [pencil-task-3]JdOrder[59] | Pull JDOrder Order Task Start..........time=2022-08-18 23:42:00
+[INFO ]2022-08-18 23:42:00.015 [pencil-task-3]JdOrder[76] | Pull JDOrder Order Task Dealing..........time=2022-08-18 23:42:00, page=1
+[ERROR]2022-08-18 23:42:00.018 [pencil-task-3]ThreadPoolConfig[50] | 执行出现异常:
+java.lang.NoClassDefFoundError: Could not initialize class com.jd.open.api.sdk.internal.util.JsonUtil
+	at com.jd.open.api.sdk.request.kplunion.UnionOpenOrderRowQueryRequest.getAppJsonParams(UnionOpenOrderRowQueryRequest.java:27)
+	at com.jd.open.api.sdk.DefaultJdClient.buildUrl(DefaultJdClient.java:127)
+	at com.jd.open.api.sdk.DefaultJdClient.execute(DefaultJdClient.java:95)
+	at com.freeter.modules.taskOrder.task.JdOrder.getPageOrder(JdOrder.java:81)
+	at com.freeter.modules.taskOrder.task.JdOrder.schedule(JdOrder.java:68)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+[INFO ]2022-08-18 23:42:00.149 [pencil-task-8]PinduoduoOrder[56] | 拉取平多多的数据为空
+[INFO ]2022-08-18 23:42:00.154 [pencil-task-8]PinduoduoOrder[49] | pinduoduoOrder run:23:42:00
+[ERROR]2022-08-18 23:53:31.121 [pencil-task-2]PinduoduoOrder[47] | 执行 pinduoduoOrder run 出现异常:
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:464)
+	at sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:68)
+	at sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1341)
+	at sun.security.ssl.SSLSocketImpl.access$300(SSLSocketImpl.java:73)
+	at sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:957)
+	at com.pdd.pop.ext.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at com.pdd.pop.ext.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+	at com.pdd.pop.ext.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:280)
+	at com.pdd.pop.ext.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:138)
+	at com.pdd.pop.ext.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)
+	at com.pdd.pop.ext.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+	at com.pdd.pop.ext.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+	at com.pdd.pop.ext.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)
+	at com.pdd.pop.ext.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+	at com.pdd.pop.ext.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+	at com.pdd.pop.ext.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+	at com.pdd.pop.ext.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at com.pdd.pop.ext.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at com.pdd.pop.ext.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at com.pdd.pop.ext.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at com.pdd.pop.ext.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at com.pdd.pop.ext.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:108)
+	at com.pdd.pop.sdk.http.client.HttpExecutor.syncExecute(HttpExecutor.java:39)
+	at com.pdd.pop.sdk.http.client.AbstractPopClient.syncPost(AbstractPopClient.java:116)
+	at com.pdd.pop.sdk.http.PopHttpClient.syncInvoke(PopHttpClient.java:80)
+	at com.pdd.pop.sdk.http.PopHttpClient.syncInvoke(PopHttpClient.java:63)
+	at com.freeter.modules.taskOrder.task.PinduoduoOrder.getPageOrder(PinduoduoOrder.java:54)
+	at com.freeter.modules.taskOrder.task.PinduoduoOrder.schedule(PinduoduoOrder.java:45)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+[INFO ]2022-08-18 23:53:31.132 [pencil-task-2]PinduoduoOrder[49] | pinduoduoOrder run:23:53:31
+[INFO ]2022-08-18 23:58:43.157 [pencil-task-2]PinduoduoOrder[56] | 拉取平多多的数据为空
+[INFO ]2022-08-18 23:58:43.159 [pencil-task-2]PinduoduoOrder[49] | pinduoduoOrder run:23:58:43
+[INFO ]2022-08-18 23:59:09.034 [pencil-task-5]JdOrder[52] | 进入京东定时任务
+[INFO ]2022-08-18 23:59:09.037 [pencil-task-5]JdOrder[59] | Pull JDOrder Order Task Start..........time=2022-08-18 23:59:09
+[INFO ]2022-08-18 23:59:09.042 [pencil-task-5]JdOrder[76] | Pull JDOrder Order Task Dealing..........time=2022-08-18 23:59:09, page=1
+[ERROR]2022-08-18 23:59:09.046 [pencil-task-5]ThreadPoolConfig[50] | 执行出现异常:
+java.lang.NoClassDefFoundError: Could not initialize class com.jd.open.api.sdk.internal.util.JsonUtil
+	at com.jd.open.api.sdk.request.kplunion.UnionOpenOrderRowQueryRequest.getAppJsonParams(UnionOpenOrderRowQueryRequest.java:27)
+	at com.jd.open.api.sdk.DefaultJdClient.buildUrl(DefaultJdClient.java:127)
+	at com.jd.open.api.sdk.DefaultJdClient.execute(DefaultJdClient.java:95)
+	at com.freeter.modules.taskOrder.task.JdOrder.getPageOrder(JdOrder.java:81)
+	at com.freeter.modules.taskOrder.task.JdOrder.schedule(JdOrder.java:68)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+[INFO ]2022-08-18 23:59:09.168 [pencil-task-7]TaoBaoCreateOrder[99] | 获取新订单返回的内容是：{"tbk_order_details_get_response":{"data":{"has_next":false,"has_pre":false,"page_no":1,"page_size":20,"position_index":"1660837629_|1660838350_","results":{}},"request_id":"16lsxh7y4zylp"}}
+[INFO ]2022-08-18 23:59:09.178 [pencil-task-7]TaoBaoCreateOrder[89] | TaoBaoCreateOrder run:23:59:09

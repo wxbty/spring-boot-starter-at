@@ -1,0 +1,1041 @@
+[INFO ]2022-08-08 00:34:39.901 [pencil-task-2]JdOrder[52] | 进入京东定时任务
+[INFO ]2022-08-08 00:34:39.920 [pencil-task-2]JdOrder[59] | Pull JDOrder Order Task Start..........time=2022-08-08 00:34:39
+[INFO ]2022-08-08 00:34:39.926 [pencil-task-2]JdOrder[76] | Pull JDOrder Order Task Dealing..........time=2022-08-08 00:34:39, page=1
+[ERROR]2022-08-08 00:34:39.927 [pencil-task-2]ThreadPoolConfig[50] | 执行出现异常:
+java.lang.NoClassDefFoundError: Could not initialize class com.jd.open.api.sdk.internal.util.JsonUtil
+	at com.jd.open.api.sdk.request.kplunion.UnionOpenOrderRowQueryRequest.getAppJsonParams(UnionOpenOrderRowQueryRequest.java:27)
+	at com.jd.open.api.sdk.DefaultJdClient.buildUrl(DefaultJdClient.java:127)
+	at com.jd.open.api.sdk.DefaultJdClient.execute(DefaultJdClient.java:95)
+	at com.freeter.modules.taskOrder.task.JdOrder.getPageOrder(JdOrder.java:81)
+	at com.freeter.modules.taskOrder.task.JdOrder.schedule(JdOrder.java:68)
+	at sun.reflect.GeneratedMethodAccessor155.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+[INFO ]2022-08-08 01:39:48.621 [pencil-task-6]TaoBaoCreateOrder[99] | 获取新订单返回的内容是：{"tbk_order_details_get_response":{"data":{"has_next":false,"has_pre":false,"page_no":1,"page_size":20,"position_index":"1659893268_|1659893989_","results":{}},"request_id":"16m51ndeu12uu"}}
+[INFO ]2022-08-08 01:39:48.630 [pencil-task-6]TaoBaoCreateOrder[89] | TaoBaoCreateOrder run:01:39:48
+[INFO ]2022-08-08 01:40:00.128 [pencil-task-6]TaoBaoCreateOrder[99] | 获取新订单返回的内容是：{"tbk_order_details_get_response":{"data":{"has_next":false,"has_pre":false,"page_no":1,"page_size":20,"position_index":"1659893280_|1659894001_","results":{}},"request_id":"15rja5af6jadz"}}
+[INFO ]2022-08-08 01:40:00.130 [pencil-task-6]TaoBaoCreateOrder[89] | TaoBaoCreateOrder run:01:40:00
+[INFO ]2022-08-08 01:55:28.360 [pencil-task-1]PinduoduoOrder[56] | 拉取平多多的数据为空
+[INFO ]2022-08-08 01:55:28.362 [pencil-task-1]PinduoduoOrder[49] | pinduoduoOrder run:01:55:28
+[INFO ]2022-08-08 02:12:01.698 [pencil-task-5]JdOrder[52] | 进入京东定时任务
+[INFO ]2022-08-08 02:12:01.810 [pencil-task-5]JdOrder[59] | Pull JDOrder Order Task Start..........time=2022-08-08 02:12:01
+[INFO ]2022-08-08 02:12:01.814 [pencil-task-5]JdOrder[76] | Pull JDOrder Order Task Dealing..........time=2022-08-08 02:12:01, page=1
+[ERROR]2022-08-08 02:12:01.815 [pencil-task-5]ThreadPoolConfig[50] | 执行出现异常:
+java.lang.NoClassDefFoundError: Could not initialize class com.jd.open.api.sdk.internal.util.JsonUtil
+	at com.jd.open.api.sdk.request.kplunion.UnionOpenOrderRowQueryRequest.getAppJsonParams(UnionOpenOrderRowQueryRequest.java:27)
+	at com.jd.open.api.sdk.DefaultJdClient.buildUrl(DefaultJdClient.java:127)
+	at com.jd.open.api.sdk.DefaultJdClient.execute(DefaultJdClient.java:95)
+	at com.freeter.modules.taskOrder.task.JdOrder.getPageOrder(JdOrder.java:81)
+	at com.freeter.modules.taskOrder.task.JdOrder.schedule(JdOrder.java:68)
+	at sun.reflect.GeneratedMethodAccessor155.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+[ERROR]2022-08-08 03:53:21.852 [pencil-task-8]PinduoduoOrder[47] | 执行 pinduoduoOrder run 出现异常:
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:464)
+	at sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:68)
+	at sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1341)
+	at sun.security.ssl.SSLSocketImpl.access$300(SSLSocketImpl.java:73)
+	at sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:957)
+	at com.pdd.pop.ext.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at com.pdd.pop.ext.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+	at com.pdd.pop.ext.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:280)
+	at com.pdd.pop.ext.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:138)
+	at com.pdd.pop.ext.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)
+	at com.pdd.pop.ext.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+	at com.pdd.pop.ext.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+	at com.pdd.pop.ext.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)
+	at com.pdd.pop.ext.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+	at com.pdd.pop.ext.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+	at com.pdd.pop.ext.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+	at com.pdd.pop.ext.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at com.pdd.pop.ext.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at com.pdd.pop.ext.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at com.pdd.pop.ext.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at com.pdd.pop.ext.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at com.pdd.pop.ext.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:108)
+	at com.pdd.pop.sdk.http.client.HttpExecutor.syncExecute(HttpExecutor.java:39)
+	at com.pdd.pop.sdk.http.client.AbstractPopClient.syncPost(AbstractPopClient.java:116)
+	at com.pdd.pop.sdk.http.PopHttpClient.syncInvoke(PopHttpClient.java:80)
+	at com.pdd.pop.sdk.http.PopHttpClient.syncInvoke(PopHttpClient.java:63)
+	at com.freeter.modules.taskOrder.task.PinduoduoOrder.getPageOrder(PinduoduoOrder.java:54)
+	at com.freeter.modules.taskOrder.task.PinduoduoOrder.schedule(PinduoduoOrder.java:45)
+	at sun.reflect.GeneratedMethodAccessor153.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+[INFO ]2022-08-08 03:53:21.894 [pencil-task-8]PinduoduoOrder[49] | pinduoduoOrder run:03:53:21
+[INFO ]2022-08-08 04:43:31.189 [pencil-task-8]PinduoduoOrder[56] | 拉取平多多的数据为空
+[INFO ]2022-08-08 04:43:31.191 [pencil-task-8]PinduoduoOrder[49] | pinduoduoOrder run:04:43:31
+[ERROR]2022-08-08 06:02:51.199 [pencil-task-4]PinduoduoOrder[47] | 执行 pinduoduoOrder run 出现异常:
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:464)
+	at sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:68)
+	at sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1341)
+	at sun.security.ssl.SSLSocketImpl.access$300(SSLSocketImpl.java:73)
+	at sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:957)
+	at com.pdd.pop.ext.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at com.pdd.pop.ext.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+	at com.pdd.pop.ext.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:280)
+	at com.pdd.pop.ext.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:138)
+	at com.pdd.pop.ext.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)
+	at com.pdd.pop.ext.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+	at com.pdd.pop.ext.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+	at com.pdd.pop.ext.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)
+	at com.pdd.pop.ext.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+	at com.pdd.pop.ext.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+	at com.pdd.pop.ext.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+	at com.pdd.pop.ext.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at com.pdd.pop.ext.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at com.pdd.pop.ext.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at com.pdd.pop.ext.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at com.pdd.pop.ext.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at com.pdd.pop.ext.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:108)
+	at com.pdd.pop.sdk.http.client.HttpExecutor.syncExecute(HttpExecutor.java:39)
+	at com.pdd.pop.sdk.http.client.AbstractPopClient.syncPost(AbstractPopClient.java:116)
+	at com.pdd.pop.sdk.http.PopHttpClient.syncInvoke(PopHttpClient.java:80)
+	at com.pdd.pop.sdk.http.PopHttpClient.syncInvoke(PopHttpClient.java:63)
+	at com.freeter.modules.taskOrder.task.PinduoduoOrder.getPageOrder(PinduoduoOrder.java:54)
+	at com.freeter.modules.taskOrder.task.PinduoduoOrder.schedule(PinduoduoOrder.java:45)
+	at sun.reflect.GeneratedMethodAccessor153.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+[INFO ]2022-08-08 06:02:51.205 [pencil-task-4]PinduoduoOrder[49] | pinduoduoOrder run:06:02:51
+[INFO ]2022-08-08 06:19:25.811 [pencil-task-4]PinduoduoOrder[56] | 拉取平多多的数据为空
+[INFO ]2022-08-08 06:19:25.816 [pencil-task-4]PinduoduoOrder[49] | pinduoduoOrder run:06:19:25
+[INFO ]2022-08-08 06:35:50.675 [pencil-task-7]JdOrder[52] | 进入京东定时任务
+[INFO ]2022-08-08 06:35:50.679 [pencil-task-7]JdOrder[59] | Pull JDOrder Order Task Start..........time=2022-08-08 06:35:50
+[INFO ]2022-08-08 06:35:50.683 [pencil-task-7]JdOrder[76] | Pull JDOrder Order Task Dealing..........time=2022-08-08 06:35:50, page=1
+[ERROR]2022-08-08 06:35:50.685 [pencil-task-7]ThreadPoolConfig[50] | 执行出现异常:
+java.lang.NoClassDefFoundError: Could not initialize class com.jd.open.api.sdk.internal.util.JsonUtil
+	at com.jd.open.api.sdk.request.kplunion.UnionOpenOrderRowQueryRequest.getAppJsonParams(UnionOpenOrderRowQueryRequest.java:27)
+	at com.jd.open.api.sdk.DefaultJdClient.buildUrl(DefaultJdClient.java:127)
+	at com.jd.open.api.sdk.DefaultJdClient.execute(DefaultJdClient.java:95)
+	at com.freeter.modules.taskOrder.task.JdOrder.getPageOrder(JdOrder.java:81)
+	at com.freeter.modules.taskOrder.task.JdOrder.schedule(JdOrder.java:68)
+	at sun.reflect.GeneratedMethodAccessor155.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+[INFO ]2022-08-08 06:53:06.515 [pencil-task-7]JdOrder[52] | 进入京东定时任务
+[INFO ]2022-08-08 06:53:06.517 [pencil-task-7]JdOrder[59] | Pull JDOrder Order Task Start..........time=2022-08-08 06:53:06
+[INFO ]2022-08-08 06:53:06.517 [pencil-task-7]JdOrder[76] | Pull JDOrder Order Task Dealing..........time=2022-08-08 06:53:06, page=1
+[ERROR]2022-08-08 06:53:06.518 [pencil-task-7]ThreadPoolConfig[50] | 执行出现异常:
+java.lang.NoClassDefFoundError: Could not initialize class com.jd.open.api.sdk.internal.util.JsonUtil
+	at com.jd.open.api.sdk.request.kplunion.UnionOpenOrderRowQueryRequest.getAppJsonParams(UnionOpenOrderRowQueryRequest.java:27)
+	at com.jd.open.api.sdk.DefaultJdClient.buildUrl(DefaultJdClient.java:127)
+	at com.jd.open.api.sdk.DefaultJdClient.execute(DefaultJdClient.java:95)
+	at com.freeter.modules.taskOrder.task.JdOrder.getPageOrder(JdOrder.java:81)
+	at com.freeter.modules.taskOrder.task.JdOrder.schedule(JdOrder.java:68)
+	at sun.reflect.GeneratedMethodAccessor155.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+[ERROR]2022-08-08 08:32:54.508 [pencil-task-5]PinduoduoOrder[47] | 执行 pinduoduoOrder run 出现异常:
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:464)
+	at sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:68)
+	at sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1341)
+	at sun.security.ssl.SSLSocketImpl.access$300(SSLSocketImpl.java:73)
+	at sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:957)
+	at com.pdd.pop.ext.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at com.pdd.pop.ext.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+	at com.pdd.pop.ext.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:280)
+	at com.pdd.pop.ext.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:138)
+	at com.pdd.pop.ext.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)
+	at com.pdd.pop.ext.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+	at com.pdd.pop.ext.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+	at com.pdd.pop.ext.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)
+	at com.pdd.pop.ext.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+	at com.pdd.pop.ext.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+	at com.pdd.pop.ext.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+	at com.pdd.pop.ext.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at com.pdd.pop.ext.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at com.pdd.pop.ext.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at com.pdd.pop.ext.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at com.pdd.pop.ext.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at com.pdd.pop.ext.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:108)
+	at com.pdd.pop.sdk.http.client.HttpExecutor.syncExecute(HttpExecutor.java:39)
+	at com.pdd.pop.sdk.http.client.AbstractPopClient.syncPost(AbstractPopClient.java:116)
+	at com.pdd.pop.sdk.http.PopHttpClient.syncInvoke(PopHttpClient.java:80)
+	at com.pdd.pop.sdk.http.PopHttpClient.syncInvoke(PopHttpClient.java:63)
+	at com.freeter.modules.taskOrder.task.PinduoduoOrder.getPageOrder(PinduoduoOrder.java:54)
+	at com.freeter.modules.taskOrder.task.PinduoduoOrder.schedule(PinduoduoOrder.java:45)
+	at sun.reflect.GeneratedMethodAccessor153.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+[INFO ]2022-08-08 08:32:54.510 [pencil-task-5]PinduoduoOrder[49] | pinduoduoOrder run:08:32:54
+[INFO ]2022-08-08 08:48:45.998 [pencil-task-8]JdOrder[52] | 进入京东定时任务
+[INFO ]2022-08-08 08:48:46.000 [pencil-task-8]JdOrder[59] | Pull JDOrder Order Task Start..........time=2022-08-08 08:48:46
+[INFO ]2022-08-08 08:48:46.001 [pencil-task-8]JdOrder[76] | Pull JDOrder Order Task Dealing..........time=2022-08-08 08:48:46, page=1
+[ERROR]2022-08-08 08:48:46.002 [pencil-task-8]ThreadPoolConfig[50] | 执行出现异常:
+java.lang.NoClassDefFoundError: Could not initialize class com.jd.open.api.sdk.internal.util.JsonUtil
+	at com.jd.open.api.sdk.request.kplunion.UnionOpenOrderRowQueryRequest.getAppJsonParams(UnionOpenOrderRowQueryRequest.java:27)
+	at com.jd.open.api.sdk.DefaultJdClient.buildUrl(DefaultJdClient.java:127)
+	at com.jd.open.api.sdk.DefaultJdClient.execute(DefaultJdClient.java:95)
+	at com.freeter.modules.taskOrder.task.JdOrder.getPageOrder(JdOrder.java:81)
+	at com.freeter.modules.taskOrder.task.JdOrder.schedule(JdOrder.java:68)
+	at sun.reflect.GeneratedMethodAccessor155.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+[INFO ]2022-08-08 10:25:43.456 [pencil-task-1]TaoBaoCreateOrder[99] | 获取新订单返回的内容是：{"tbk_order_details_get_response":{"data":{"has_next":false,"has_pre":false,"page_no":1,"page_size":20,"position_index":"1659924822_|1659925543_","results":{}},"request_id":"16maez25lrqsr"}}
+[INFO ]2022-08-08 10:25:43.457 [pencil-task-1]TaoBaoCreateOrder[89] | TaoBaoCreateOrder run:10:25:43
+[INFO ]2022-08-08 10:43:28.165 [pencil-task-4]PinduoduoOrder[56] | 拉取平多多的数据为空
+[INFO ]2022-08-08 10:43:28.166 [pencil-task-4]PinduoduoOrder[49] | pinduoduoOrder run:10:43:28
+[ERROR]2022-08-08 11:48:38.263 [pencil-task-4]PinduoduoOrder[47] | 执行 pinduoduoOrder run 出现异常:
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:464)
+	at sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:68)
+	at sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1341)
+	at sun.security.ssl.SSLSocketImpl.access$300(SSLSocketImpl.java:73)
+	at sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:957)
+	at com.pdd.pop.ext.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at com.pdd.pop.ext.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+	at com.pdd.pop.ext.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:280)
+	at com.pdd.pop.ext.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:138)
+	at com.pdd.pop.ext.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)
+	at com.pdd.pop.ext.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+	at com.pdd.pop.ext.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+	at com.pdd.pop.ext.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)
+	at com.pdd.pop.ext.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+	at com.pdd.pop.ext.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+	at com.pdd.pop.ext.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+	at com.pdd.pop.ext.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at com.pdd.pop.ext.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at com.pdd.pop.ext.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at com.pdd.pop.ext.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at com.pdd.pop.ext.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at com.pdd.pop.ext.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:108)
+	at com.pdd.pop.sdk.http.client.HttpExecutor.syncExecute(HttpExecutor.java:39)
+	at com.pdd.pop.sdk.http.client.AbstractPopClient.syncPost(AbstractPopClient.java:116)
+	at com.pdd.pop.sdk.http.PopHttpClient.syncInvoke(PopHttpClient.java:80)
+	at com.pdd.pop.sdk.http.PopHttpClient.syncInvoke(PopHttpClient.java:63)
+	at com.freeter.modules.taskOrder.task.PinduoduoOrder.getPageOrder(PinduoduoOrder.java:54)
+	at com.freeter.modules.taskOrder.task.PinduoduoOrder.schedule(PinduoduoOrder.java:45)
+	at sun.reflect.GeneratedMethodAccessor153.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+[INFO ]2022-08-08 11:48:38.265 [pencil-task-4]PinduoduoOrder[49] | pinduoduoOrder run:11:48:38
+[INFO ]2022-08-08 12:55:33.024 [pencil-task-3]JdOrder[52] | 进入京东定时任务
+[INFO ]2022-08-08 12:55:33.026 [pencil-task-3]JdOrder[59] | Pull JDOrder Order Task Start..........time=2022-08-08 12:55:33
+[INFO ]2022-08-08 12:55:33.027 [pencil-task-3]JdOrder[76] | Pull JDOrder Order Task Dealing..........time=2022-08-08 12:55:33, page=1
+[ERROR]2022-08-08 12:55:33.029 [pencil-task-3]ThreadPoolConfig[50] | 执行出现异常:
+java.lang.NoClassDefFoundError: Could not initialize class com.jd.open.api.sdk.internal.util.JsonUtil
+	at com.jd.open.api.sdk.request.kplunion.UnionOpenOrderRowQueryRequest.getAppJsonParams(UnionOpenOrderRowQueryRequest.java:27)
+	at com.jd.open.api.sdk.DefaultJdClient.buildUrl(DefaultJdClient.java:127)
+	at com.jd.open.api.sdk.DefaultJdClient.execute(DefaultJdClient.java:95)
+	at com.freeter.modules.taskOrder.task.JdOrder.getPageOrder(JdOrder.java:81)
+	at com.freeter.modules.taskOrder.task.JdOrder.schedule(JdOrder.java:68)
+	at sun.reflect.GeneratedMethodAccessor155.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+[INFO ]2022-08-08 14:21:12.698 [pencil-task-7]PinduoduoOrder[56] | 拉取平多多的数据为空
+[INFO ]2022-08-08 14:21:12.699 [pencil-task-7]PinduoduoOrder[49] | pinduoduoOrder run:14:21:12
+[ERROR]2022-08-08 15:56:49.199 [pencil-task-7]PinduoduoOrder[47] | 执行 pinduoduoOrder run 出现异常:
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:464)
+	at sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:68)
+	at sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1341)
+	at sun.security.ssl.SSLSocketImpl.access$300(SSLSocketImpl.java:73)
+	at sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:957)
+	at com.pdd.pop.ext.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at com.pdd.pop.ext.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+	at com.pdd.pop.ext.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:280)
+	at com.pdd.pop.ext.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:138)
+	at com.pdd.pop.ext.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)
+	at com.pdd.pop.ext.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+	at com.pdd.pop.ext.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+	at com.pdd.pop.ext.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)
+	at com.pdd.pop.ext.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+	at com.pdd.pop.ext.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+	at com.pdd.pop.ext.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+	at com.pdd.pop.ext.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at com.pdd.pop.ext.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at com.pdd.pop.ext.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at com.pdd.pop.ext.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at com.pdd.pop.ext.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at com.pdd.pop.ext.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:108)
+	at com.pdd.pop.sdk.http.client.HttpExecutor.syncExecute(HttpExecutor.java:39)
+	at com.pdd.pop.sdk.http.client.AbstractPopClient.syncPost(AbstractPopClient.java:116)
+	at com.pdd.pop.sdk.http.PopHttpClient.syncInvoke(PopHttpClient.java:80)
+	at com.pdd.pop.sdk.http.PopHttpClient.syncInvoke(PopHttpClient.java:63)
+	at com.freeter.modules.taskOrder.task.PinduoduoOrder.getPageOrder(PinduoduoOrder.java:54)
+	at com.freeter.modules.taskOrder.task.PinduoduoOrder.schedule(PinduoduoOrder.java:45)
+	at sun.reflect.GeneratedMethodAccessor153.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+[INFO ]2022-08-08 15:56:49.201 [pencil-task-7]PinduoduoOrder[49] | pinduoduoOrder run:15:56:49
+[INFO ]2022-08-08 15:56:59.976 [pencil-task-5]JdOrder[52] | 进入京东定时任务
+[INFO ]2022-08-08 15:56:59.978 [pencil-task-5]JdOrder[59] | Pull JDOrder Order Task Start..........time=2022-08-08 15:56:59
+[INFO ]2022-08-08 15:56:59.978 [pencil-task-5]JdOrder[76] | Pull JDOrder Order Task Dealing..........time=2022-08-08 15:56:59, page=1
+[ERROR]2022-08-08 15:56:59.980 [pencil-task-5]ThreadPoolConfig[50] | 执行出现异常:
+java.lang.NoClassDefFoundError: Could not initialize class com.jd.open.api.sdk.internal.util.JsonUtil
+	at com.jd.open.api.sdk.request.kplunion.UnionOpenOrderRowQueryRequest.getAppJsonParams(UnionOpenOrderRowQueryRequest.java:27)
+	at com.jd.open.api.sdk.DefaultJdClient.buildUrl(DefaultJdClient.java:127)
+	at com.jd.open.api.sdk.DefaultJdClient.execute(DefaultJdClient.java:95)
+	at com.freeter.modules.taskOrder.task.JdOrder.getPageOrder(JdOrder.java:81)
+	at com.freeter.modules.taskOrder.task.JdOrder.schedule(JdOrder.java:68)
+	at sun.reflect.GeneratedMethodAccessor155.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+[INFO ]2022-08-08 15:57:00.003 [pencil-task-5]JdOrder[52] | 进入京东定时任务
+[INFO ]2022-08-08 15:57:00.004 [pencil-task-5]JdOrder[59] | Pull JDOrder Order Task Start..........time=2022-08-08 15:57:00
+[INFO ]2022-08-08 15:57:00.004 [pencil-task-5]JdOrder[76] | Pull JDOrder Order Task Dealing..........time=2022-08-08 15:57:00, page=1
+[ERROR]2022-08-08 15:57:00.005 [pencil-task-5]ThreadPoolConfig[50] | 执行出现异常:
+java.lang.NoClassDefFoundError: Could not initialize class com.jd.open.api.sdk.internal.util.JsonUtil
+	at com.jd.open.api.sdk.request.kplunion.UnionOpenOrderRowQueryRequest.getAppJsonParams(UnionOpenOrderRowQueryRequest.java:27)
+	at com.jd.open.api.sdk.DefaultJdClient.buildUrl(DefaultJdClient.java:127)
+	at com.jd.open.api.sdk.DefaultJdClient.execute(DefaultJdClient.java:95)
+	at com.freeter.modules.taskOrder.task.JdOrder.getPageOrder(JdOrder.java:81)
+	at com.freeter.modules.taskOrder.task.JdOrder.schedule(JdOrder.java:68)
+	at sun.reflect.GeneratedMethodAccessor155.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+[INFO ]2022-08-08 17:52:37.535 [pencil-task-4]PinduoduoOrder[56] | 拉取平多多的数据为空
+[INFO ]2022-08-08 17:52:37.537 [pencil-task-4]PinduoduoOrder[49] | pinduoduoOrder run:17:52:37
+[ERROR]2022-08-08 18:25:54.320 [pencil-task-2]topsdk[50] | 2022-08-08 18:25:54.319^_^30117515^_^taobao.tbk.order.details.get^_^127.0.0.1^_^Mac OS X^_^9^_^http://gw.api.taobao.com/router/rest^_^method=taobao.tbk.order.details.get&sign=8C3183A9D3CD0E126D6522207B0B1AF27F0FC65C8A2FD2E7A59E7A53876B7A69&format=json&end_time=2022-08-08+18%3A25%3A54&page_no=1&query_type=1&order_scene=2&start_time=2022-08-08+18%3A13%3A54&app_key=30117515&partner_id=top-sdk-java-20200802&v=2.0&sign_method=hmac-sha256&timestamp=2022-08-08+18%3A25%3A54&page_size=20^_^java.net.UnknownHostException: gw.api.taobao.com
+[ERROR]2022-08-08 18:25:54.322 [pencil-task-2]TaoBaoCreateOrder[366] | TaoBaoCreateOrder run,出现异常:
+com.taobao.api.ApiException: java.net.UnknownHostException: gw.api.taobao.com
+	at com.taobao.api.DefaultTaobaoClient.invokeApi(DefaultTaobaoClient.java:404)
+	at com.taobao.api.DefaultTaobaoClient.invokeApi(DefaultTaobaoClient.java:302)
+	at com.taobao.api.DefaultTaobaoClient._execute(DefaultTaobaoClient.java:97)
+	at com.taobao.api.DefaultTaobaoClient.execute(DefaultTaobaoClient.java:71)
+	at com.taobao.api.DefaultTaobaoClient.execute(DefaultTaobaoClient.java:67)
+	at com.freeter.modules.taskOrder.task.TaoBaoCreateOrder.getPageOrder(TaoBaoCreateOrder.java:97)
+	at com.freeter.modules.taskOrder.task.TaoBaoCreateOrder.schedule(TaoBaoCreateOrder.java:88)
+	at sun.reflect.GeneratedMethodAccessor158.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.net.UnknownHostException: gw.api.taobao.com
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:607)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:175)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:242)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:339)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:357)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1228)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1162)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1056)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:990)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(HttpURLConnection.java:1342)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream(HttpURLConnection.java:1317)
+	at com.taobao.api.internal.util.WebV2Utils._doPost(WebV2Utils.java:127)
+	at com.taobao.api.internal.util.WebV2Utils.doPost(WebV2Utils.java:84)
+	at com.taobao.api.DefaultTaobaoClient.invokeApi(DefaultTaobaoClient.java:397)
+	... 20 common frames omitted
+[INFO ]2022-08-08 18:25:54.323 [pencil-task-2]TaoBaoCreateOrder[89] | TaoBaoCreateOrder run:18:25:54
+[ERROR]2022-08-08 21:09:11.124 [pencil-task-3]PinduoduoOrder[47] | 执行 pinduoduoOrder run 出现异常:
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:464)
+	at sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:68)
+	at sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1341)
+	at sun.security.ssl.SSLSocketImpl.access$300(SSLSocketImpl.java:73)
+	at sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:957)
+	at com.pdd.pop.ext.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at com.pdd.pop.ext.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+	at com.pdd.pop.ext.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:280)
+	at com.pdd.pop.ext.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:138)
+	at com.pdd.pop.ext.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)
+	at com.pdd.pop.ext.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+	at com.pdd.pop.ext.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+	at com.pdd.pop.ext.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)
+	at com.pdd.pop.ext.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+	at com.pdd.pop.ext.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+	at com.pdd.pop.ext.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+	at com.pdd.pop.ext.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at com.pdd.pop.ext.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at com.pdd.pop.ext.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at com.pdd.pop.ext.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at com.pdd.pop.ext.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at com.pdd.pop.ext.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:108)
+	at com.pdd.pop.sdk.http.client.HttpExecutor.syncExecute(HttpExecutor.java:39)
+	at com.pdd.pop.sdk.http.client.AbstractPopClient.syncPost(AbstractPopClient.java:116)
+	at com.pdd.pop.sdk.http.PopHttpClient.syncInvoke(PopHttpClient.java:80)
+	at com.pdd.pop.sdk.http.PopHttpClient.syncInvoke(PopHttpClient.java:63)
+	at com.freeter.modules.taskOrder.task.PinduoduoOrder.getPageOrder(PinduoduoOrder.java:54)
+	at com.freeter.modules.taskOrder.task.PinduoduoOrder.schedule(PinduoduoOrder.java:45)
+	at sun.reflect.GeneratedMethodAccessor153.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+[INFO ]2022-08-08 21:09:11.128 [pencil-task-3]PinduoduoOrder[49] | pinduoduoOrder run:21:09:11
+[INFO ]2022-08-08 22:49:43.060 [pencil-task-8]JdOrder[52] | 进入京东定时任务
+[INFO ]2022-08-08 22:49:43.062 [pencil-task-8]JdOrder[59] | Pull JDOrder Order Task Start..........time=2022-08-08 22:49:43
+[INFO ]2022-08-08 22:49:43.063 [pencil-task-8]JdOrder[76] | Pull JDOrder Order Task Dealing..........time=2022-08-08 22:49:43, page=1
+[ERROR]2022-08-08 22:49:43.064 [pencil-task-8]ThreadPoolConfig[50] | 执行出现异常:
+java.lang.NoClassDefFoundError: Could not initialize class com.jd.open.api.sdk.internal.util.JsonUtil
+	at com.jd.open.api.sdk.request.kplunion.UnionOpenOrderRowQueryRequest.getAppJsonParams(UnionOpenOrderRowQueryRequest.java:27)
+	at com.jd.open.api.sdk.DefaultJdClient.buildUrl(DefaultJdClient.java:127)
+	at com.jd.open.api.sdk.DefaultJdClient.execute(DefaultJdClient.java:95)
+	at com.freeter.modules.taskOrder.task.JdOrder.getPageOrder(JdOrder.java:81)
+	at com.freeter.modules.taskOrder.task.JdOrder.schedule(JdOrder.java:68)
+	at sun.reflect.GeneratedMethodAccessor155.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+[INFO ]2022-08-08 23:19:34.262 [pencil-task-7]PinduoduoOrder[56] | 拉取平多多的数据为空
+[INFO ]2022-08-08 23:19:34.267 [pencil-task-7]PinduoduoOrder[49] | pinduoduoOrder run:23:19:34
+[ERROR]2022-08-08 23:23:15.371 [pencil-task-7]PinduoduoOrder[47] | 执行 pinduoduoOrder run 出现异常:
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:464)
+	at sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:68)
+	at sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1341)
+	at sun.security.ssl.SSLSocketImpl.access$300(SSLSocketImpl.java:73)
+	at sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:957)
+	at com.pdd.pop.ext.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at com.pdd.pop.ext.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+	at com.pdd.pop.ext.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:280)
+	at com.pdd.pop.ext.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:138)
+	at com.pdd.pop.ext.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)
+	at com.pdd.pop.ext.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+	at com.pdd.pop.ext.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+	at com.pdd.pop.ext.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)
+	at com.pdd.pop.ext.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+	at com.pdd.pop.ext.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+	at com.pdd.pop.ext.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+	at com.pdd.pop.ext.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at com.pdd.pop.ext.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at com.pdd.pop.ext.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at com.pdd.pop.ext.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at com.pdd.pop.ext.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at com.pdd.pop.ext.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:108)
+	at com.pdd.pop.sdk.http.client.HttpExecutor.syncExecute(HttpExecutor.java:39)
+	at com.pdd.pop.sdk.http.client.AbstractPopClient.syncPost(AbstractPopClient.java:116)
+	at com.pdd.pop.sdk.http.PopHttpClient.syncInvoke(PopHttpClient.java:80)
+	at com.pdd.pop.sdk.http.PopHttpClient.syncInvoke(PopHttpClient.java:63)
+	at com.freeter.modules.taskOrder.task.PinduoduoOrder.getPageOrder(PinduoduoOrder.java:54)
+	at com.freeter.modules.taskOrder.task.PinduoduoOrder.schedule(PinduoduoOrder.java:45)
+	at sun.reflect.GeneratedMethodAccessor153.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+[INFO ]2022-08-08 23:23:15.374 [pencil-task-7]PinduoduoOrder[49] | pinduoduoOrder run:23:23:15
+[INFO ]2022-08-08 23:23:44.148 [pencil-task-6]JdOrder[52] | 进入京东定时任务
+[INFO ]2022-08-08 23:23:44.162 [pencil-task-6]JdOrder[59] | Pull JDOrder Order Task Start..........time=2022-08-08 23:23:44
+[INFO ]2022-08-08 23:23:44.183 [pencil-task-6]JdOrder[76] | Pull JDOrder Order Task Dealing..........time=2022-08-08 23:23:44, page=1
+[ERROR]2022-08-08 23:23:44.188 [pencil-task-6]ThreadPoolConfig[50] | 执行出现异常:
+java.lang.NoClassDefFoundError: Could not initialize class com.jd.open.api.sdk.internal.util.JsonUtil
+	at com.jd.open.api.sdk.request.kplunion.UnionOpenOrderRowQueryRequest.getAppJsonParams(UnionOpenOrderRowQueryRequest.java:27)
+	at com.jd.open.api.sdk.DefaultJdClient.buildUrl(DefaultJdClient.java:127)
+	at com.jd.open.api.sdk.DefaultJdClient.execute(DefaultJdClient.java:95)
+	at com.freeter.modules.taskOrder.task.JdOrder.getPageOrder(JdOrder.java:81)
+	at com.freeter.modules.taskOrder.task.JdOrder.schedule(JdOrder.java:68)
+	at sun.reflect.GeneratedMethodAccessor155.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+[INFO ]2022-08-08 23:24:00.001 [pencil-task-6]JdOrder[52] | 进入京东定时任务
+[INFO ]2022-08-08 23:24:00.003 [pencil-task-6]JdOrder[59] | Pull JDOrder Order Task Start..........time=2022-08-08 23:24:00
+[INFO ]2022-08-08 23:24:00.004 [pencil-task-6]JdOrder[76] | Pull JDOrder Order Task Dealing..........time=2022-08-08 23:24:00, page=1
+[ERROR]2022-08-08 23:24:00.005 [pencil-task-6]ThreadPoolConfig[50] | 执行出现异常:
+java.lang.NoClassDefFoundError: Could not initialize class com.jd.open.api.sdk.internal.util.JsonUtil
+	at com.jd.open.api.sdk.request.kplunion.UnionOpenOrderRowQueryRequest.getAppJsonParams(UnionOpenOrderRowQueryRequest.java:27)
+	at com.jd.open.api.sdk.DefaultJdClient.buildUrl(DefaultJdClient.java:127)
+	at com.jd.open.api.sdk.DefaultJdClient.execute(DefaultJdClient.java:95)
+	at com.freeter.modules.taskOrder.task.JdOrder.getPageOrder(JdOrder.java:81)
+	at com.freeter.modules.taskOrder.task.JdOrder.schedule(JdOrder.java:68)
+	at sun.reflect.GeneratedMethodAccessor155.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+[ERROR]2022-08-08 23:24:15.040 [pencil-task-8]PinduoduoOrder[47] | 执行 pinduoduoOrder run 出现异常:
+javax.net.ssl.SSLException: Read timed out
+	at sun.security.ssl.Alert.createSSLException(Alert.java:127)
+	at sun.security.ssl.TransportContext.fatal(TransportContext.java:324)
+	at sun.security.ssl.TransportContext.fatal(TransportContext.java:267)
+	at sun.security.ssl.TransportContext.fatal(TransportContext.java:262)
+	at sun.security.ssl.SSLTransport.decode(SSLTransport.java:138)
+	at sun.security.ssl.SSLSocketImpl.decode(SSLSocketImpl.java:1392)
+	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(SSLSocketImpl.java:1300)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:435)
+	at com.pdd.pop.ext.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:436)
+	at com.pdd.pop.ext.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:384)
+	at com.pdd.pop.ext.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+	at com.pdd.pop.ext.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:374)
+	at com.pdd.pop.ext.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at com.pdd.pop.ext.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at com.pdd.pop.ext.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at com.pdd.pop.ext.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at com.pdd.pop.ext.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at com.pdd.pop.ext.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at com.pdd.pop.ext.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at com.pdd.pop.ext.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:108)
+	at com.pdd.pop.sdk.http.client.HttpExecutor.syncExecute(HttpExecutor.java:39)
+	at com.pdd.pop.sdk.http.client.AbstractPopClient.syncPost(AbstractPopClient.java:116)
+	at com.pdd.pop.sdk.http.PopHttpClient.syncInvoke(PopHttpClient.java:80)
+	at com.pdd.pop.sdk.http.PopHttpClient.syncInvoke(PopHttpClient.java:63)
+	at com.freeter.modules.taskOrder.task.PinduoduoOrder.getPageOrder(PinduoduoOrder.java:54)
+	at com.freeter.modules.taskOrder.task.PinduoduoOrder.schedule(PinduoduoOrder.java:45)
+	at sun.reflect.GeneratedMethodAccessor153.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:464)
+	at sun.security.ssl.SSLSocketInputRecord.decode(SSLSocketInputRecord.java:165)
+	at sun.security.ssl.SSLTransport.decode(SSLTransport.java:109)
+	... 35 common frames omitted
+[INFO ]2022-08-08 23:24:15.046 [pencil-task-8]PinduoduoOrder[49] | pinduoduoOrder run:23:24:15
+[INFO ]2022-08-08 23:24:53.264 [pencil-task-5]TaoBaoCreateOrder[99] | 获取新订单返回的内容是：{"tbk_order_details_get_response":{"data":{"has_next":false,"has_pre":false,"page_no":1,"page_size":20,"position_index":"1659971561_|1659972282_","results":{}},"request_id":"15rmnrx5msejy"}}
+[INFO ]2022-08-08 23:24:53.267 [pencil-task-5]TaoBaoCreateOrder[89] | TaoBaoCreateOrder run:23:24:53
+[INFO ]2022-08-08 23:25:04.586 [pencil-task-5]TaoBaoCreateOrder[99] | 获取新订单返回的内容是：{"tbk_order_details_get_response":{"data":{"has_next":false,"has_pre":false,"page_no":1,"page_size":20,"position_index":"1659971580_|1659972301_","results":{}},"request_id":"16kcfolpuex22"}}
+[INFO ]2022-08-08 23:25:04.589 [pencil-task-5]TaoBaoCreateOrder[89] | TaoBaoCreateOrder run:23:25:04
+[INFO ]2022-08-08 23:26:00.448 [pencil-task-1]PinduoduoOrder[56] | 拉取平多多的数据为空
+[INFO ]2022-08-08 23:26:00.455 [pencil-task-1]PinduoduoOrder[49] | pinduoduoOrder run:23:26:00
+[INFO ]2022-08-08 23:27:00.000 [pencil-task-3]JdOrder[52] | 进入京东定时任务
+[INFO ]2022-08-08 23:27:00.002 [pencil-task-3]JdOrder[59] | Pull JDOrder Order Task Start..........time=2022-08-08 23:27:00
+[INFO ]2022-08-08 23:27:00.004 [pencil-task-3]JdOrder[76] | Pull JDOrder Order Task Dealing..........time=2022-08-08 23:27:00, page=1
+[ERROR]2022-08-08 23:27:00.007 [pencil-task-3]ThreadPoolConfig[50] | 执行出现异常:
+java.lang.NoClassDefFoundError: Could not initialize class com.jd.open.api.sdk.internal.util.JsonUtil
+	at com.jd.open.api.sdk.request.kplunion.UnionOpenOrderRowQueryRequest.getAppJsonParams(UnionOpenOrderRowQueryRequest.java:27)
+	at com.jd.open.api.sdk.DefaultJdClient.buildUrl(DefaultJdClient.java:127)
+	at com.jd.open.api.sdk.DefaultJdClient.execute(DefaultJdClient.java:95)
+	at com.freeter.modules.taskOrder.task.JdOrder.getPageOrder(JdOrder.java:81)
+	at com.freeter.modules.taskOrder.task.JdOrder.schedule(JdOrder.java:68)
+	at sun.reflect.GeneratedMethodAccessor155.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+[INFO ]2022-08-08 23:28:00.268 [pencil-task-6]PinduoduoOrder[56] | 拉取平多多的数据为空
+[INFO ]2022-08-08 23:28:00.270 [pencil-task-6]PinduoduoOrder[49] | pinduoduoOrder run:23:28:00
+[INFO ]2022-08-08 23:29:59.999 [pencil-task-4]JdOrder[52] | 进入京东定时任务
+[INFO ]2022-08-08 23:30:00.002 [pencil-task-4]JdOrder[59] | Pull JDOrder Order Task Start..........time=2022-08-08 23:30:00
+[INFO ]2022-08-08 23:30:00.007 [pencil-task-4]JdOrder[76] | Pull JDOrder Order Task Dealing..........time=2022-08-08 23:30:00, page=1
+[ERROR]2022-08-08 23:30:00.015 [pencil-task-4]ThreadPoolConfig[50] | 执行出现异常:
+java.lang.NoClassDefFoundError: Could not initialize class com.jd.open.api.sdk.internal.util.JsonUtil
+	at com.jd.open.api.sdk.request.kplunion.UnionOpenOrderRowQueryRequest.getAppJsonParams(UnionOpenOrderRowQueryRequest.java:27)
+	at com.jd.open.api.sdk.DefaultJdClient.buildUrl(DefaultJdClient.java:127)
+	at com.jd.open.api.sdk.DefaultJdClient.execute(DefaultJdClient.java:95)
+	at com.freeter.modules.taskOrder.task.JdOrder.getPageOrder(JdOrder.java:81)
+	at com.freeter.modules.taskOrder.task.JdOrder.schedule(JdOrder.java:68)
+	at sun.reflect.GeneratedMethodAccessor155.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+[INFO ]2022-08-08 23:30:00.237 [pencil-task-8]TaoBaoCreateOrder[99] | 获取新订单返回的内容是：{"tbk_order_details_get_response":{"data":{"has_next":false,"has_pre":false,"page_no":1,"page_size":20,"position_index":"1659971879_|1659972600_","results":{}},"request_id":"16lskox7f2ugb"}}
+[INFO ]2022-08-08 23:30:00.238 [pencil-task-8]TaoBaoCreateOrder[89] | TaoBaoCreateOrder run:23:30:00
+[INFO ]2022-08-08 23:30:00.264 [pencil-task-5]PinduoduoOrder[56] | 拉取平多多的数据为空
+[INFO ]2022-08-08 23:30:00.264 [pencil-task-5]PinduoduoOrder[49] | pinduoduoOrder run:23:30:00
+[INFO ]2022-08-08 23:32:00.381 [pencil-task-5]PinduoduoOrder[56] | 拉取平多多的数据为空
+[INFO ]2022-08-08 23:32:00.389 [pencil-task-5]PinduoduoOrder[49] | pinduoduoOrder run:23:32:00
+[INFO ]2022-08-08 23:33:00.002 [pencil-task-6]JdOrder[52] | 进入京东定时任务
+[INFO ]2022-08-08 23:33:00.010 [pencil-task-6]JdOrder[59] | Pull JDOrder Order Task Start..........time=2022-08-08 23:33:00
+[INFO ]2022-08-08 23:33:00.013 [pencil-task-6]JdOrder[76] | Pull JDOrder Order Task Dealing..........time=2022-08-08 23:33:00, page=1
+[ERROR]2022-08-08 23:33:00.017 [pencil-task-6]ThreadPoolConfig[50] | 执行出现异常:
+java.lang.NoClassDefFoundError: Could not initialize class com.jd.open.api.sdk.internal.util.JsonUtil
+	at com.jd.open.api.sdk.request.kplunion.UnionOpenOrderRowQueryRequest.getAppJsonParams(UnionOpenOrderRowQueryRequest.java:27)
+	at com.jd.open.api.sdk.DefaultJdClient.buildUrl(DefaultJdClient.java:127)
+	at com.jd.open.api.sdk.DefaultJdClient.execute(DefaultJdClient.java:95)
+	at com.freeter.modules.taskOrder.task.JdOrder.getPageOrder(JdOrder.java:81)
+	at com.freeter.modules.taskOrder.task.JdOrder.schedule(JdOrder.java:68)
+	at sun.reflect.GeneratedMethodAccessor155.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+[INFO ]2022-08-08 23:34:00.221 [pencil-task-4]PinduoduoOrder[56] | 拉取平多多的数据为空
+[INFO ]2022-08-08 23:34:00.224 [pencil-task-4]PinduoduoOrder[49] | pinduoduoOrder run:23:34:00
+[INFO ]2022-08-08 23:35:00.242 [pencil-task-1]TaoBaoCreateOrder[99] | 获取新订单返回的内容是：{"tbk_order_details_get_response":{"data":{"has_next":false,"has_pre":false,"page_no":1,"page_size":20,"position_index":"1659972180_|1659972901_","results":{}},"request_id":"16mnu9v6ke831"}}
+[INFO ]2022-08-08 23:35:00.245 [pencil-task-1]TaoBaoCreateOrder[89] | TaoBaoCreateOrder run:23:35:00
+[INFO ]2022-08-08 23:36:00.003 [pencil-task-8]JdOrder[52] | 进入京东定时任务
+[INFO ]2022-08-08 23:36:00.007 [pencil-task-8]JdOrder[59] | Pull JDOrder Order Task Start..........time=2022-08-08 23:36:00
+[INFO ]2022-08-08 23:36:00.008 [pencil-task-8]JdOrder[76] | Pull JDOrder Order Task Dealing..........time=2022-08-08 23:36:00, page=1
+[ERROR]2022-08-08 23:36:00.016 [pencil-task-8]ThreadPoolConfig[50] | 执行出现异常:
+java.lang.NoClassDefFoundError: Could not initialize class com.jd.open.api.sdk.internal.util.JsonUtil
+	at com.jd.open.api.sdk.request.kplunion.UnionOpenOrderRowQueryRequest.getAppJsonParams(UnionOpenOrderRowQueryRequest.java:27)
+	at com.jd.open.api.sdk.DefaultJdClient.buildUrl(DefaultJdClient.java:127)
+	at com.jd.open.api.sdk.DefaultJdClient.execute(DefaultJdClient.java:95)
+	at com.freeter.modules.taskOrder.task.JdOrder.getPageOrder(JdOrder.java:81)
+	at com.freeter.modules.taskOrder.task.JdOrder.schedule(JdOrder.java:68)
+	at sun.reflect.GeneratedMethodAccessor155.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+[INFO ]2022-08-08 23:36:00.286 [pencil-task-3]PinduoduoOrder[56] | 拉取平多多的数据为空
+[INFO ]2022-08-08 23:36:00.287 [pencil-task-3]PinduoduoOrder[49] | pinduoduoOrder run:23:36:00
+[INFO ]2022-08-08 23:38:00.247 [pencil-task-5]PinduoduoOrder[56] | 拉取平多多的数据为空
+[INFO ]2022-08-08 23:38:00.258 [pencil-task-5]PinduoduoOrder[49] | pinduoduoOrder run:23:38:00
+[INFO ]2022-08-08 23:39:00.001 [pencil-task-7]JdOrder[52] | 进入京东定时任务
+[INFO ]2022-08-08 23:39:00.008 [pencil-task-7]JdOrder[59] | Pull JDOrder Order Task Start..........time=2022-08-08 23:39:00
+[INFO ]2022-08-08 23:39:00.010 [pencil-task-7]JdOrder[76] | Pull JDOrder Order Task Dealing..........time=2022-08-08 23:39:00, page=1
+[ERROR]2022-08-08 23:39:00.013 [pencil-task-7]ThreadPoolConfig[50] | 执行出现异常:
+java.lang.NoClassDefFoundError: Could not initialize class com.jd.open.api.sdk.internal.util.JsonUtil
+	at com.jd.open.api.sdk.request.kplunion.UnionOpenOrderRowQueryRequest.getAppJsonParams(UnionOpenOrderRowQueryRequest.java:27)
+	at com.jd.open.api.sdk.DefaultJdClient.buildUrl(DefaultJdClient.java:127)
+	at com.jd.open.api.sdk.DefaultJdClient.execute(DefaultJdClient.java:95)
+	at com.freeter.modules.taskOrder.task.JdOrder.getPageOrder(JdOrder.java:81)
+	at com.freeter.modules.taskOrder.task.JdOrder.schedule(JdOrder.java:68)
+	at sun.reflect.GeneratedMethodAccessor155.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+[INFO ]2022-08-08 23:40:00.246 [pencil-task-6]TaoBaoCreateOrder[99] | 获取新订单返回的内容是：{"tbk_order_details_get_response":{"data":{"has_next":false,"has_pre":false,"page_no":1,"page_size":20,"position_index":"1659972479_|1659973200_","results":{}},"request_id":"15s6r539tcck1"}}
+[INFO ]2022-08-08 23:40:00.249 [pencil-task-6]TaoBaoCreateOrder[89] | TaoBaoCreateOrder run:23:40:00
+[INFO ]2022-08-08 23:40:00.258 [pencil-task-4]PinduoduoOrder[56] | 拉取平多多的数据为空
+[INFO ]2022-08-08 23:40:00.259 [pencil-task-4]PinduoduoOrder[49] | pinduoduoOrder run:23:40:00
+[INFO ]2022-08-08 23:42:00.014 [pencil-task-1]JdOrder[52] | 进入京东定时任务
+[INFO ]2022-08-08 23:42:00.022 [pencil-task-1]JdOrder[59] | Pull JDOrder Order Task Start..........time=2022-08-08 23:42:00
+[INFO ]2022-08-08 23:42:00.026 [pencil-task-1]JdOrder[76] | Pull JDOrder Order Task Dealing..........time=2022-08-08 23:42:00, page=1
+[ERROR]2022-08-08 23:42:00.029 [pencil-task-1]ThreadPoolConfig[50] | 执行出现异常:
+java.lang.NoClassDefFoundError: Could not initialize class com.jd.open.api.sdk.internal.util.JsonUtil
+	at com.jd.open.api.sdk.request.kplunion.UnionOpenOrderRowQueryRequest.getAppJsonParams(UnionOpenOrderRowQueryRequest.java:27)
+	at com.jd.open.api.sdk.DefaultJdClient.buildUrl(DefaultJdClient.java:127)
+	at com.jd.open.api.sdk.DefaultJdClient.execute(DefaultJdClient.java:95)
+	at com.freeter.modules.taskOrder.task.JdOrder.getPageOrder(JdOrder.java:81)
+	at com.freeter.modules.taskOrder.task.JdOrder.schedule(JdOrder.java:68)
+	at sun.reflect.GeneratedMethodAccessor155.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+[INFO ]2022-08-08 23:42:00.378 [pencil-task-8]PinduoduoOrder[56] | 拉取平多多的数据为空
+[INFO ]2022-08-08 23:42:00.380 [pencil-task-8]PinduoduoOrder[49] | pinduoduoOrder run:23:42:00
+[INFO ]2022-08-08 23:44:00.280 [pencil-task-8]PinduoduoOrder[56] | 拉取平多多的数据为空
+[INFO ]2022-08-08 23:44:00.284 [pencil-task-8]PinduoduoOrder[49] | pinduoduoOrder run:23:44:00
+[INFO ]2022-08-08 23:44:59.997 [pencil-task-6]JdOrder[52] | 进入京东定时任务
+[INFO ]2022-08-08 23:44:59.998 [pencil-task-6]JdOrder[59] | Pull JDOrder Order Task Start..........time=2022-08-08 23:44:59
+[INFO ]2022-08-08 23:45:00.005 [pencil-task-6]JdOrder[76] | Pull JDOrder Order Task Dealing..........time=2022-08-08 23:44:59, page=1
+[ERROR]2022-08-08 23:45:00.010 [pencil-task-6]ThreadPoolConfig[50] | 执行出现异常:
+java.lang.NoClassDefFoundError: Could not initialize class com.jd.open.api.sdk.internal.util.JsonUtil
+	at com.jd.open.api.sdk.request.kplunion.UnionOpenOrderRowQueryRequest.getAppJsonParams(UnionOpenOrderRowQueryRequest.java:27)
+	at com.jd.open.api.sdk.DefaultJdClient.buildUrl(DefaultJdClient.java:127)
+	at com.jd.open.api.sdk.DefaultJdClient.execute(DefaultJdClient.java:95)
+	at com.freeter.modules.taskOrder.task.JdOrder.getPageOrder(JdOrder.java:81)
+	at com.freeter.modules.taskOrder.task.JdOrder.schedule(JdOrder.java:68)
+	at sun.reflect.GeneratedMethodAccessor155.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+[INFO ]2022-08-08 23:45:00.205 [pencil-task-7]TaoBaoCreateOrder[99] | 获取新订单返回的内容是：{"tbk_order_details_get_response":{"data":{"has_next":false,"has_pre":false,"page_no":1,"page_size":20,"position_index":"1659972779_|1659973500_","results":{}},"request_id":"16mgqlo6enu8o"}}
+[INFO ]2022-08-08 23:45:00.207 [pencil-task-7]TaoBaoCreateOrder[89] | TaoBaoCreateOrder run:23:45:00
+[INFO ]2022-08-08 23:46:00.239 [pencil-task-4]PinduoduoOrder[56] | 拉取平多多的数据为空
+[INFO ]2022-08-08 23:46:00.244 [pencil-task-4]PinduoduoOrder[49] | pinduoduoOrder run:23:46:00
+[INFO ]2022-08-08 23:48:00.004 [pencil-task-1]JdOrder[52] | 进入京东定时任务
+[INFO ]2022-08-08 23:48:00.007 [pencil-task-1]JdOrder[59] | Pull JDOrder Order Task Start..........time=2022-08-08 23:48:00
+[INFO ]2022-08-08 23:48:00.008 [pencil-task-1]JdOrder[76] | Pull JDOrder Order Task Dealing..........time=2022-08-08 23:48:00, page=1
+[ERROR]2022-08-08 23:48:00.021 [pencil-task-1]ThreadPoolConfig[50] | 执行出现异常:
+java.lang.NoClassDefFoundError: Could not initialize class com.jd.open.api.sdk.internal.util.JsonUtil
+	at com.jd.open.api.sdk.request.kplunion.UnionOpenOrderRowQueryRequest.getAppJsonParams(UnionOpenOrderRowQueryRequest.java:27)
+	at com.jd.open.api.sdk.DefaultJdClient.buildUrl(DefaultJdClient.java:127)
+	at com.jd.open.api.sdk.DefaultJdClient.execute(DefaultJdClient.java:95)
+	at com.freeter.modules.taskOrder.task.JdOrder.getPageOrder(JdOrder.java:81)
+	at com.freeter.modules.taskOrder.task.JdOrder.schedule(JdOrder.java:68)
+	at sun.reflect.GeneratedMethodAccessor155.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+[INFO ]2022-08-08 23:48:00.268 [pencil-task-2]PinduoduoOrder[56] | 拉取平多多的数据为空
+[INFO ]2022-08-08 23:48:00.270 [pencil-task-2]PinduoduoOrder[49] | pinduoduoOrder run:23:48:00
+[INFO ]2022-08-08 23:50:00.210 [pencil-task-8]TaoBaoCreateOrder[99] | 获取新订单返回的内容是：{"tbk_order_details_get_response":{"data":{"has_next":false,"has_pre":false,"page_no":1,"page_size":20,"position_index":"1659973079_|1659973800_","results":{}},"request_id":"16m4m36lyrxy1"}}
+[INFO ]2022-08-08 23:50:00.209 [pencil-task-3]PinduoduoOrder[56] | 拉取平多多的数据为空
+[INFO ]2022-08-08 23:50:00.216 [pencil-task-8]TaoBaoCreateOrder[89] | TaoBaoCreateOrder run:23:50:00
+[INFO ]2022-08-08 23:50:00.217 [pencil-task-3]PinduoduoOrder[49] | pinduoduoOrder run:23:50:00
+[INFO ]2022-08-08 23:50:59.998 [pencil-task-6]JdOrder[52] | 进入京东定时任务
+[INFO ]2022-08-08 23:51:00.001 [pencil-task-6]JdOrder[59] | Pull JDOrder Order Task Start..........time=2022-08-08 23:51:00
+[INFO ]2022-08-08 23:51:00.002 [pencil-task-6]JdOrder[76] | Pull JDOrder Order Task Dealing..........time=2022-08-08 23:51:00, page=1
+[ERROR]2022-08-08 23:51:00.005 [pencil-task-6]ThreadPoolConfig[50] | 执行出现异常:
+java.lang.NoClassDefFoundError: Could not initialize class com.jd.open.api.sdk.internal.util.JsonUtil
+	at com.jd.open.api.sdk.request.kplunion.UnionOpenOrderRowQueryRequest.getAppJsonParams(UnionOpenOrderRowQueryRequest.java:27)
+	at com.jd.open.api.sdk.DefaultJdClient.buildUrl(DefaultJdClient.java:127)
+	at com.jd.open.api.sdk.DefaultJdClient.execute(DefaultJdClient.java:95)
+	at com.freeter.modules.taskOrder.task.JdOrder.getPageOrder(JdOrder.java:81)
+	at com.freeter.modules.taskOrder.task.JdOrder.schedule(JdOrder.java:68)
+	at sun.reflect.GeneratedMethodAccessor155.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+[INFO ]2022-08-08 23:52:00.205 [pencil-task-5]PinduoduoOrder[56] | 拉取平多多的数据为空
+[INFO ]2022-08-08 23:52:00.208 [pencil-task-5]PinduoduoOrder[49] | pinduoduoOrder run:23:52:00
+[INFO ]2022-08-08 23:54:00.005 [pencil-task-7]JdOrder[52] | 进入京东定时任务
+[INFO ]2022-08-08 23:54:00.011 [pencil-task-7]JdOrder[59] | Pull JDOrder Order Task Start..........time=2022-08-08 23:54:00
+[INFO ]2022-08-08 23:54:00.012 [pencil-task-7]JdOrder[76] | Pull JDOrder Order Task Dealing..........time=2022-08-08 23:54:00, page=1
+[ERROR]2022-08-08 23:54:00.016 [pencil-task-7]ThreadPoolConfig[50] | 执行出现异常:
+java.lang.NoClassDefFoundError: Could not initialize class com.jd.open.api.sdk.internal.util.JsonUtil
+	at com.jd.open.api.sdk.request.kplunion.UnionOpenOrderRowQueryRequest.getAppJsonParams(UnionOpenOrderRowQueryRequest.java:27)
+	at com.jd.open.api.sdk.DefaultJdClient.buildUrl(DefaultJdClient.java:127)
+	at com.jd.open.api.sdk.DefaultJdClient.execute(DefaultJdClient.java:95)
+	at com.freeter.modules.taskOrder.task.JdOrder.getPageOrder(JdOrder.java:81)
+	at com.freeter.modules.taskOrder.task.JdOrder.schedule(JdOrder.java:68)
+	at sun.reflect.GeneratedMethodAccessor155.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+[INFO ]2022-08-08 23:54:00.218 [pencil-task-4]PinduoduoOrder[56] | 拉取平多多的数据为空
+[INFO ]2022-08-08 23:54:00.221 [pencil-task-4]PinduoduoOrder[49] | pinduoduoOrder run:23:54:00
+[INFO ]2022-08-08 23:55:00.221 [pencil-task-1]TaoBaoCreateOrder[99] | 获取新订单返回的内容是：{"tbk_order_details_get_response":{"data":{"has_next":false,"has_pre":false,"page_no":1,"page_size":20,"position_index":"1659973380_|1659974101_","results":{}},"request_id":"16mnr5mvlb8zu"}}
+[INFO ]2022-08-08 23:55:00.223 [pencil-task-1]TaoBaoCreateOrder[89] | TaoBaoCreateOrder run:23:55:00
+[INFO ]2022-08-08 23:56:00.232 [pencil-task-2]PinduoduoOrder[56] | 拉取平多多的数据为空
+[INFO ]2022-08-08 23:56:00.233 [pencil-task-2]PinduoduoOrder[49] | pinduoduoOrder run:23:56:00
+[INFO ]2022-08-08 23:57:00.022 [pencil-task-8]JdOrder[52] | 进入京东定时任务
+[INFO ]2022-08-08 23:57:00.034 [pencil-task-8]JdOrder[59] | Pull JDOrder Order Task Start..........time=2022-08-08 23:57:00
+[INFO ]2022-08-08 23:57:00.079 [pencil-task-8]JdOrder[76] | Pull JDOrder Order Task Dealing..........time=2022-08-08 23:57:00, page=1
+[ERROR]2022-08-08 23:57:00.094 [pencil-task-8]ThreadPoolConfig[50] | 执行出现异常:
+java.lang.NoClassDefFoundError: Could not initialize class com.jd.open.api.sdk.internal.util.JsonUtil
+	at com.jd.open.api.sdk.request.kplunion.UnionOpenOrderRowQueryRequest.getAppJsonParams(UnionOpenOrderRowQueryRequest.java:27)
+	at com.jd.open.api.sdk.DefaultJdClient.buildUrl(DefaultJdClient.java:127)
+	at com.jd.open.api.sdk.DefaultJdClient.execute(DefaultJdClient.java:95)
+	at com.freeter.modules.taskOrder.task.JdOrder.getPageOrder(JdOrder.java:81)
+	at com.freeter.modules.taskOrder.task.JdOrder.schedule(JdOrder.java:68)
+	at sun.reflect.GeneratedMethodAccessor155.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+[INFO ]2022-08-08 23:58:00.225 [pencil-task-3]PinduoduoOrder[56] | 拉取平多多的数据为空
+[INFO ]2022-08-08 23:58:00.227 [pencil-task-3]PinduoduoOrder[49] | pinduoduoOrder run:23:58:00
+[INFO ]2022-08-08 23:59:59.997 [pencil-task-4]JdOrder[52] | 进入京东定时任务
+[INFO ]2022-08-08 23:59:59.998 [pencil-task-4]JdOrder[59] | Pull JDOrder Order Task Start..........time=2022-08-08 23:59:59
+[INFO ]2022-08-08 23:59:59.999 [pencil-task-4]JdOrder[76] | Pull JDOrder Order Task Dealing..........time=2022-08-08 23:59:59, page=1

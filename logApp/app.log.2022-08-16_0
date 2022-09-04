@@ -1,0 +1,395 @@
+[WARN ]2022-08-16 00:03:44.435 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s987ms).
+[WARN ]2022-08-16 00:08:57.467 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s30ms).
+[WARN ]2022-08-16 00:14:40.482 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s999ms).
+[WARN ]2022-08-16 00:20:23.497 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s17ms).
+[WARN ]2022-08-16 00:25:36.502 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s5ms).
+[WARN ]2022-08-16 00:31:19.518 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s12ms).
+[WARN ]2022-08-16 00:36:32.554 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s36ms).
+[WARN ]2022-08-16 00:42:15.576 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s8ms).
+[WARN ]2022-08-16 00:47:58.592 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s7ms).
+[WARN ]2022-08-16 00:53:11.596 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s4ms).
+[WARN ]2022-08-16 00:59:04.760 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m23s146ms).
+[WARN ]2022-08-16 01:04:17.773 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s13ms).
+[WARN ]2022-08-16 01:07:05.231 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m17s444ms).
+[WARN ]2022-08-16 01:12:48.257 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s17ms).
+[WARN ]2022-08-16 01:18:01.274 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s17ms).
+[WARN ]2022-08-16 01:23:44.345 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s63ms).
+[WARN ]2022-08-16 01:29:27.415 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s58ms).
+[WARN ]2022-08-16 01:34:40.424 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s9ms).
+[WARN ]2022-08-16 01:40:23.437 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s5ms).
+[WARN ]2022-08-16 01:45:36.439 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s3ms).
+[WARN ]2022-08-16 01:51:24.513 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m18s63ms).
+[WARN ]2022-08-16 01:57:07.587 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s61ms).
+[WARN ]2022-08-16 02:02:20.591 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s4ms).
+[WARN ]2022-08-16 02:08:03.596 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s14ms).
+[WARN ]2022-08-16 02:13:16.603 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s7ms).
+[WARN ]2022-08-16 02:19:04.802 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m18s177ms).
+[WARN ]2022-08-16 02:24:47.841 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s26ms).
+[WARN ]2022-08-16 02:30:00.871 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s30ms).
+[WARN ]2022-08-16 02:35:43.900 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s11ms).
+[WARN ]2022-08-16 02:40:56.973 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s73ms).
+[WARN ]2022-08-16 02:46:40.000 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s12ms).
+[WARN ]2022-08-16 02:52:23.065 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s56ms).
+[WARN ]2022-08-16 02:57:36.080 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s15ms).
+[WARN ]2022-08-16 03:03:19.090 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s4ms).
+[WARN ]2022-08-16 03:09:02.111 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s5ms).
+[WARN ]2022-08-16 03:14:15.135 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s24ms).
+[WARN ]2022-08-16 03:19:58.173 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s22ms).
+[WARN ]2022-08-16 03:25:11.179 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s6ms).
+[WARN ]2022-08-16 03:30:54.214 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s23ms).
+[WARN ]2022-08-16 03:36:37.237 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s6ms).
+[WARN ]2022-08-16 03:41:50.239 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s2ms).
+[WARN ]2022-08-16 03:47:33.256 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s11ms).
+[WARN ]2022-08-16 03:52:46.258 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s2ms).
+[WARN ]2022-08-16 03:58:29.272 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s7ms).
+[WARN ]2022-08-16 04:04:12.275 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s997ms).
+[WARN ]2022-08-16 04:09:25.210 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s935ms).
+[WARN ]2022-08-16 04:15:08.225 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s7ms).
+[WARN ]2022-08-16 04:20:21.243 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s18ms).
+[WARN ]2022-08-16 04:26:04.275 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s4ms).
+[WARN ]2022-08-16 04:31:47.313 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s13ms).
+[WARN ]2022-08-16 04:35:14.281 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m26s968ms).
+[WARN ]2022-08-16 04:40:57.288 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s996ms).
+[WARN ]2022-08-16 04:46:40.304 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s5ms).
+[WARN ]2022-08-16 04:51:53.332 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s28ms).
+[WARN ]2022-08-16 04:57:36.341 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s3ms).
+[WARN ]2022-08-16 05:03:19.407 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s55ms).
+[WARN ]2022-08-16 05:08:32.492 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s85ms).
+[WARN ]2022-08-16 05:14:15.692 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s185ms).
+[WARN ]2022-08-16 05:19:28.767 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s75ms).
+[WARN ]2022-08-16 05:25:16.873 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m18s93ms).
+[WARN ]2022-08-16 05:30:59.870 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s990ms).
+[WARN ]2022-08-16 05:36:12.908 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s38ms).
+[WARN ]2022-08-16 05:41:55.915 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s995ms).
+[WARN ]2022-08-16 05:47:08.932 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s17ms).
+[WARN ]2022-08-16 05:52:51.947 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s9ms).
+[WARN ]2022-08-16 05:58:34.945 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s980ms).
+[WARN ]2022-08-16 06:03:47.947 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s2ms).
+[WARN ]2022-08-16 06:09:30.957 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s3ms).
+[WARN ]2022-08-16 06:14:44.015 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s59ms).
+[WARN ]2022-08-16 06:20:27.041 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s16ms).
+[WARN ]2022-08-16 06:26:10.065 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s23ms).
+[WARN ]2022-08-16 06:31:23.088 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s23ms).
+[WARN ]2022-08-16 06:37:06.103 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s1ms).
+[WARN ]2022-08-16 06:40:52.041 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m15s929ms).
+[WARN ]2022-08-16 06:46:05.043 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s2ms).
+[WARN ]2022-08-16 06:51:48.108 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s55ms).
+[WARN ]2022-08-16 06:57:31.140 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s17ms).
+[WARN ]2022-08-16 07:02:44.148 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s8ms).
+[WARN ]2022-08-16 07:08:27.204 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s43ms).
+[WARN ]2022-08-16 07:13:40.204 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s).
+[WARN ]2022-08-16 07:19:23.207 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s12ms).
+[WARN ]2022-08-16 07:25:06.228 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s14ms).
+[WARN ]2022-08-16 07:30:19.248 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s19ms).
+[WARN ]2022-08-16 07:36:02.270 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s995ms).
+[WARN ]2022-08-16 07:41:15.270 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s).
+[WARN ]2022-08-16 07:46:58.311 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s20ms).
+[WARN ]2022-08-16 07:52:41.338 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s16ms).
+[WARN ]2022-08-16 07:53:36.301 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=54s964ms).
+[WARN ]2022-08-16 07:59:19.376 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s61ms).
+[WARN ]2022-08-16 08:04:32.382 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s6ms).
+[WARN ]2022-08-16 08:10:15.383 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s996ms).
+[WARN ]2022-08-16 08:15:58.375 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s989ms).
+[WARN ]2022-08-16 08:21:11.371 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s996ms).
+[WARN ]2022-08-16 08:26:54.379 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s9ms).
+[WARN ]2022-08-16 08:32:07.376 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s997ms).
+[WARN ]2022-08-16 08:37:50.397 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s3ms).
+[WARN ]2022-08-16 08:40:47.902 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m27s492ms).
+[INFO ]2022-08-16 08:55:09.045 [SpringContextShutdownHook]ThreadPoolTaskExecutor[218] | Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ]2022-08-16 08:55:09.051 [SpringContextShutdownHook]HikariDataSource[350] | HikariPool-1 - Shutdown initiated...
+[INFO ]2022-08-16 08:55:09.068 [SpringContextShutdownHook]HikariDataSource[352] | HikariPool-1 - Shutdown completed.
+[INFO ]2022-08-16 08:55:29.197 [main]KotlinDetector[57] | Kotlin reflection implementation not found at runtime, related features won't be available.
+[INFO ]2022-08-16 08:55:29.776 [main]WebApplication[55] | Starting WebApplication on 192.168.10.102 with PID 3100 (/Users/fgh/IdeaProjects/pencil/pencil-web/target/classes started by fgh in /Users/fgh/IdeaProjects/pencil)
+[INFO ]2022-08-16 08:55:29.780 [main]WebApplication[651] | No active profile set, falling back to default profiles: default
+[WARN ]2022-08-16 08:55:29.906 [background-preinit]Jackson2ObjectMapperBuilder[127] | For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+[INFO ]2022-08-16 08:55:31.810 [main]TomcatWebServer[92] | Tomcat initialized with port(s): 8090 (http)
+[INFO ]2022-08-16 08:55:31.817 [main]Http11NioProtocol[173] | Initializing ProtocolHandler ["http-nio-8090"]
+[INFO ]2022-08-16 08:55:31.818 [main]StandardService[173] | Starting service [Tomcat]
+[INFO ]2022-08-16 08:55:31.818 [main]StandardEngine[173] | Starting Servlet engine: [Apache Tomcat/9.0.31]
+[INFO ]2022-08-16 08:55:31.901 [main][/][173] | Initializing Spring embedded WebApplicationContext
+[INFO ]2022-08-16 08:55:31.902 [main]ContextLoader[284] | Root WebApplicationContext: initialization completed in 1962 ms
+[WARN ]2022-08-16 08:55:32.311 [main]DefaultSqlInjector[56] | class site.zfei.entity.CdMember ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+[WARN ]2022-08-16 08:55:32.446 [main]DefaultSqlInjector[56] | class site.zfei.entity.CdToken ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+[WARN ]2022-08-16 08:55:33.039 [main]DefaultSqlInjector[56] | class site.zfei.entity.SysUser ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+[INFO ]2022-08-16 08:55:34.053 [main]ThreadPoolTaskExecutor[181] | Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ]2022-08-16 08:55:35.002 [main]Http11NioProtocol[173] | Starting ProtocolHandler ["http-nio-8090"]
+[INFO ]2022-08-16 08:55:35.033 [main]TomcatWebServer[204] | Tomcat started on port(s): 8090 (http) with context path ''
+[INFO ]2022-08-16 08:55:35.036 [main]WebApplication[61] | Started WebApplication in 5.79 seconds (JVM running for 6.96)
+[INFO ]2022-08-16 08:55:39.431 [http-nio-8090-exec-1][/][173] | Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ]2022-08-16 08:55:39.433 [http-nio-8090-exec-1]DispatcherServlet[525] | Initializing Servlet 'dispatcherServlet'
+[INFO ]2022-08-16 08:55:39.464 [http-nio-8090-exec-1]DispatcherServlet[547] | Completed initialization in 31 ms
+[INFO ]2022-08-16 08:55:39.708 [http-nio-8090-exec-1]HikariDataSource[110] | HikariPool-1 - Starting...
+[INFO ]2022-08-16 08:55:40.125 [http-nio-8090-exec-1]HikariDataSource[123] | HikariPool-1 - Start completed.
+[INFO ]2022-08-16 08:55:40.630 [http-nio-8090-exec-1]WebLogBean[205] | {"trace":"1660611339492-23992","uid":"","path":"/merchant/list","clientIp":"127.0.0.1","code":200,"beginTime":1660611339492,"spend":1067,"headers":{"authorization":[""],"content-length":["97"],"host":["127.0.0.1:8090"],"content-type":["application/json"],"connection":["keep-alive"],"accept-encoding":["gzip, deflate, br"],"user-agent":["apifox/1.0.0 (https://www.apifox.cn)"],"accept":["*/*"]},"params":{},"payload":"{\n    \"statusArr\": [\n        1,\n        3,\n        4\n    ],\n    \"pageNo\": 1,\n    \"pageSize\": 10\n}","result":{"total":14,"mercs":[{"id":16,"name":"1518个0商家","bizlicenceUrl":"http://116.62.215.86/file/llxl2_1660527915565_microMsg.1652239372434.jpg","creditCode":"151000000","address":"重庆","mobile":"15100000000","status":1,"reason":"2","balance":16,"franchiseeId":16,"createTime":1660527930000,"updateTime":1660527930000,"groupId":1},{"id":15,"name":"小额度测试","bizlicenceUrl":"http://116.62.215.86/file/okib2_1660367359917_Screenshot_20220812_093751_com.mihoyo.hyperion.jpg","creditCode":"哈哈哈哈哈","address":"回来就睡了上去送","mobile":"15048876494","status":1,"reason":"1","balance":40002,"createTime":1660367369000,"updateTime":1660367369000,"groupId":1},{"id":14,"name":"美味没客","bizlicenceUrl":"http://116.62.215.86/file/5o5e0_1660364050121_wx_camera_1660096746406.jpg","creditCode":"66666666","address":"重庆大坪","mobile":"18088888888","status":1,"reason":"1","balance":11850,"franchiseeId":4,"createTime":1660364065000,"updateTime":1660364065000,"groupId":1},{"id":13,"name":"177商家","bizlicenceUrl":"http://116.62.215.86/file/7pwuc_1660362353003_1660024991924.jpeg","creditCode":"1776487361","address":"领导江津双福","mobile":"17712345678","status":4,"reason":"1212","balance":7185,"createTime":1660362364000,"updateTime":1660480994000,"groupId":1},{"id":12,"name":"130商家","bizlicenceUrl":"http://116.62.215.86/file/cf6oe_1660362115018_wx_camera_1660096746406.jpg","creditCode":"123456789","address":"成都市双流区","mobile":"13012345678","status":1,"reason":"1","balance":229,"createTime":1660362126000,"updateTime":1660362126000,"groupId":1},{"id":11,"name":"七天酒店","bizlicenceUrl":"http://116.62.215.86/file/8ag0m_1660095037950_1660024991924.jpeg","creditCode":"123456789","address":"重庆","mobile":"18002302282","status":1,"reason":"2","balance":0,"createTime":1660095048000,"updateTime":1660095048000,"groupId":1},{"id":10,"name":"嘻嘻便利店","bizlicenceUrl":"http://116.62.215.86/file/ccbxt_1660093781987_1660024991924.jpeg","creditCode":"1234456789","address":"9767","mobile":"15086861311","status":1,"reason":"12","balance":8617,"createTime":1659882218000,"updateTime":1660274992000,"headImgUrl":"https://thirdwx.qlogo.cn/mmopen/vi_32/jcC083smYPJcYibQj0NLGnT66sXZcllsoYS1Q3lkrjnmjibR8iclFnHBCGK9aiclZrr7AnVAiau720jDjc2wkFTETXg/132","groupId":1},{"id":9,"name":"四海超市","bizlicenceUrl":"https://axure-file.lanhuapp.com/69c57257-4d13-4c80-bfef-794e30b06bac__66d4dd906ab17c6ec4f28c0650287cd9.svg","creditCode":"10021929911","address":"太平洋深处","mobile":"139009939393","status":1,"reason":"123","balance":0,"createTime":1659189642000,"updateTime":1659189642000,"groupId":1},{"id":8,"name":"四海超市","bizlicenceUrl":"https://axure-file.lanhuapp.com/69c57257-4d13-4c80-bfef-794e30b06bac__66d4dd906ab17c6ec4f28c0650287cd9.svg","creditCode":"10021929911","address":"太平洋深处","mobile":"139009939393","status":1,"reason":"123","balance":0,"createTime":1659189612000,"updateTime":1659189612000,"headImgUrl":"/uploads/api/headimg/2020-05-27-6d31b71e00e54ae3a51321dbe007d7fe.jpg","groupId":1},{"id":7,"name":"四海超市","bizlicenceUrl":"https://axure-file.lanhuapp.com/69c57257-4d13-4c80-bfef-794e30b06bac__66d4dd906ab17c6ec4f28c0650287cd9.svg","creditCode":"10021929911","address":"太平洋深处","mobile":"139009939393","status":1,"reason":"过了","balance":0,"createTime":1659171384000,"updateTime":1659189706000,"headImgUrl":"/uploads/api/headimg/2020-03-03-5b5ab421666a4deaa47f92691b3c3552.jpg","groupId":1}],"frans":[{"id":4,"name":"加盟商1号"}]},"props":{}}
+[INFO ]2022-08-16 08:55:40.711 [http-nio-8090-exec-1]WebLogBean[205] | {"trace":"1660611339492-23992","uid":"","path":"/merchant/list","clientIp":"127.0.0.1","code":200,"beginTime":1660611339492,"spend":1209,"headers":{"authorization":[""],"content-length":["97"],"host":["127.0.0.1:8090"],"content-type":["application/json"],"connection":["keep-alive"],"accept-encoding":["gzip, deflate, br"],"user-agent":["apifox/1.0.0 (https://www.apifox.cn)"],"accept":["*/*"]},"params":{},"payload":"{\n    \"statusArr\": [\n        1,\n        3,\n        4\n    ],\n    \"pageNo\": 1,\n    \"pageSize\": 10\n}","result":{"total":14,"mercs":[{"id":16,"name":"1518个0商家","bizlicenceUrl":"http://116.62.215.86/file/llxl2_1660527915565_microMsg.1652239372434.jpg","creditCode":"151000000","address":"重庆","mobile":"15100000000","status":1,"reason":"2","balance":16,"franchiseeId":16,"createTime":1660527930000,"updateTime":1660527930000,"groupId":1},{"id":15,"name":"小额度测试","bizlicenceUrl":"http://116.62.215.86/file/okib2_1660367359917_Screenshot_20220812_093751_com.mihoyo.hyperion.jpg","creditCode":"哈哈哈哈哈","address":"回来就睡了上去送","mobile":"15048876494","status":1,"reason":"1","balance":40002,"createTime":1660367369000,"updateTime":1660367369000,"groupId":1},{"id":14,"name":"美味没客","bizlicenceUrl":"http://116.62.215.86/file/5o5e0_1660364050121_wx_camera_1660096746406.jpg","creditCode":"66666666","address":"重庆大坪","mobile":"18088888888","status":1,"reason":"1","balance":11850,"franchiseeId":4,"createTime":1660364065000,"updateTime":1660364065000,"groupId":1},{"id":13,"name":"177商家","bizlicenceUrl":"http://116.62.215.86/file/7pwuc_1660362353003_1660024991924.jpeg","creditCode":"1776487361","address":"领导江津双福","mobile":"17712345678","status":4,"reason":"1212","balance":7185,"createTime":1660362364000,"updateTime":1660480994000,"groupId":1},{"id":12,"name":"130商家","bizlicenceUrl":"http://116.62.215.86/file/cf6oe_1660362115018_wx_camera_1660096746406.jpg","creditCode":"123456789","address":"成都市双流区","mobile":"13012345678","status":1,"reason":"1","balance":229,"createTime":1660362126000,"updateTime":1660362126000,"groupId":1},{"id":11,"name":"七天酒店","bizlicenceUrl":"http://116.62.215.86/file/8ag0m_1660095037950_1660024991924.jpeg","creditCode":"123456789","address":"重庆","mobile":"18002302282","status":1,"reason":"2","balance":0,"createTime":1660095048000,"updateTime":1660095048000,"groupId":1},{"id":10,"name":"嘻嘻便利店","bizlicenceUrl":"http://116.62.215.86/file/ccbxt_1660093781987_1660024991924.jpeg","creditCode":"1234456789","address":"9767","mobile":"15086861311","status":1,"reason":"12","balance":8617,"createTime":1659882218000,"updateTime":1660274992000,"headImgUrl":"https://thirdwx.qlogo.cn/mmopen/vi_32/jcC083smYPJcYibQj0NLGnT66sXZcllsoYS1Q3lkrjnmjibR8iclFnHBCGK9aiclZrr7AnVAiau720jDjc2wkFTETXg/132","groupId":1},{"id":9,"name":"四海超市","bizlicenceUrl":"https://axure-file.lanhuapp.com/69c57257-4d13-4c80-bfef-794e30b06bac__66d4dd906ab17c6ec4f28c0650287cd9.svg","creditCode":"10021929911","address":"太平洋深处","mobile":"139009939393","status":1,"reason":"123","balance":0,"createTime":1659189642000,"updateTime":1659189642000,"groupId":1},{"id":8,"name":"四海超市","bizlicenceUrl":"https://axure-file.lanhuapp.com/69c57257-4d13-4c80-bfef-794e30b06bac__66d4dd906ab17c6ec4f28c0650287cd9.svg","creditCode":"10021929911","address":"太平洋深处","mobile":"139009939393","status":1,"reason":"123","balance":0,"createTime":1659189612000,"updateTime":1659189612000,"headImgUrl":"/uploads/api/headimg/2020-05-27-6d31b71e00e54ae3a51321dbe007d7fe.jpg","groupId":1},{"id":7,"name":"四海超市","bizlicenceUrl":"https://axure-file.lanhuapp.com/69c57257-4d13-4c80-bfef-794e30b06bac__66d4dd906ab17c6ec4f28c0650287cd9.svg","creditCode":"10021929911","address":"太平洋深处","mobile":"139009939393","status":1,"reason":"过了","balance":0,"createTime":1659171384000,"updateTime":1659189706000,"headImgUrl":"/uploads/api/headimg/2020-03-03-5b5ab421666a4deaa47f92691b3c3552.jpg","groupId":1}],"frans":[{"id":4,"name":"加盟商1号"}]},"props":{}}
+[WARN ]2022-08-16 09:20:24.260 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s53ms).
+[WARN ]2022-08-16 09:22:51.771 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m27s368ms).
+[WARN ]2022-08-16 09:28:34.843 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s63ms).
+[WARN ]2022-08-16 09:33:47.927 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s84ms).
+[WARN ]2022-08-16 09:39:30.933 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s999ms).
+[WARN ]2022-08-16 09:44:43.933 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s999ms).
+[WARN ]2022-08-16 09:50:26.951 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s17ms).
+[WARN ]2022-08-16 09:56:09.926 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s969ms).
+[WARN ]2022-08-16 10:01:22.926 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s999ms).
+[WARN ]2022-08-16 10:07:05.947 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s10ms).
+[WARN ]2022-08-16 10:12:48.955 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s1ms).
+[WARN ]2022-08-16 10:18:01.984 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s30ms).
+[WARN ]2022-08-16 10:23:44.998 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s994ms).
+[WARN ]2022-08-16 10:28:57.997 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s999ms).
+[WARN ]2022-08-16 10:34:41.078 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s66ms).
+[WARN ]2022-08-16 10:40:24.081 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s997ms).
+[WARN ]2022-08-16 10:45:37.079 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s998ms).
+[WARN ]2022-08-16 10:51:20.071 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s994ms).
+[WARN ]2022-08-16 10:56:33.089 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s17ms).
+[WARN ]2022-08-16 11:02:16.103 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s16ms).
+[WARN ]2022-08-16 11:07:59.127 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s9ms).
+[WARN ]2022-08-16 11:13:12.139 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s12ms).
+[WARN ]2022-08-16 11:18:55.173 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s25ms).
+[WARN ]2022-08-16 11:24:08.180 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s6ms).
+[WARN ]2022-08-16 11:29:51.203 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s7ms).
+[WARN ]2022-08-16 11:35:34.224 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s7ms).
+[WARN ]2022-08-16 11:40:47.230 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s6ms).
+[WARN ]2022-08-16 11:46:30.310 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s67ms).
+[WARN ]2022-08-16 11:51:48.376 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m18s67ms).
+[WARN ]2022-08-16 11:57:31.334 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s955ms).
+[WARN ]2022-08-16 12:03:14.346 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s1ms).
+[WARN ]2022-08-16 12:04:26.281 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m11s935ms).
+[WARN ]2022-08-16 12:10:39.355 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s991ms).
+[WARN ]2022-08-16 12:14:40.759 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m31s396ms).
+[WARN ]2022-08-16 12:19:53.753 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s994ms).
+[WARN ]2022-08-16 12:25:36.756 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s997ms).
+[WARN ]2022-08-16 12:31:19.761 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s993ms).
+[WARN ]2022-08-16 12:34:45.494 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m25s734ms).
+[WARN ]2022-08-16 12:40:28.512 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s10ms).
+[WARN ]2022-08-16 12:45:41.520 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s8ms).
+[WARN ]2022-08-16 12:51:24.539 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s7ms).
+[WARN ]2022-08-16 12:56:37.547 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s8ms).
+[WARN ]2022-08-16 13:02:20.506 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s948ms).
+[WARN ]2022-08-16 13:08:03.523 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s15ms).
+[WARN ]2022-08-16 13:13:16.536 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s13ms).
+[WARN ]2022-08-16 13:19:29.563 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s10ms).
+[WARN ]2022-08-16 13:24:42.555 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s992ms).
+[WARN ]2022-08-16 13:30:25.565 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s999ms).
+[WARN ]2022-08-16 13:36:08.572 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s994ms).
+[WARN ]2022-08-16 13:41:21.569 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s997ms).
+[WARN ]2022-08-16 13:47:04.588 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s18ms).
+[WARN ]2022-08-16 13:52:47.624 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s22ms).
+[WARN ]2022-08-16 13:58:00.633 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s10ms).
+[WARN ]2022-08-16 14:03:43.655 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s14ms).
+[WARN ]2022-08-16 14:08:56.666 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s12ms).
+[WARN ]2022-08-16 14:14:39.676 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s999ms).
+[WARN ]2022-08-16 14:20:22.668 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s987ms).
+[WARN ]2022-08-16 14:25:35.692 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s24ms).
+[WARN ]2022-08-16 14:31:18.781 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s71ms).
+[WARN ]2022-08-16 14:36:31.792 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s11ms).
+[WARN ]2022-08-16 14:42:14.850 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s52ms).
+[WARN ]2022-08-16 14:43:39.796 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=54s944ms).
+[WARN ]2022-08-16 14:48:52.802 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s6ms).
+[WARN ]2022-08-16 14:54:34.622 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m11s804ms).
+[WARN ]2022-08-16 14:56:26.567 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m51s946ms).
+[WARN ]2022-08-16 15:02:09.593 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s14ms).
+[WARN ]2022-08-16 15:07:52.601 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s997ms).
+[WARN ]2022-08-16 15:13:05.604 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s3ms).
+[WARN ]2022-08-16 15:18:48.603 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s996ms).
+[WARN ]2022-08-16 15:24:31.614 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s2ms).
+[WARN ]2022-08-16 15:29:44.623 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s8ms).
+[WARN ]2022-08-16 15:35:27.618 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s999ms).
+[WARN ]2022-08-16 15:40:40.620 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s2ms).
+[WARN ]2022-08-16 15:46:23.630 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s991ms).
+[WARN ]2022-08-16 15:52:06.641 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s).
+[WARN ]2022-08-16 15:57:19.701 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s59ms).
+[WARN ]2022-08-16 16:03:02.717 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s12ms).
+[WARN ]2022-08-16 16:08:45.724 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s994ms).
+[WARN ]2022-08-16 16:13:58.778 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s54ms).
+[WARN ]2022-08-16 16:19:41.786 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s1ms).
+[WARN ]2022-08-16 16:24:54.794 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s7ms).
+[WARN ]2022-08-16 16:30:37.819 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s10ms).
+[WARN ]2022-08-16 16:36:20.901 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s66ms).
+[WARN ]2022-08-16 16:41:33.901 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s).
+[WARN ]2022-08-16 16:47:16.889 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s992ms).
+[WARN ]2022-08-16 16:52:29.913 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s23ms).
+[WARN ]2022-08-16 16:58:12.893 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s989ms).
+[WARN ]2022-08-16 17:03:55.909 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s5ms).
+[WARN ]2022-08-16 17:09:08.917 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s7ms).
+[WARN ]2022-08-16 17:14:51.974 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s35ms).
+[WARN ]2022-08-16 17:20:04.991 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s18ms).
+[WARN ]2022-08-16 17:25:48.006 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s998ms).
+[WARN ]2022-08-16 17:31:31.025 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s11ms).
+[WARN ]2022-08-16 17:36:44.076 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s51ms).
+[WARN ]2022-08-16 17:42:27.075 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s996ms).
+[WARN ]2022-08-16 17:48:10.104 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s20ms).
+[WARN ]2022-08-16 17:53:23.114 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s10ms).
+[WARN ]2022-08-16 17:59:06.132 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s6ms).
+[WARN ]2022-08-16 18:04:19.140 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s7ms).
+[WARN ]2022-08-16 18:10:02.137 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s2ms).
+[WARN ]2022-08-16 18:15:45.149 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s992ms).
+[WARN ]2022-08-16 18:20:58.221 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s72ms).
+[WARN ]2022-08-16 18:26:41.242 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s4ms).
+[WARN ]2022-08-16 18:31:54.245 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s2ms).
+[WARN ]2022-08-16 18:37:37.232 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s995ms).
+[WARN ]2022-08-16 18:43:20.242 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s992ms).
+[WARN ]2022-08-16 18:48:33.242 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s1ms).
+[WARN ]2022-08-16 18:54:16.282 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s24ms).
+[WARN ]2022-08-16 18:59:29.287 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s6ms).
+[WARN ]2022-08-16 19:05:12.308 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s16ms).
+[WARN ]2022-08-16 19:10:55.342 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s14ms).
+[WARN ]2022-08-16 19:16:08.412 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s70ms).
+[WARN ]2022-08-16 19:21:51.422 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s8ms).
+[WARN ]2022-08-16 19:27:39.591 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m18s158ms).
+[WARN ]2022-08-16 19:32:52.606 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s15ms).
+[WARN ]2022-08-16 19:38:35.631 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s7ms).
+[WARN ]2022-08-16 19:43:48.659 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s27ms).
+[WARN ]2022-08-16 19:49:31.679 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s9ms).
+[WARN ]2022-08-16 19:55:14.703 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s11ms).
+[WARN ]2022-08-16 20:00:27.758 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s55ms).
+[WARN ]2022-08-16 20:06:10.762 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s993ms).
+[WARN ]2022-08-16 20:11:23.828 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s65ms).
+[WARN ]2022-08-16 20:17:06.791 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s949ms).
+[WARN ]2022-08-16 20:22:49.817 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s20ms).
+[WARN ]2022-08-16 20:28:02.830 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s13ms).
+[WARN ]2022-08-16 20:33:45.816 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s12ms).
+[WARN ]2022-08-16 20:38:58.826 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s10ms).
+[WARN ]2022-08-16 20:42:48.724 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m19s880ms).
+[WARN ]2022-08-16 20:48:31.770 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s28ms).
+[WARN ]2022-08-16 20:53:44.778 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s8ms).
+[WARN ]2022-08-16 20:59:27.808 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s21ms).
+[WARN ]2022-08-16 21:05:10.841 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s12ms).
+[WARN ]2022-08-16 21:10:23.849 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s7ms).
+[WARN ]2022-08-16 21:16:06.868 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s999ms).
+[WARN ]2022-08-16 21:21:19.873 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s5ms).
+[WARN ]2022-08-16 21:27:02.883 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s).
+[WARN ]2022-08-16 21:32:45.906 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s13ms).
+[WARN ]2022-08-16 21:37:58.985 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s80ms).
+[WARN ]2022-08-16 21:43:42.013 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s15ms).
+[WARN ]2022-08-16 21:49:25.041 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s21ms).
+[WARN ]2022-08-16 21:54:38.051 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s10ms).
+[WARN ]2022-08-16 21:57:14.291 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m6s236ms).
+[WARN ]2022-08-16 22:47:55.934 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m11s276ms).
+[INFO ]2022-08-16 23:03:30.414 [http-nio-8090-exec-3]WebLogBean[205] | {"trace":"1660662210377-31604","uid":"","path":"/member/trade/history","clientIp":"127.0.0.1","code":200,"beginTime":1660662210377,"spend":33,"headers":{"authorization":[""],"content-length":["21"],"host":["127.0.0.1:8090"],"content-type":["application/json"],"connection":["keep-alive"],"accept-encoding":["gzip, deflate, br"],"user-agent":["apifox/1.0.0 (https://www.apifox.cn)"],"accept":["*/*"]},"params":{},"props":{}}
+[INFO ]2022-08-16 23:03:42.313 [SpringContextShutdownHook]ThreadPoolTaskExecutor[218] | Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ]2022-08-16 23:03:42.318 [SpringContextShutdownHook]HikariDataSource[350] | HikariPool-1 - Shutdown initiated...
+[INFO ]2022-08-16 23:03:42.331 [SpringContextShutdownHook]HikariDataSource[352] | HikariPool-1 - Shutdown completed.
+[INFO ]2022-08-16 23:03:51.311 [main]KotlinDetector[57] | Kotlin reflection implementation not found at runtime, related features won't be available.
+[INFO ]2022-08-16 23:03:52.080 [main]WebApplication[55] | Starting WebApplication on 192.168.10.102 with PID 4403 (/Users/fgh/IdeaProjects/pencil/pencil-web/target/classes started by fgh in /Users/fgh/IdeaProjects/pencil)
+[INFO ]2022-08-16 23:03:52.081 [main]WebApplication[651] | No active profile set, falling back to default profiles: default
+[WARN ]2022-08-16 23:03:52.188 [background-preinit]Jackson2ObjectMapperBuilder[127] | For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+[INFO ]2022-08-16 23:03:54.328 [main]TomcatWebServer[92] | Tomcat initialized with port(s): 8090 (http)
+[INFO ]2022-08-16 23:03:54.336 [main]Http11NioProtocol[173] | Initializing ProtocolHandler ["http-nio-8090"]
+[INFO ]2022-08-16 23:03:54.336 [main]StandardService[173] | Starting service [Tomcat]
+[INFO ]2022-08-16 23:03:54.337 [main]StandardEngine[173] | Starting Servlet engine: [Apache Tomcat/9.0.31]
+[INFO ]2022-08-16 23:03:54.410 [main][/][173] | Initializing Spring embedded WebApplicationContext
+[INFO ]2022-08-16 23:03:54.410 [main]ContextLoader[284] | Root WebApplicationContext: initialization completed in 2199 ms
+[WARN ]2022-08-16 23:03:54.880 [main]DefaultSqlInjector[56] | class site.zfei.entity.CdMember ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+[WARN ]2022-08-16 23:03:55.055 [main]DefaultSqlInjector[56] | class site.zfei.entity.CdToken ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+[WARN ]2022-08-16 23:03:55.744 [main]DefaultSqlInjector[56] | class site.zfei.entity.SysUser ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+[INFO ]2022-08-16 23:03:57.120 [main]ThreadPoolTaskExecutor[181] | Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ]2022-08-16 23:03:58.523 [main]Http11NioProtocol[173] | Starting ProtocolHandler ["http-nio-8090"]
+[INFO ]2022-08-16 23:03:58.559 [main]TomcatWebServer[204] | Tomcat started on port(s): 8090 (http) with context path ''
+[INFO ]2022-08-16 23:03:58.563 [main]WebApplication[61] | Started WebApplication in 7.187 seconds (JVM running for 8.119)
+[INFO ]2022-08-16 23:05:18.706 [http-nio-8090-exec-1][/][173] | Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ]2022-08-16 23:05:18.707 [http-nio-8090-exec-1]DispatcherServlet[525] | Initializing Servlet 'dispatcherServlet'
+[INFO ]2022-08-16 23:05:18.732 [http-nio-8090-exec-1]DispatcherServlet[547] | Completed initialization in 25 ms
+[INFO ]2022-08-16 23:05:18.959 [http-nio-8090-exec-1]HikariDataSource[110] | HikariPool-1 - Starting...
+[INFO ]2022-08-16 23:05:19.356 [http-nio-8090-exec-1]HikariDataSource[123] | HikariPool-1 - Start completed.
+[INFO ]2022-08-16 23:05:19.826 [http-nio-8090-exec-1]WebLogBean[205] | {"trace":"1660662318762-3436","uid":"","path":"/member/trade/history","clientIp":"127.0.0.1","code":200,"beginTime":1660662318762,"spend":852,"headers":{"authorization":[""],"content-length":["21"],"host":["127.0.0.1:8090"],"content-type":["application/json"],"connection":["keep-alive"],"accept-encoding":["gzip, deflate, br"],"user-agent":["apifox/1.0.0 (https://www.apifox.cn)"],"accept":["*/*"]},"params":{},"payload":"{\n  \"memberId\": 324\n}","result":{"statsVo":{"balance":0,"monthRecycle":0,"monthConsume":0},"hisTrades":[{"sponsorMemberId":324,"payMemberId":1039,"amount":100,"type":1,"createTime":1660374024000},{"sponsorMemberId":324,"payMemberId":1039,"amount":100,"type":5,"createTime":1660374024000},{"sponsorMemberId":324,"payMemberId":1039,"amount":150,"type":1,"createTime":1660374649000},{"sponsorMemberId":324,"payMemberId":1039,"amount":150,"type":5,"createTime":1660374649000},{"sponsorMemberId":324,"payMemberId":1039,"amount":120,"type":1,"createTime":1660374768000},{"sponsorMemberId":324,"payMemberId":1039,"amount":120,"type":5,"createTime":1660374768000},{"sponsorMemberId":324,"payMemberId":1039,"amount":260,"type":1,"createTime":1660374987000},{"sponsorMemberId":324,"payMemberId":1039,"amount":260,"type":5,"createTime":1660374987000},{"sponsorMemberId":324,"payMemberId":1039,"amount":100,"type":1,"createTime":1660375111000},{"sponsorMemberId":324,"payMemberId":1039,"amount":100,"type":5,"createTime":1660375112000},{"sponsorMemberId":324,"payMemberId":1039,"amount":36,"type":2,"createTime":1660375360000},{"sponsorMemberId":324,"payMemberId":1039,"amount":30,"type":2,"createTime":1660375730000},{"sponsorMemberId":324,"payMemberId":1039,"amount":39,"type":2,"createTime":1660376050000},{"sponsorMemberId":324,"payMemberId":1039,"amount":36,"type":2,"createTime":1660376436000},{"sponsorMemberId":324,"payMemberId":1039,"amount":69,"type":2,"createTime":1660376487000},{"sponsorMemberId":324,"payMemberId":1039,"amount":23,"type":2,"createTime":1660376570000},{"sponsorMemberId":324,"payMemberId":1039,"amount":39,"type":2,"createTime":1660376672000},{"sponsorMemberId":324,"payMemberId":1039,"amount":57,"type":2,"createTime":1660376689000},{"sponsorMemberId":324,"payMemberId":1039,"amount":20,"type":1,"createTime":1660394103000},{"sponsorMemberId":324,"payMemberId":1039,"amount":20,"type":5,"createTime":1660394103000},{"sponsorMemberId":324,"payMemberId":1039,"amount":200,"type":1,"createTime":1660394663000},{"sponsorMemberId":324,"payMemberId":1039,"amount":200,"type":5,"createTime":1660394663000},{"sponsorMemberId":324,"payMemberId":1039,"amount":200,"type":1,"createTime":1660396340000},{"sponsorMemberId":324,"payMemberId":1039,"amount":200,"type":5,"createTime":1660396341000},{"sponsorMemberId":324,"payMemberId":1039,"amount":300,"type":1,"createTime":1660457300000},{"sponsorMemberId":324,"payMemberId":1039,"amount":300,"type":5,"createTime":1660457300000},{"sponsorMemberId":324,"payMemberId":1039,"amount":200,"type":1,"createTime":1660465679000},{"sponsorMemberId":324,"payMemberId":1039,"amount":200,"type":5,"createTime":1660465680000},{"sponsorMemberId":324,"payMemberId":1039,"amount":50,"type":1,"createTime":1660471174000},{"sponsorMemberId":324,"payMemberId":1039,"amount":50,"type":5,"createTime":1660471174000},{"sponsorMemberId":324,"payMemberId":1039,"amount":100,"type":1,"createTime":1660488914000},{"sponsorMemberId":324,"payMemberId":1039,"amount":100,"type":5,"createTime":1660488914000}],"members":[{"memberId":324},{"memberId":1039,"name":"刘成"}]},"props":{}}
+[INFO ]2022-08-16 23:05:19.916 [http-nio-8090-exec-1]WebLogBean[205] | {"trace":"1660662318762-3436","uid":"","path":"/member/trade/history","clientIp":"127.0.0.1","code":200,"beginTime":1660662318762,"spend":1143,"headers":{"authorization":[""],"content-length":["21"],"host":["127.0.0.1:8090"],"content-type":["application/json"],"connection":["keep-alive"],"accept-encoding":["gzip, deflate, br"],"user-agent":["apifox/1.0.0 (https://www.apifox.cn)"],"accept":["*/*"]},"params":{},"payload":"{\n  \"memberId\": 324\n}","result":{"statsVo":{"balance":0,"monthRecycle":0,"monthConsume":0},"hisTrades":[{"sponsorMemberId":324,"payMemberId":1039,"amount":100,"type":1,"createTime":1660374024000},{"sponsorMemberId":324,"payMemberId":1039,"amount":100,"type":5,"createTime":1660374024000},{"sponsorMemberId":324,"payMemberId":1039,"amount":150,"type":1,"createTime":1660374649000},{"sponsorMemberId":324,"payMemberId":1039,"amount":150,"type":5,"createTime":1660374649000},{"sponsorMemberId":324,"payMemberId":1039,"amount":120,"type":1,"createTime":1660374768000},{"sponsorMemberId":324,"payMemberId":1039,"amount":120,"type":5,"createTime":1660374768000},{"sponsorMemberId":324,"payMemberId":1039,"amount":260,"type":1,"createTime":1660374987000},{"sponsorMemberId":324,"payMemberId":1039,"amount":260,"type":5,"createTime":1660374987000},{"sponsorMemberId":324,"payMemberId":1039,"amount":100,"type":1,"createTime":1660375111000},{"sponsorMemberId":324,"payMemberId":1039,"amount":100,"type":5,"createTime":1660375112000},{"sponsorMemberId":324,"payMemberId":1039,"amount":36,"type":2,"createTime":1660375360000},{"sponsorMemberId":324,"payMemberId":1039,"amount":30,"type":2,"createTime":1660375730000},{"sponsorMemberId":324,"payMemberId":1039,"amount":39,"type":2,"createTime":1660376050000},{"sponsorMemberId":324,"payMemberId":1039,"amount":36,"type":2,"createTime":1660376436000},{"sponsorMemberId":324,"payMemberId":1039,"amount":69,"type":2,"createTime":1660376487000},{"sponsorMemberId":324,"payMemberId":1039,"amount":23,"type":2,"createTime":1660376570000},{"sponsorMemberId":324,"payMemberId":1039,"amount":39,"type":2,"createTime":1660376672000},{"sponsorMemberId":324,"payMemberId":1039,"amount":57,"type":2,"createTime":1660376689000},{"sponsorMemberId":324,"payMemberId":1039,"amount":20,"type":1,"createTime":1660394103000},{"sponsorMemberId":324,"payMemberId":1039,"amount":20,"type":5,"createTime":1660394103000},{"sponsorMemberId":324,"payMemberId":1039,"amount":200,"type":1,"createTime":1660394663000},{"sponsorMemberId":324,"payMemberId":1039,"amount":200,"type":5,"createTime":1660394663000},{"sponsorMemberId":324,"payMemberId":1039,"amount":200,"type":1,"createTime":1660396340000},{"sponsorMemberId":324,"payMemberId":1039,"amount":200,"type":5,"createTime":1660396341000},{"sponsorMemberId":324,"payMemberId":1039,"amount":300,"type":1,"createTime":1660457300000},{"sponsorMemberId":324,"payMemberId":1039,"amount":300,"type":5,"createTime":1660457300000},{"sponsorMemberId":324,"payMemberId":1039,"amount":200,"type":1,"createTime":1660465679000},{"sponsorMemberId":324,"payMemberId":1039,"amount":200,"type":5,"createTime":1660465680000},{"sponsorMemberId":324,"payMemberId":1039,"amount":50,"type":1,"createTime":1660471174000},{"sponsorMemberId":324,"payMemberId":1039,"amount":50,"type":5,"createTime":1660471174000},{"sponsorMemberId":324,"payMemberId":1039,"amount":100,"type":1,"createTime":1660488914000},{"sponsorMemberId":324,"payMemberId":1039,"amount":100,"type":5,"createTime":1660488914000}],"members":[{"memberId":324},{"memberId":1039,"name":"刘成"}]},"props":{}}
+[INFO ]2022-08-16 23:07:13.656 [SpringContextShutdownHook]ThreadPoolTaskExecutor[218] | Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ]2022-08-16 23:07:13.662 [SpringContextShutdownHook]HikariDataSource[350] | HikariPool-1 - Shutdown initiated...
+[INFO ]2022-08-16 23:07:13.685 [SpringContextShutdownHook]HikariDataSource[352] | HikariPool-1 - Shutdown completed.
+[INFO ]2022-08-16 23:15:31.009 [main]KotlinDetector[57] | Kotlin reflection implementation not found at runtime, related features won't be available.
+[INFO ]2022-08-16 23:15:31.803 [main]WebApplication[55] | Starting WebApplication on 192.168.10.102 with PID 4523 (/Users/fgh/IdeaProjects/pencil/pencil-web/target/classes started by fgh in /Users/fgh/IdeaProjects/pencil)
+[INFO ]2022-08-16 23:15:31.809 [main]WebApplication[651] | No active profile set, falling back to default profiles: default
+[WARN ]2022-08-16 23:15:31.944 [background-preinit]Jackson2ObjectMapperBuilder[127] | For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+[INFO ]2022-08-16 23:15:33.744 [main]TomcatWebServer[92] | Tomcat initialized with port(s): 8090 (http)
+[INFO ]2022-08-16 23:15:33.752 [main]Http11NioProtocol[173] | Initializing ProtocolHandler ["http-nio-8090"]
+[INFO ]2022-08-16 23:15:33.752 [main]StandardService[173] | Starting service [Tomcat]
+[INFO ]2022-08-16 23:15:33.752 [main]StandardEngine[173] | Starting Servlet engine: [Apache Tomcat/9.0.31]
+[INFO ]2022-08-16 23:15:33.843 [main][/][173] | Initializing Spring embedded WebApplicationContext
+[INFO ]2022-08-16 23:15:33.843 [main]ContextLoader[284] | Root WebApplicationContext: initialization completed in 1844 ms
+[WARN ]2022-08-16 23:15:34.291 [main]DefaultSqlInjector[56] | class site.zfei.entity.CdMember ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+[WARN ]2022-08-16 23:15:34.440 [main]DefaultSqlInjector[56] | class site.zfei.entity.CdToken ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+[WARN ]2022-08-16 23:15:35.256 [main]DefaultSqlInjector[56] | class site.zfei.entity.SysUser ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+[INFO ]2022-08-16 23:15:36.724 [main]ThreadPoolTaskExecutor[181] | Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ]2022-08-16 23:15:37.867 [main]Http11NioProtocol[173] | Starting ProtocolHandler ["http-nio-8090"]
+[INFO ]2022-08-16 23:15:37.899 [main]TomcatWebServer[204] | Tomcat started on port(s): 8090 (http) with context path ''
+[INFO ]2022-08-16 23:15:37.902 [main]WebApplication[61] | Started WebApplication in 6.847 seconds (JVM running for 7.966)
+[INFO ]2022-08-16 23:15:44.168 [http-nio-8090-exec-1][/][173] | Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ]2022-08-16 23:15:44.169 [http-nio-8090-exec-1]DispatcherServlet[525] | Initializing Servlet 'dispatcherServlet'
+[INFO ]2022-08-16 23:15:44.197 [http-nio-8090-exec-1]DispatcherServlet[547] | Completed initialization in 27 ms
+[INFO ]2022-08-16 23:15:44.278 [http-nio-8090-exec-1]WebLogBean[205] | {"trace":"1660662944215-74202","uid":"","path":"/api/merchant/relate/cancel","clientIp":"127.0.0.1","code":200,"beginTime":1660662944215,"spend":21,"headers":{"authorization":[""],"content-length":["9"],"cookie":["JSESSIONID=40B27A17751C914EA45B5761A77C26B1"],"host":["127.0.0.1:8090"],"content-type":["application/json"],"connection":["keep-alive"],"accept-encoding":["gzip, deflate, br"],"user-agent":["apifox/1.0.0 (https://www.apifox.cn)"],"accept":["*/*"]},"params":{},"props":{}}
+[INFO ]2022-08-16 23:15:51.033 [http-nio-8090-exec-2]HikariDataSource[110] | HikariPool-1 - Starting...
+[INFO ]2022-08-16 23:15:51.437 [http-nio-8090-exec-2]HikariDataSource[123] | HikariPool-1 - Start completed.
+[INFO ]2022-08-16 23:15:51.813 [http-nio-8090-exec-2]WebLogBean[205] | {"trace":"1660662950835-63453","uid":"","path":"/merchant/relate/cancel","clientIp":"127.0.0.1","code":200,"beginTime":1660662950835,"spend":976,"headers":{"authorization":[""],"content-length":["9"],"cookie":["JSESSIONID=40B27A17751C914EA45B5761A77C26B1"],"host":["127.0.0.1:8090"],"content-type":["application/json"],"connection":["keep-alive"],"accept-encoding":["gzip, deflate, br"],"user-agent":["apifox/1.0.0 (https://www.apifox.cn)"],"accept":["*/*"]},"params":{},"payload":"{\"id\":14}","result":{"code":200,"msg":"OK"},"props":{}}
+[INFO ]2022-08-16 23:15:51.831 [http-nio-8090-exec-2]WebLogBean[205] | {"trace":"1660662950835-63453","uid":"","path":"/merchant/relate/cancel","clientIp":"127.0.0.1","code":200,"beginTime":1660662950835,"spend":995,"headers":{"authorization":[""],"content-length":["9"],"cookie":["JSESSIONID=40B27A17751C914EA45B5761A77C26B1"],"host":["127.0.0.1:8090"],"content-type":["application/json"],"connection":["keep-alive"],"accept-encoding":["gzip, deflate, br"],"user-agent":["apifox/1.0.0 (https://www.apifox.cn)"],"accept":["*/*"]},"params":{},"payload":"{\"id\":14}","result":{"code":200,"msg":"OK"},"props":{}}
+[INFO ]2022-08-16 23:18:27.134 [SpringContextShutdownHook]ThreadPoolTaskExecutor[218] | Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ]2022-08-16 23:18:27.141 [SpringContextShutdownHook]HikariDataSource[350] | HikariPool-1 - Shutdown initiated...
+[INFO ]2022-08-16 23:18:27.159 [SpringContextShutdownHook]HikariDataSource[352] | HikariPool-1 - Shutdown completed.
+[INFO ]2022-08-16 23:18:33.753 [main]KotlinDetector[57] | Kotlin reflection implementation not found at runtime, related features won't be available.
+[INFO ]2022-08-16 23:18:34.412 [main]WebApplication[55] | Starting WebApplication on 192.168.10.102 with PID 4551 (/Users/fgh/IdeaProjects/pencil/pencil-web/target/classes started by fgh in /Users/fgh/IdeaProjects/pencil)
+[INFO ]2022-08-16 23:18:34.415 [main]WebApplication[651] | No active profile set, falling back to default profiles: default
+[WARN ]2022-08-16 23:18:34.565 [background-preinit]Jackson2ObjectMapperBuilder[127] | For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+[INFO ]2022-08-16 23:18:36.620 [main]TomcatWebServer[92] | Tomcat initialized with port(s): 8090 (http)
+[INFO ]2022-08-16 23:18:36.627 [main]Http11NioProtocol[173] | Initializing ProtocolHandler ["http-nio-8090"]
+[INFO ]2022-08-16 23:18:36.627 [main]StandardService[173] | Starting service [Tomcat]
+[INFO ]2022-08-16 23:18:36.627 [main]StandardEngine[173] | Starting Servlet engine: [Apache Tomcat/9.0.31]
+[INFO ]2022-08-16 23:18:36.708 [main][/][173] | Initializing Spring embedded WebApplicationContext
+[INFO ]2022-08-16 23:18:36.708 [main]ContextLoader[284] | Root WebApplicationContext: initialization completed in 2105 ms
+[WARN ]2022-08-16 23:18:37.131 [main]DefaultSqlInjector[56] | class site.zfei.entity.CdMember ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+[WARN ]2022-08-16 23:18:37.240 [main]DefaultSqlInjector[56] | class site.zfei.entity.CdToken ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+[WARN ]2022-08-16 23:18:37.965 [main]DefaultSqlInjector[56] | class site.zfei.entity.SysUser ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+[INFO ]2022-08-16 23:18:38.922 [main]ThreadPoolTaskExecutor[181] | Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ]2022-08-16 23:18:39.968 [main]Http11NioProtocol[173] | Starting ProtocolHandler ["http-nio-8090"]
+[INFO ]2022-08-16 23:18:39.999 [main]TomcatWebServer[204] | Tomcat started on port(s): 8090 (http) with context path ''
+[INFO ]2022-08-16 23:18:40.002 [main]WebApplication[61] | Started WebApplication in 6.2 seconds (JVM running for 7.267)
+[INFO ]2022-08-16 23:18:43.606 [http-nio-8090-exec-1][/][173] | Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ]2022-08-16 23:18:43.608 [http-nio-8090-exec-1]DispatcherServlet[525] | Initializing Servlet 'dispatcherServlet'
+[INFO ]2022-08-16 23:18:43.630 [http-nio-8090-exec-1]DispatcherServlet[547] | Completed initialization in 22 ms
+[INFO ]2022-08-16 23:18:43.837 [http-nio-8090-exec-1]HikariDataSource[110] | HikariPool-1 - Starting...
+[INFO ]2022-08-16 23:18:44.239 [http-nio-8090-exec-1]HikariDataSource[123] | HikariPool-1 - Start completed.
+[INFO ]2022-08-16 23:18:44.657 [http-nio-8090-exec-1]WebLogBean[205] | {"trace":"1660663123654-1355","uid":"","path":"/merchant/relate/cancel","clientIp":"127.0.0.1","code":200,"beginTime":1660663123654,"spend":808,"headers":{"authorization":[""],"content-length":["9"],"cookie":["JSESSIONID=40B27A17751C914EA45B5761A77C26B1"],"host":["127.0.0.1:8090"],"content-type":["application/json"],"connection":["keep-alive"],"accept-encoding":["gzip, deflate, br"],"user-agent":["apifox/1.0.0 (https://www.apifox.cn)"],"accept":["*/*"]},"params":{},"payload":"{\"id\":16}","result":{"code":200,"msg":"OK"},"props":{}}
+[INFO ]2022-08-16 23:18:44.700 [http-nio-8090-exec-1]WebLogBean[205] | {"trace":"1660663123654-1355","uid":"","path":"/merchant/relate/cancel","clientIp":"127.0.0.1","code":200,"beginTime":1660663123654,"spend":1045,"headers":{"authorization":[""],"content-length":["9"],"cookie":["JSESSIONID=40B27A17751C914EA45B5761A77C26B1"],"host":["127.0.0.1:8090"],"content-type":["application/json"],"connection":["keep-alive"],"accept-encoding":["gzip, deflate, br"],"user-agent":["apifox/1.0.0 (https://www.apifox.cn)"],"accept":["*/*"]},"params":{},"payload":"{\"id\":16}","result":{"code":200,"msg":"OK"},"props":{}}
+[INFO ]2022-08-16 23:21:45.243 [SpringContextShutdownHook]ThreadPoolTaskExecutor[218] | Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ]2022-08-16 23:21:45.250 [SpringContextShutdownHook]HikariDataSource[350] | HikariPool-1 - Shutdown initiated...
+[INFO ]2022-08-16 23:21:45.282 [SpringContextShutdownHook]HikariDataSource[352] | HikariPool-1 - Shutdown completed.
+[INFO ]2022-08-16 23:21:51.994 [main]KotlinDetector[57] | Kotlin reflection implementation not found at runtime, related features won't be available.
+[INFO ]2022-08-16 23:21:52.649 [main]WebApplication[55] | Starting WebApplication on 192.168.10.102 with PID 4575 (/Users/fgh/IdeaProjects/pencil/pencil-web/target/classes started by fgh in /Users/fgh/IdeaProjects/pencil)
+[INFO ]2022-08-16 23:21:52.651 [main]WebApplication[651] | No active profile set, falling back to default profiles: default
+[WARN ]2022-08-16 23:21:52.771 [background-preinit]Jackson2ObjectMapperBuilder[127] | For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+[INFO ]2022-08-16 23:21:54.652 [main]TomcatWebServer[92] | Tomcat initialized with port(s): 8090 (http)
+[INFO ]2022-08-16 23:21:54.659 [main]Http11NioProtocol[173] | Initializing ProtocolHandler ["http-nio-8090"]
+[INFO ]2022-08-16 23:21:54.660 [main]StandardService[173] | Starting service [Tomcat]
+[INFO ]2022-08-16 23:21:54.661 [main]StandardEngine[173] | Starting Servlet engine: [Apache Tomcat/9.0.31]
+[INFO ]2022-08-16 23:21:54.741 [main][/][173] | Initializing Spring embedded WebApplicationContext
+[INFO ]2022-08-16 23:21:54.742 [main]ContextLoader[284] | Root WebApplicationContext: initialization completed in 1927 ms
+[WARN ]2022-08-16 23:21:55.231 [main]DefaultSqlInjector[56] | class site.zfei.entity.CdMember ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+[WARN ]2022-08-16 23:21:55.378 [main]DefaultSqlInjector[56] | class site.zfei.entity.CdToken ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+[INFO ]2022-08-16 23:22:03.121 [main]KotlinDetector[57] | Kotlin reflection implementation not found at runtime, related features won't be available.
+[INFO ]2022-08-16 23:22:03.622 [main]WebApplication[55] | Starting WebApplication on 192.168.10.102 with PID 4582 (/Users/fgh/IdeaProjects/pencil/pencil-web/target/classes started by fgh in /Users/fgh/IdeaProjects/pencil)
+[INFO ]2022-08-16 23:22:03.628 [main]WebApplication[651] | No active profile set, falling back to default profiles: default
+[WARN ]2022-08-16 23:22:03.798 [background-preinit]Jackson2ObjectMapperBuilder[127] | For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+[INFO ]2022-08-16 23:22:05.430 [main]TomcatWebServer[92] | Tomcat initialized with port(s): 8090 (http)
+[INFO ]2022-08-16 23:22:05.437 [main]Http11NioProtocol[173] | Initializing ProtocolHandler ["http-nio-8090"]
+[INFO ]2022-08-16 23:22:05.438 [main]StandardService[173] | Starting service [Tomcat]
+[INFO ]2022-08-16 23:22:05.438 [main]StandardEngine[173] | Starting Servlet engine: [Apache Tomcat/9.0.31]
+[INFO ]2022-08-16 23:22:05.513 [main][/][173] | Initializing Spring embedded WebApplicationContext
+[INFO ]2022-08-16 23:22:05.513 [main]ContextLoader[284] | Root WebApplicationContext: initialization completed in 1690 ms
+[WARN ]2022-08-16 23:22:05.911 [main]DefaultSqlInjector[56] | class site.zfei.entity.CdMember ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+[WARN ]2022-08-16 23:22:06.016 [main]DefaultSqlInjector[56] | class site.zfei.entity.CdToken ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+[WARN ]2022-08-16 23:22:06.541 [main]DefaultSqlInjector[56] | class site.zfei.entity.SysUser ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+[INFO ]2022-08-16 23:22:07.525 [main]ThreadPoolTaskExecutor[181] | Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ]2022-08-16 23:22:08.417 [main]Http11NioProtocol[173] | Starting ProtocolHandler ["http-nio-8090"]
+[INFO ]2022-08-16 23:22:08.456 [main]TomcatWebServer[204] | Tomcat started on port(s): 8090 (http) with context path ''
+[INFO ]2022-08-16 23:22:08.462 [main]WebApplication[61] | Started WebApplication in 5.299 seconds (JVM running for 6.349)
+[INFO ]2022-08-16 23:22:53.821 [http-nio-8090-exec-3][/][173] | Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ]2022-08-16 23:22:53.822 [http-nio-8090-exec-3]DispatcherServlet[525] | Initializing Servlet 'dispatcherServlet'
+[INFO ]2022-08-16 23:22:53.857 [http-nio-8090-exec-3]DispatcherServlet[547] | Completed initialization in 35 ms
+[INFO ]2022-08-16 23:22:54.069 [http-nio-8090-exec-3]HikariDataSource[110] | HikariPool-1 - Starting...
+[INFO ]2022-08-16 23:22:54.428 [http-nio-8090-exec-3]HikariDataSource[123] | HikariPool-1 - Start completed.
+[INFO ]2022-08-16 23:22:54.820 [http-nio-8090-exec-3]WebLogBean[205] | {"trace":"1660663373887-29600","uid":"","path":"/merchant/relate/cancel","clientIp":"127.0.0.1","code":200,"beginTime":1660663373887,"spend":728,"headers":{"authorization":[""],"content-length":["9"],"cookie":["JSESSIONID=40B27A17751C914EA45B5761A77C26B1"],"host":["127.0.0.1:8090"],"content-type":["application/json"],"connection":["keep-alive"],"accept-encoding":["gzip, deflate, br"],"user-agent":["apifox/1.0.0 (https://www.apifox.cn)"],"accept":["*/*"]},"params":{},"payload":"{\"id\":16}","result":{"code":200,"msg":"OK"},"props":{}}
+[INFO ]2022-08-16 23:22:54.865 [http-nio-8090-exec-3]WebLogBean[205] | {"trace":"1660663373887-29600","uid":"","path":"/merchant/relate/cancel","clientIp":"127.0.0.1","code":200,"beginTime":1660663373887,"spend":977,"headers":{"authorization":[""],"content-length":["9"],"cookie":["JSESSIONID=40B27A17751C914EA45B5761A77C26B1"],"host":["127.0.0.1:8090"],"content-type":["application/json"],"connection":["keep-alive"],"accept-encoding":["gzip, deflate, br"],"user-agent":["apifox/1.0.0 (https://www.apifox.cn)"],"accept":["*/*"]},"params":{},"payload":"{\"id\":16}","result":{"code":200,"msg":"OK"},"props":{}}
+[WARN ]2022-08-16 23:29:37.566 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s17ms).
+[WARN ]2022-08-16 23:34:16.380 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m38s381ms).
+[WARN ]2022-08-16 23:39:59.411 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s18ms).
+[WARN ]2022-08-16 23:45:12.423 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s12ms).
+[WARN ]2022-08-16 23:50:55.430 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s10ms).
+[WARN ]2022-08-16 23:56:38.449 [HikariPool-1 housekeeper]HikariPool[779] | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s16ms).
