@@ -4,3 +4,6 @@
 sfile.uploadPath=/root/data
 url访问路径
 sfile.visitPath=/sfile
+上传路径
+/at/file/upload/
+uploadFile=file
