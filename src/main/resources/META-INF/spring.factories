@@ -1,3 +1,4 @@
 # Auto Configure
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-site.zfei.file.FileConfig
+site.zfei.at.file.FileConfig,\
+site.zfei.at.coxt.LogConfig

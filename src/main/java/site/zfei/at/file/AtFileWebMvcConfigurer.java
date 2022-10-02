@@ -1,4 +1,4 @@
-package site.zfei.file;
+package site.zfei.at.file;
 
 import org.springframework.web.servlet.config.annotation.ResourceHandlerRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
