@@ -3,7 +3,7 @@ package site.zfei.at.coxt;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-import site.zfei.at.log.ContextFilter;
+import site.zfei.at.trace.ContextFilter;
 
 @Configuration
 public class LogConfig {

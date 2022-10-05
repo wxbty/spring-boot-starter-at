@@ -7,7 +7,7 @@ import org.springframework.web.context.request.RequestContextHolder;
 import org.springframework.web.context.request.ServletRequestAttributes;
 import org.springframework.web.util.ContentCachingRequestWrapper;
 import org.springframework.web.util.WebUtils;
-import site.zfei.at.log.WebLogBean;
+import site.zfei.at.trace.WebLogBean;
 import site.zfei.at.util.IPUntils;
 
 import javax.servlet.http.HttpServletRequest;
