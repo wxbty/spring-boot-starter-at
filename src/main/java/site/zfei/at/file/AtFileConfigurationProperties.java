@@ -4,7 +4,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
 
 @Component
-@ConfigurationProperties(prefix = "sfile")
+@ConfigurationProperties(prefix = "at.sfile")
 public class AtFileConfigurationProperties {
 
     private String uploadPath = "/../../sdata";

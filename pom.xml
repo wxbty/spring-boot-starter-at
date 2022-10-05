@@ -6,7 +6,7 @@
 
     <groupId>site.zfei</groupId>
     <artifactId>spring-boot-starter-at</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
 
     <parent>
         <groupId>org.sonatype.oss</groupId>
@@ -103,7 +103,6 @@
                         </goals>
                         <configuration>
                             <keyname>0xD7922CA3</keyname>
-                            <passphraseServerId>0xD7922CA3</passphraseServerId>
                         </configuration>
                     </execution>
                 </executions>
