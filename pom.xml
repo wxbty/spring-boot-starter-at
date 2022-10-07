@@ -6,7 +6,7 @@
 
     <groupId>site.zfei</groupId>
     <artifactId>spring-boot-starter-at</artifactId>
-    <version>1.0.3-SNAPSHOT</version>
+    <version>1.0.3</version>
 
     <parent>
         <groupId>org.sonatype.oss</groupId>
@@ -52,7 +52,6 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
             <version>2.2.5.RELEASE</version>
-            <scope>provided</scope>
         </dependency>
 
         <dependency>

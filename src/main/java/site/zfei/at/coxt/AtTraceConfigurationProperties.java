@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
 @ConfigurationProperties(prefix = "at.trace")
 public class AtTraceConfigurationProperties {
 
-    private String serverHost;
     private boolean enable;
-
+    private String serverHost;
+    private String excludePath;
 }

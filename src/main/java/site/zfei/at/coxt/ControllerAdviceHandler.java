@@ -1,9 +1,16 @@
 package site.zfei.at.coxt;
 
+import cn.hutool.db.PageResult;
 import lombok.extern.slf4j.Slf4j;
+import org.springframework.core.MethodParameter;
 import org.springframework.http.HttpStatus;
+import org.springframework.http.MediaType;
+import org.springframework.http.converter.HttpMessageConverter;
 import org.springframework.http.converter.HttpMessageNotReadableException;
 import org.springframework.http.converter.HttpMessageNotWritableException;
+import org.springframework.http.server.ServerHttpRequest;
+import org.springframework.http.server.ServerHttpResponse;
+import org.springframework.util.StringUtils;
 import org.springframework.validation.BindingResult;
 import org.springframework.validation.FieldError;
 import org.springframework.validation.ObjectError;
@@ -14,6 +21,7 @@ import org.springframework.web.bind.MethodArgumentNotValidException;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
+import org.springframework.web.servlet.mvc.method.annotation.ResponseBodyAdvice;
 import site.zfei.at.trace.WebLogBean;
 
 import java.util.List;
@@ -23,7 +31,13 @@ import java.util.List;
  */
 @Slf4j
 @RestControllerAdvice
-public class ControllerAdviceHandler {
+public class ControllerAdviceHandler implements ResponseBodyAdvice<Object> {
+
+    final AtTraceConfigurationProperties properties;
+
+    public ControllerAdviceHandler(AtTraceConfigurationProperties properties) {
+        this.properties = properties;
+    }
 
     @ExceptionHandler(HttpMessageNotReadableException.class)
     @ResponseStatus(HttpStatus.BAD_REQUEST)
@@ -99,5 +113,44 @@ public class ControllerAdviceHandler {
         logBean.setCode(status.value());
         logBean.setError(ex.getMessage());
         return new Result(status.value(), status.getReasonPhrase());
+    }
+
+    @Override
+    public boolean supports(MethodParameter methodParameter, Class<? extends HttpMessageConverter<?>> aClass) {
+        return true;
+    }
+
+    @Override
+    public Object beforeBodyWrite(Object result, MethodParameter methodParameter, MediaType mediaType, Class<? extends HttpMessageConverter<?>> aClass, ServerHttpRequest serverHttpRequest, ServerHttpResponse serverHttpResponse) {
+        if (isExclude(serverHttpRequest)) {
+            return result;
+        }
+
+        if (result instanceof PageResult || result instanceof Result || result instanceof String) {
+            return result;
+        } else {
+            return Result.of(result);
+        }
+    }
+
+    private final String[] exclude_paths = new String[]{"v2/api-docs", "swagger", "error"};
+
+    private boolean isExclude(ServerHttpRequest request) {
+
+        final String url = request.getURI().toString();
+        for (String path : exclude_paths) {
+            if (url.contains(path)) {
+                return true;
+            }
+        }
+        if (!StringUtils.isEmpty(properties.getExcludePath())) {
+            String[] configExcludePaths = properties.getExcludePath().split(",");
+            for (String path : configExcludePaths) {
+                if (url.contains(path)) {
+                    return true;
+                }
+            }
+        }
+        return false;
     }
 }

@@ -35,7 +35,7 @@ public class LogConfig {
 
     @Bean
     public ControllerAdviceHandler controllerAdviceHandler() {
-        return new ControllerAdviceHandler();
+        return new ControllerAdviceHandler(properties);
     }
 
 }
