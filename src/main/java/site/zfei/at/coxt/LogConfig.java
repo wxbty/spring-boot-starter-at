@@ -33,4 +33,9 @@ public class LogConfig {
         return new AtAdvisor(this.properties.getServerHost());
     }
 
+    @Bean
+    public ControllerAdviceHandler controllerAdviceHandler() {
+        return new ControllerAdviceHandler();
+    }
+
 }

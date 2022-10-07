@@ -6,7 +6,7 @@
 
     <groupId>site.zfei</groupId>
     <artifactId>spring-boot-starter-at</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.3-SNAPSHOT</version>
 
     <parent>
         <groupId>org.sonatype.oss</groupId>
@@ -101,9 +101,6 @@
                         <goals>
                             <goal>sign</goal>
                         </goals>
-                        <configuration>
-                            <keyname>0xD7922CA3</keyname>
-                        </configuration>
                     </execution>
                 </executions>
             </plugin>
@@ -111,20 +108,21 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-javadoc-plugin</artifactId>
-                <version>2.9.1</version>
+                <version>3.2.0</version>
                 <executions>
                     <execution>
                         <id>attach-javadocs</id>
+                        <phase>package</phase>
                         <goals>
                             <goal>jar</goal>
                         </goals>
+                        <configuration>
+                            <additionalOptions>
+                                <additionalOption>-Xdoclint:none</additionalOption>
+                            </additionalOptions>
+                        </configuration>
                     </execution>
                 </executions>
-                <configuration>
-                    <javadocExecutable>
-                        /Users/fgh/Library/Java/JavaVirtualMachines/corretto-1.8.0_322/Contents/Home/bin/javadoc
-                    </javadocExecutable>
-                </configuration>
             </plugin>
 
             <plugin>
