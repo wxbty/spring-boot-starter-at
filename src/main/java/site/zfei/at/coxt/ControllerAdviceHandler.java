@@ -1,6 +1,5 @@
 package site.zfei.at.coxt;
 
-import cn.hutool.db.PageResult;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.core.MethodParameter;
 import org.springframework.http.HttpStatus;
