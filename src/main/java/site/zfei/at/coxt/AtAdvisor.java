@@ -42,7 +42,7 @@ public class AtAdvisor extends WebAdvisor {
     @Override
     protected void postAfter(Object result, ProceedingJoinPoint jp, WebLogBean logBean) {
         Map<String, AtHandlerInterceptor> beanMap = applicationContext.getBeansOfType(AtHandlerInterceptor.class);
-        beanMap.values().stream().sorted((a,b)->b.order()-a.order()).collect(Collectors.toList()).forEach(h -> h.postAfter(result, jp, logBean));
+        beanMap.values().stream().sorted(Comparator.comparingInt(AtHandlerInterceptor::order)).collect(Collectors.toList()).forEach(h -> h.postAfter(result, jp, logBean));
     }
 
     @Override

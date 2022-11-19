@@ -16,9 +16,6 @@ public class LogConfig {
 
     private final AtTraceConfigurationProperties properties;
 
-    @Autowired
-    private ApplicationContext applicationContext;
-
     public LogConfig(AtTraceConfigurationProperties properties) {
         this.properties = properties;
     }
@@ -35,7 +32,7 @@ public class LogConfig {
 
     @Bean
     @ConditionalOnExpression("${at.trace.enable:true}")
-    public AtAdvisor webAdvisor() {
+    public AtAdvisor webAdvisor(ApplicationContext applicationContext) {
         return new AtAdvisor(applicationContext, this.properties.getServerHost());
     }
 
