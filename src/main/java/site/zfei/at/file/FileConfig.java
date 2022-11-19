@@ -24,4 +24,6 @@ public class FileConfig {
     public FileUploadController fileUploadController() {
         return new FileUploadController();
     }
+
+
 }

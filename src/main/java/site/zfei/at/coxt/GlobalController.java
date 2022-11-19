@@ -27,4 +27,11 @@ public class GlobalController {
         Global.printResult = open;
         return "success set result open =" + open;
     }
+
+    @GetMapping("/curl/path/exclude")
+    public String exclude(String path) {
+
+        Global.excludeCurlPaths.add(path);
+        return "success exclude curl path =" + path;
+    }
 }

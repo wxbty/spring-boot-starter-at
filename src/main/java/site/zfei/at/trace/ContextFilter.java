@@ -19,8 +19,6 @@ import javax.servlet.http.HttpServletResponse;
 @Slf4j
 public class ContextFilter extends OncePerRequestFilter {
 
-
-
     @Override
     protected void doFilterInternal(HttpServletRequest request, HttpServletResponse response, FilterChain filterChain) {
         boolean isFirstRequest = !isAsyncDispatch(request);

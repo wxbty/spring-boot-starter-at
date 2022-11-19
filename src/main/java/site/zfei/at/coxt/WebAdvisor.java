@@ -37,7 +37,7 @@ public abstract class WebAdvisor {
         }
         logBean.setPayload(body);
 
-        if (Global.printCurl) {
+        if (Global.isPrintCurl(request.getRequestURI())) {
             log.info(IPUntils.getCurl(request, configHost));
         }
     }
