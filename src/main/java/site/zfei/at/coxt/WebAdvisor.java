@@ -22,10 +22,26 @@ public abstract class WebAdvisor {
 
     protected Object around(ProceedingJoinPoint jp) throws Throwable {
         WebLogBean logBean = WebLogBean.getLogBean();
+
         before(logBean);
+
+        postBefore(jp, logBean);
+
         Object result = jp.proceed();
+
+        postAfter(result, jp, logBean);
+
         after(logBean, result);
+
         return result;
+    }
+
+    protected void postBefore(ProceedingJoinPoint jp, WebLogBean logBean) {
+
+    }
+
+    protected void postAfter(Object result, ProceedingJoinPoint jp, WebLogBean logBean) {
+
     }
 
     protected void before(WebLogBean logBean) {
