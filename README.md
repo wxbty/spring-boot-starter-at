@@ -51,7 +51,12 @@
   请求异常，统一封装
 
 
+##### 1.0.4.1
 
+- bug修复
+- swagger自动配置
+- AtAdvisor支持自定义扩展
+  通过AtHandlerInterceptor，自定义advisor前后操作
 
 
 
