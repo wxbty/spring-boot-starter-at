@@ -43,6 +43,7 @@ public class ContextFilter extends OncePerRequestFilter {
     }
 
     protected void beforeRequest(HttpServletRequest request) {
+        Context.ROOT.fork().attach();
         WebLogBean.start();
         WebLogBean logBean = WebLogBean.getLogBean();
         logBean.setTrace(Trace.start(logBean.getBeginTime()));
