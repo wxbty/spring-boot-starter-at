@@ -40,7 +40,13 @@ public class Context {
         this.attachments = new LinkedHashMap<>();
     }
 
+    public Context fork() {
+        return new Context(this);
+    }
 
+    public void attach() {
+        LOCAL.set(this);
+    }
 
 
     public Context getParent() {
