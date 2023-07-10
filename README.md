@@ -58,6 +58,12 @@
 - AtAdvisor支持自定义扩展
   通过AtHandlerInterceptor，自定义advisor前后操作
 
+#### 引入依赖
+<dependency>
+    <groupId>site.zfei</groupId>
+    <artifactId>spring-boot-starter-at</artifactId>
+    <version>1.0.4.1</version>
+</dependency>
 
 
 
