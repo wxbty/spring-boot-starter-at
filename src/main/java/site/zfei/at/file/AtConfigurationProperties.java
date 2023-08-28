@@ -1,29 +1,15 @@
 package site.zfei.at.file;
 
+import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
 
+@Data
 @Component
 @ConfigurationProperties(prefix = "at.common")
 public class AtConfigurationProperties {
 
-    private String uploadPath = "/../../sdata";
-    private String visitPath = "/sfile";
+    private Boolean paramCheck;
 
 
-    public String getUploadPath() {
-        return uploadPath;
-    }
-
-    public void setUploadPath(String uploadPath) {
-        this.uploadPath = uploadPath;
-    }
-
-    public String getVisitPath() {
-        return visitPath;
-    }
-
-    public void setVisitPath(String visitPath) {
-        this.visitPath = visitPath;
-    }
 }

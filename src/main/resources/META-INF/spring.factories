@@ -2,4 +2,5 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
 site.zfei.at.file.FileConfig,\
 site.zfei.at.fox.SwaggerConfig,\
+site.zfei.at.common.CommonConfig,\
 site.zfei.at.coxt.LogConfig
