@@ -67,6 +67,14 @@
 </dependency>
 ```
 
+##### 1.0.4.3
+增加一些通用的bean，如：
+Beans：copy bean，封装hutool的bean copy，自动配置忽略null值
+OnlyIdRequest：只有一个id的参数
+
+##### 1.0.4.4
+PageAble：分页，不使用page命名，避免和其他撞名，参数继承PageAble，自动使用分页插件
+
 
 
 
