@@ -127,6 +127,20 @@ public class ControllerAdviceHandler implements ResponseBodyAdvice<Object> {
 
         if (result instanceof PageResult || result instanceof Result || result instanceof String) {
             return result;
+        } else if (StringUtils.hasText(properties.getExcludeClass())) {
+            boolean isExclude;
+            try {
+                Class<?> forName = Class.forName(properties.getExcludeClass());
+                isExclude = forName.isInstance(result);
+            } catch (ClassNotFoundException ignored) {
+                log.warn("excludeClass not found: {}", properties.getExcludeClass());
+                isExclude = false;
+            }
+            if (isExclude) {
+                return result;
+            } else {
+                return Result.of(result);
+            }
         } else {
             return Result.of(result);
         }

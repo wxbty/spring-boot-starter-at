@@ -12,4 +12,5 @@ public class AtTraceConfigurationProperties {
     private boolean enable;
     private String serverHost;
     private String excludePath;
+    private String excludeClass;
 }
