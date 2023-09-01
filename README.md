@@ -75,6 +75,9 @@ OnlyIdRequest：只有一个id的参数
 ##### 1.0.4.4
 PageAble：分页，不使用page命名，避免和其他撞名，参数继承PageAble，自动使用分页插件
 
+##### 1.0.4.5
+优化cors，放开所有限制
+
 
 
 
