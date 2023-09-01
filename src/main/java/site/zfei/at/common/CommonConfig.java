@@ -27,9 +27,8 @@ public class CommonConfig {
             public void addCorsMappings(CorsRegistry registry) {
                 registry.addMapping("/**")
                         .allowedOrigins("*") // 允许跨域的源，这里设置为允许所有源
-                        .allowedMethods("*") // 允许的请求方法，例如 GET、POST
+                        .allowedMethods("GET","POST")
                         .allowedHeaders("*") // 允许的请求头，例如 Content-Type、Authorization
-                        .exposedHeaders("*") // 允许暴露的响应头
                         .allowCredentials(true) // 是否允许发送身份验证信息（例如cookies）到服务器
                         .maxAge(3600); // 预检请求的有效期，单位为秒
             }
