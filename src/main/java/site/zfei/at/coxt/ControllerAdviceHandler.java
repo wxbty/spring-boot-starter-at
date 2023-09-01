@@ -156,7 +156,7 @@ public class ControllerAdviceHandler implements ResponseBodyAdvice<Object> {
                 return true;
             }
         }
-        if (!StringUtils.isEmpty(properties.getExcludePath())) {
+        if (StringUtils.hasText(properties.getExcludePath())) {
             String[] configExcludePaths = properties.getExcludePath().split(",");
             for (String path : configExcludePaths) {
                 if (url.contains(path)) {
